@@ -1,0 +1,1457 @@
+id,title,serial,manufacturer_name,frame_model,year,frame_colors,stolen,stolen_location,date_stolen
+65409,2016 Cannondale CAAD10,CM45626,Cannondale,CAAD10,2016,[u'Black'],True,"San Francisco,94116",2015-12-31
+65610,2013 Globe Daily 2 step,wsbc606089993h,Globe,Daily 2 step,2013,[u'Black'],True,"San Francisco,94102",2015-12-31
+66319,Specialized 54,wsbc602367103h,Specialized,54,,[u'Silver or Gray'],True,"Berkeley,94720",2015-12-31
+65871,2012 Giant Escape 0,C41F7920,Giant,Escape 0,2012,[u'White'],True,"Oakland,94612",2015-12-31
+65350,2016 Specialized Vita Spt Disc ST,WSBC602084665K,Specialized,Vita Spt Disc ST,2016,[u'Silver or Gray'],True,Oakland,2015-12-31
+60960,Diamondback Outlook Trail XC DB78 step-through,U8D0C11026,Diamondback,Outlook Trail XC DB78 step-through,,[u'Purple'],True,"San Francisco,CA,94110",2015-12-30
+65303,2015 Yuba cargo cargo bike (rear storage),absent,Yuba,cargo,2015,[u'Orange'],True,"San Francisco,94112",2015-12-29
+65291,2013 Soma Doublecross,TSFCKW0004,Soma,Doublecross,2013,[u'Black'],True,"San Francisco,94107",2015-12-29
+65293,2013 Cannondale,absent,Cannondale,,2013,[u'Silver or Gray'],True,"Oakland,94609",2015-12-29
+65314,Unknown,absent,Unknown,,,[u'Blue'],True,"San Francisco,94109",2015-12-29
+65282,2012 Trek 2.1 Apex H2 (Compact),WTU014C3381G,Trek,2.1 Apex H2 (Compact),2012,[u'Silver or Gray'],True,"San Francisco,94115",2015-12-28
+65212,2007 Specialized 55 cm,P7HBF0111,Specialized,55 cm,2007,[u'Silver or Gray'],True,"San Francisco,94110",2015-12-28
+65198,Giant,absent,Giant,,,"[u'Black', u'Blue']",True,"San Francisco,94117",2015-12-28
+68225,Ascent,absent,Ascent,,,[u'White'],True,"San Francisco,94123",2015-12-27
+65203,Surly Cross-Check,M15032111,Surly,Cross-Check,,[u'Black'],True,"San Francisco,94103",2015-12-27
+65459,2016 Specialized Roubiax SL4 udi2,wsbc615012232k,Specialized,Roubiax SL4 udi2,2016,[u'Black'],True,"Walnut Creek,CA,94596",2015-12-26
+65155,2015 Trek 2.1 alpha,absent,Trek,2.1 alpha ,2015,[u'Black'],True,"San Francisco,95104",2015-12-26
+65066,2015 Falconer Road,absent,Falconer,Road,2015,[u'Blue'],True,"San Francisco,CA,94102",2015-12-24
+65190,"2015 Specialized Sirrus (custom color, built as a cross bike)",absent,Specialized,"Sirrus (custom color, built as a cross bike)",2015,"[u'Black', u'Pink', u'Blue']",True,"San Francisco,94102",2015-12-24
+65250,2007 Trek 1000,absent,Trek,1000,2007,[u'Black'],True,"Oakland,94619",2015-12-24
+65054,2014 KHS Bicycles Flite 223,absent,KHS Bicycles,Flite 223,2014,[u'Silver or Gray'],True,"Oakland,94612",2015-12-23
+65500,2015 Trek A2 15 7.1 FX,SWTU092C1705J,Trek,A2 15 7.1 FX,2015,[u'Silver or Gray'],True,"San Francisco,94110",2015-12-22
+65841,2011 Trek 7000,WTU143C2484G,Trek,7000,2011,[u'Silver or Gray'],True,"Berkeley,94704",2015-12-22
+64900,2012 SCOTT Metrix 40,absent,SCOTT,Metrix 40,2012,"[u'Black', u'Green']",True,"San Francisco,94110",2015-12-20
+65000,1997 Specialized Hard Rock,PN602783,Specialized,Hard Rock,1997,[u'Green'],True,"Oakland,94602",2015-12-19
+65686,2015 Diamondback Insight 1,DAU14H007433,Diamondback,Insight 1,2015,"[u'White', u'Blue']",True,"San Francisco,CA,94110",2015-12-19
+64891,2014 Opus alegria 3.0,E213C013F2371,Opus,alegria 3.0,2014,"[u'Black', u'Blue', u'White']",True,"Market St.,94103",2015-12-19
+64796,2008 Cannondale System SIx,S070873,Cannondale,System SIx,2008,[u'Black'],True,"San Francisco,94118",2015-12-19
+64998,Kona Hula,aj30150376,Kona,Hula,,[u'Orange'],True,"Oakland,94602",2015-12-19
+64892,2015 Giant Tempt 1,GC481710,Giant,Tempt 1,2015,"[u'Purple', u'Stickers tape or other cover-up']",True,"Fairfax,CA,94930",2015-12-19
+64799,Shogun,absent,Shogun,,,[u'Silver or Gray'],True,"Oakland,94611",2015-12-19
+64881,2014 Trek 7.3,wtu024c0061j,Trek,7.3,2014,[u'White'],True,"Oakland,94607",2015-12-19
+68557,2007 Klein Bikes Attitude XV,WL75100173,Klein Bikes,Attitude XV,2007,[u'Blue'],True,"Emeryville,94608",2015-12-19
+64749,2011 Lynskey R230,15195,Lynskey,R230,2011,[u'Silver or Gray'],True,"San Francisco,94114",2015-12-18
+64777,2004 Cube LTD Road,absent,Cube,LTD Road,2004,[u'Silver or Gray'],True,"El Cerrito,94530",2015-12-18
+69966,2016 Specialized tarmac,WSBC604116562K,Specialized,tarmac,2016,[u'Black'],True,"San Francisco,94133",2015-12-18
+65077,2014 SCOTT Spark 720,absent,SCOTT,Spark 720,2014,[u'Black'],True,"San Francisco,94103",2015-12-17
+33382,2013 Mission Bicycles VALEN-S,M13011077,Mission Bicycles,VALEN-S,2013,[u'Silver or Gray'],True,"San Francisco,CA,94114",2015-12-17
+64662,Torelli Steel frame,o1062T,Torelli,Steel frame,,[u'Yellow or Gold'],True,"San Francisco,94102",2015-12-16
+64683,2013 Jamis Satellite,U128U18614,Jamis,Satellite,2013,[u'Blue'],True,"San Francisco,94114",2015-12-16
+64628,Quintana Roo Superform,absent,Quintana Roo,Superform,,[u'White'],True,"San Francisco,94117",2015-12-15
+2295,2011 PUBLIC bikes D8,WE0000588,PUBLIC bikes,D8,2011,[u'Blue'],True,"Oakland,CA,94612",2015-12-15
+64714,2011 Trek 7.3 FX,WTU143C0554F,Trek,7.3 FX,2011,[u'Red'],True,San Francisco,2015-12-15
+64629,2005 Bianchi FG Lite,absent,Bianchi,FG Lite,2005,"[u'White', u'Teal']",True,"Oakland,94612",2015-12-14
+64623,2012 Giant Revel 2 W (Black/Blue),C42L1922,Giant,Revel 2 W (Black/Blue),2012,[u'Blue'],True,"Alameda,94501",2015-12-14
+64621,2014 Surly Cross-Check,M14070126,Surly,Cross-Check,2014,[u'Orange'],True,"Oakland,94608",2015-12-14
+78467,Mini Cooper 80912298370,absent,Mini Cooper,80912298370,,[u'Green'],True,"San Francisco,CA,94103",2015-12-14
+64575,2015 Specialized Diverge,WsBC602252945J,Specialized,Diverge,2015,[u'Black'],True,"San Francisco,CA,94107",2015-12-14
+64618,2014 Giant Bella,674J5475,Giant,Bella,2014,"[u'White', u'Purple']",True,"San Francisco,94122",2015-12-14
+64588,2013 Fuji Gran Fondo 2.1C,absent,Fuji,Gran Fondo 2.1C,2013,[u'Black'],True,"San Francisco,94102",2015-12-14
+64587,2015 Trek Domane 58cm,WTU 273 T 0010 K,Trek,Domane 58cm,2015,[u'White'],True,"San Francisco,94105",2015-12-14
+64383,2011 Felt Z100,absent,Felt,Z100,2011,[u'White'],True,"San Francisco,94104",2015-12-13
+64384,2009 Giant TCR Alliance,0088-02883,Giant,TCR Alliance,2009,[u'Black'],True,"Berkeley,94703",2015-12-12
+64473,2012 Jamis Aurora Elite,WE2H00263,Jamis,Aurora Elite,2012,[u'Black'],True,"San Francisco,94110",2015-12-12
+64379,2015 Handsome Cycles Fredward SS,PHA12120191,Handsome Cycles,Fredward SS,2015,[u'Black'],True,"Oakland,94610",2015-12-12
+64520,Cilo,absent,Cilo,,,"[u'Blue', u'White']",True,"Berkeley,94720",2015-12-12
+64378,2015 Specialized Vita Sport,WSBC602069557K,Specialized,Vita Sport,2015,[u'Blue'],True,"San Francisco,CA,94110",2015-12-11
+64557,2013 Giant Defy Composite 1,GF2C357,Giant,Defy Composite 1,2013,[u'White'],True,"San Francisco,94123",2015-12-11
+64338,Sterling Bicycle Co.,absent,Sterling Bicycle Co.,,,[u'Blue'],True,"San Francisco,94110",2015-12-11
+64370,2014 Cannondale Caad10 3 Ultegra,absent,Cannondale,Caad10 3 Ultegra,2014,[u'Silver or Gray'],True,"San Francisco,94103",2015-12-11
+64348,2014 Kona DEW PLUS,AJ30136373,Kona,DEW PLUS,2014,[u'Brown'],True,"Oakland,94607",2015-12-11
+64341,2011 Windsor,absent,Windsor,,2011,[u'White'],True,"San Francisco,CA,94102",2015-12-11
+64316,1992 Nishiki Olympic,absent,Nishiki,Olympic,1992,"[u'Blue', u'White']",True,"San Francisco,94102",2015-12-10
+64307,2013 Salsa Vaya 3,m12051081,Salsa,Vaya 3,2013,[u'Red'],True,"San Francisco,94131",2015-12-10
+64268,Fuji Junior,75C62926,Fuji,Junior,,[u'Red'],True,"San Francisco,CA,94110-1515",2015-12-09
+64266,2014 Giant Escape 3,CC3J8100,Giant,Escape 3,2014,[u'Black'],True,"San Francisco,94110",2015-12-09
+64264,2013 Jamis Nova Sport,absent,Jamis,Nova Sport,2013,[u'Black'],True,"Oakland,94612",2015-12-09
+64310,2000 Klein Bikes Quantum Race,WTU129069R,Klein Bikes,Quantum Race,2000,[u'Silver or Gray'],True,"San Francisco,94103",2015-12-08
+64173,2015 Raleigh Misceo 3.0,32-00-310,Raleigh,Misceo 3.0,2015,[u'Black'],True,"San Francisco,CA,94110",2015-12-08
+64240,1986 Peugeot PGN 10/PH 501?,B51130640,Peugeot,PGN 10/PH 501?,1986,"[u'Red', u'Yellow or Gold']",True,"San Francisco,94103",2015-12-08
+64280,1975 Peugeot Reynolds 531,absent,Peugeot,Reynolds 531,1975,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-12-08
+64332,2014 Surly Long Haul Trucker,M11091864,Surly,Long Haul Trucker,2014,[u'Black'],True,"San Francisco,94110",2015-12-07
+64161,2002 Bianchi,absent,Bianchi,,2002,"[u'Teal', u'Yellow or Gold']",True,"San Francisco,94109",2015-12-07
+64125,1986 Shogun,absent,Shogun,,1986,[u'Black'],True,"Oakland,94608",2015-12-07
+64159,2007 Swobo OTIS,H7AZ53574,Swobo,OTIS,2007,[u'Black'],True,"San Francisco,CA,94103",2015-12-07
+64149,1963 Schwinn Hollywood,J362547,Schwinn,Hollywood,1963,[u'Teal'],True,"Alameda,94501",2015-12-07
+64156,2015 Fuji touring,5WBD035L1083L,Fuji,touring,2015,[u'Green'],True,"Berkeley,94703",2015-12-07
+64155,2015 Strida,M141001605,Strida,,2015,[u'Black'],True,"San Francisco,94103",2015-12-07
+64108,2009 Cervélo R3,absent,Cervélo,R3,2009,[u'White'],True,Walnut Creek,2015-12-07
+64148,2015 Cannondale CAADX 22 Rival,CM40480,Cannondale,CAADX 22 Rival,2015,[u'Silver or Gray'],True,"San Francisco,94111",2015-12-07
+64139,2015 Vessel 668,none,Vessel,668,2015,[u'Black'],True,"Oakland,94608",2015-12-07
+64064,2000 Trek 5200 OCLV,WTUJ010772R TB1 0700,Trek,5200 OCLV,2000,[u'Blue'],True,"San Francisco,94102",2015-12-06
+64084,1982 Fuji Road Bike,FJ117821,Fuji,Road Bike,1982,[u'Black'],True,San Francisco,2015-12-06
+64067,Parkpre XComp SE,F4039442,Parkpre,XComp SE,,[u'Silver or Gray'],True,"Berkeley,94704",2015-12-06
+64143,2010 Raleigh RX 1.0,absent,Raleigh,RX 1.0,2010,[u'Silver or Gray'],True,"San Francisco,94107",2015-12-05
+64101,1992 Bianchi Nyala,H2A20221,Bianchi,Nyala,1992,"[u'Red', u'Silver or Gray']",True,"San Francisco,CA,94110-3322",2015-12-05
+64015,Giant Rapid 3,GU3E1143,Giant,Rapid 3,,[u'Black'],True,"Berkeley,94703",2015-12-05
+64102,Cannondale M-800 (I think),absent,Cannondale,M-800 (I think),,"[u'Green', u'Black']",True,"Oakland,94609",2015-12-05
+64075,2014 Surly Cross-Check,absent,Surly,Cross-Check,2014,[u'Black'],True,"San Francisco,94103",2015-12-05
+63952,2009 Trek Madone 4.5,WTU297CT024D,Trek,Madone 4.5,2009,[u'Blue'],True,"San Francisco,94000",2015-12-05
+63964,2009 Bianchi Nirone,30177039,Bianchi,Nirone,2009,[u'Teal'],True,"San Francisco,94110",2015-12-05
+55875,2015 Fuji Sportif,wbd232l0077k,Fuji,Sportif,2015,[u'Black'],True,"Oakland,CA,94608",2015-12-05
+64020,2014 Novara Forza,absent,Novara,Forza,2014,[u'Silver or Gray'],True,"Alameda,94501",2015-12-05
+64066,1988 Specialized hybrid,absent,Specialized,hybrid,1988,"[u'Black', u'Yellow or Gold']",True,"San Francisco,CA,94110",2015-12-05
+63953,Specialized Dolce,absent,Specialized,Dolce,,[u'Silver or Gray'],True,"San Francisco,94122",2015-12-04
+64154,2004 Bianchi Giro,absent,Bianchi,Giro,2004,"[u'Teal', u'Blue']",True,"Berkeley,CA,94709",2015-12-04
+30073,Opus Mondano 2.0,ACF13L004764,Opus,Mondano 2.0,,[u'White'],True,"Oakland,94618",2015-12-04
+64134,2011 SE Bikes PK ripper floval flyer 24',absent,SE Bikes,PK ripper floval flyer 24',2011,"[u'Black', u'Yellow or Gold']",True,"San Francisco,CA,94111",2015-12-04
+63922,"2014 Specialized Specialized A1 Premium Aluminum, fully-manipulated tubing w/ smooth welds, 1-1/8"" lower bearing",absent,Specialized,"Specialized A1 Premium Aluminum, fully-manipulated tubing w/ smooth welds, 1-1/8"" lower bearing",2014,[u'Red'],True,"San Leandro,CA,94578",2015-12-04
+64079,1980 Bianchi 54 cm,absent,Bianchi,54 cm,1980,[u'Red'],True,"San Francisco,94102",2015-12-04
+63926,2015 Santa Cruz Bronson,PS1405EM1648,Santa Cruz,Bronson,2015,[u'Black'],True,"San Francisco,94109",2015-12-04
+63953,Specialized Dolce,absent,Specialized,Dolce,,[u'Silver or Gray'],True,"San Francisco,94122",2015-12-04
+63942,Trek 970 SHX Single Track; converted into moped,absent,Trek,970 SHX Single Track; converted into moped,,[u'Silver or Gray'],True,"San Francisco,94102",2015-12-04
+63951,1993 Trek 2100,absent,Trek,2100,1993,"[u'Black', u'Silver or Gray']",True,"San Francisco,94114",2015-12-03
+64142,Trek Mountain track 850,absent,Trek,Mountain track 850,,[u'Green'],True,"San Francisco,94103",2015-12-03
+63906,Trek 1000,tbt0405 ca4ar608,Trek,1000,,[u'Silver or Gray'],True,"San Francisco,94103",2015-12-03
+64321,Cannondale Quick 2,BM44474,Cannondale,Quick 2,,[u'White'],True,Oakland,2015-12-03
+64000,Fuji Declaration,WBD352L1890K,Fuji,Declaration,,[u'Black'],True,San Francisco,2015-12-03
+63833,2003 Fuji Finest,absent,Fuji,Finest,2003,"[u'Silver or Gray', u'Red', u'Black']",True,"San Francisco,94103",2015-12-03
+64309,2011 Radon TCS 9.0 Disc Lady,W0W 01736F S0211T,Radon,TCS 9.0 Disc Lady,2011,[u'White'],True,"San Francisco,94133",2015-12-02
+64308,"2009 Radon TCS 9.2 TR, 55cm",213302 0010 59032122 0509,Radon,"TCS 9.2 TR, 55cm",2009,[u'Black'],True,"San Francisco,94133",2015-12-02
+63791,2016 Specialized Sirrus,WSBC602088965K,Specialized,Sirrus,2016,[u'Blue'],True,San Francisco,2015-12-01
+63992,2012 Giant Giant Defy,EN14781,Giant,Giant Defy,2012,[u'Black'],True,"San Francisco,94158",2015-12-01
+63839,2016 Masi CX Comp,30W5G00160,Masi,CX Comp,2016,[u'Orange'],True,"San Francisco,94114",2015-12-01
+63738,Vitus,absent,Vitus,,,[u'Silver or Gray'],True,"Oakland,94609",2015-12-01
+63698,2015 Cervélo r2,SNR2D14H00144,Cervélo,r2,2015,[u'White'],True,"San Francisco,94115",2015-11-30
+63708,2015 Specialized Sirrus Sport Disc 15,C6023729835,Specialized,Sirrus Sport Disc 15,2015,[u'Black'],True,"San Francisco,94107",2015-11-30
+63812,2015 Surly Straggler,M13128131,Surly,Straggler,2015,[u'Black'],True,"San Francisco,94103",2015-11-30
+63910,2015 Giant Escape 2 SML BRZ,C4AL0167,Giant,Escape 2 SML BRZ,2015,[u'Silver or Gray'],True,"San Francisco,94105",2015-11-30
+59831,Schwinn Fsomething,SF964721,Schwinn,Fsomething,,[u'Blue'],True,"San Francisco,CA,94103",2015-11-30
+63699,2013 Surly Cross-Check,M12090767,Surly,Cross-Check,2013,[u'Black'],True,"San Francisco,94103",2015-11-29
+63727,Vitus Carbon 3,absent,Vitus,Carbon 3,,[u'Black'],True,Berkeley,2015-11-29
+63640,2011 Raleigh,UO7KI5238,Raleigh,,2011,[u'Green'],True,"Walnut Creek,94597",2015-11-29
+63597,2014 Bianchi Lupo,NX0008321H,Bianchi,Lupo,2014,[u'Silver or Gray'],True,"San Francisco,94109",2015-11-28
+63613,2015 Specialized Crosstrail Disc,WSBC606201856J,Specialized,Crosstrail Disc,2015,[u'Green'],True,"Berkeley,94703",2015-11-28
+60190,Schwinn Tourist,SNMNG13A52741,Schwinn,Tourist,,[u'Silver or Gray'],True,"San Francisco,CA,94102",2015-11-28
+63607,SR road bike,absent,SR,road bike,,[u'White'],True,"San Francisco,94114",2015-11-28
+63605,Bertoni road bike,absent,Bertoni,road bike,,[u'White'],True,"San Francisco,94114",2015-11-28
+63544,2011 Felt F95,S1HT13919,Felt,F95 ,2011,"[u'Silver or Gray', u'Red']",True,"Alameda,94501",2015-11-28
+63557,2015 Linus Linus Roadster Sport 3 speed,L3E1001731,Linus,Linus Roadster Sport 3 speed,2015,[u'Orange'],True,"San Francisco,94110",2015-11-27
+63530,2013 Specialized Vita,WSBC602169491H,Specialized,Vita,2013,[u'Silver or Gray'],True,"San Francisco,CA,94133",2015-11-27
+63495,2015 Specialized Roubaix Expert SL4,wsbc604102332H,Specialized,Roubaix Expert SL4,2015,[u'Red'],True,"San Francisco,CA,94123",2015-11-26
+63466,2014 Bianchi 53 1/2,WBK745972K,Bianchi,53 1/2,2014,[u'Green'],True,"San Francisco,94110",2015-11-25
+63679,2015 Cannondale CAADX Disc 105,CM39695,Cannondale,CAADX Disc 105,2015,[u'Black'],True,"San Francisco,94117",2015-11-25
+78970,2010 Pivot Mach 5.0,not sure,Pivot,Mach 5.0,2010,[u'Silver or Gray'],True,"Martinez,94553",2015-11-25
+63458,2016 Kona Dew Plus,absent,Kona,Dew Plus,2016,[u'Yellow or Gold'],True,"San Francisco,CA,94115",2015-11-24
+64137,2013 Specialized Ruby Compact 51cm,absent,Specialized,Ruby Compact 51cm,2013,[u'Black'],True,"San Francisco,94118",2015-11-24
+64138,2015 Specialized Tarmac Expert,absent,Specialized,Tarmac Expert,2015,[u'Black'],True,"San Francisco,94118",2015-11-24
+63425,1982 Trek 614,absent,Trek,614,1982,[u'Blue'],True,"Oakland,CA,94608",2015-11-23
+64654,2013 Surly Big Dummy cargo bike (rear storage),M12120071,Surly,Big Dummy,2013,[u'Silver or Gray'],True,"San Francisco,CA,94103",2015-11-23
+57016,2015 State Bicycle Co. Bel Aire 2.0,SBC20141235,State Bicycle Co.,Bel Aire 2.0,2015,[u'Yellow or Gold'],True,"Berkeley,CA",2015-11-23
+62726,2016 Trek 7.2fx,wtu350c0339j,Trek,7.2fx,2016,[u'Black'],True,"El Cerrito,CA,94530",2015-11-23
+63394,2011 Cannondale Five,I0C0123B01990,Cannondale,Five,2011,[u'Purple'],True,"San Francisco,94123",2015-11-23
+63323,2006 Trek 4300 Disc,C56F2344,Trek,4300 Disc,2006,[u'Silver or Gray'],True,"Oakland,94607",2015-11-23
+63294,2010 Felt F75x,F005K0146,Felt,F75x,2010,"[u'Black', u'Green', u'White']",True,"San Francisco,94115",2015-11-22
+64362,2015 Trek,wtu284c0360j,Trek,,2015,[u'White'],True,"Berkeley,94705",2015-11-22
+63379,2009 Kestrel Evoke SL,H30469,Kestrel,Evoke SL,2009,[u'Black'],True,"San Francisco,94105",2015-11-22
+63327,1999 Cannondale CAAD3,absent,Cannondale,CAAD3,1999,"[u'Yellow or Gold', u'Black']",True,"San Francisco,94122",2015-11-22
+63313,2010 Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,2010,"[u'Silver or Gray', u'Black']",True,"San Francisco,94118",2015-11-22
+63274,2015 Fuji Absolute 2.3,WBD229L2270K,Fuji,Absolute 2.3,2015,[u'Black'],True,"Berkeley,94702",2015-11-22
+63427,Specialized Vita Sport,WSBC602057978H,Specialized,Vita Sport,,[u'Red'],True,"San Francisco,94103",2015-11-21
+63290,2010 Origin8 Cane Uno,absent,Origin8,Cane Uno,2010,[u'Silver or Gray'],True,"Oakland,CA,94609",2015-11-21
+63955,2005 Giant CypressDX,GY422472,Giant,CypressDX,2005,[u'Silver or Gray'],True,"Berkeley,94705",2015-11-21
+63197,2015 Trek 7.5 FX,wtu089c6409j,Trek,7.5 FX,2015,[u'White'],True,"San Francisco,94110",2015-11-21
+38724,2010 Traitor Ruben,560R0908049,Traitor,Ruben,2010,"[u'White', u'Black', u'Red']",True,"San Francisco,CA,94103",2015-11-20
+63232,2012 Felt F85,S2ET12743,Felt,F85,2012,[u'Blue'],True,"San Francisco,94158",2015-11-20
+63231,2014 Cervélo 105,SNR3C13E00649,Cervélo,105,2014,[u'Silver or Gray'],True,"San Francisco,94107",2015-11-20
+63154,2014 Felt Z85,F1203K1007,Felt,Z85,2014,[u'Black'],True,"San Francisco,94114",2015-11-19
+63289,1981 Trek Tri-series,absent,Trek,Tri-series,1981,[u'Silver or Gray'],True,"San Francisco,CA,94103",2015-11-19
+63657,2015 Felt ZW85,f1506k1762,Felt,ZW85,2015,[u'Black'],True,"San Francisco,CA,94109",2015-11-19
+63282,1993 Specialized Allez,absent,Specialized,Allez,1993,[u'Red'],True,"Oakland,94609",2015-11-19
+63130,2010 Gary Fisher Wingra,WTU039C0361E,Gary Fisher,Wingra,2010,[u'Black'],True,"Oakland,94611",2015-11-19
+63696,2015 Specialized Pitch 650B,WSBC606116656J,Specialized,Pitch 650B,2015,"[u'Black', u'White']",True,"San Francisco,94105",2015-11-19
+63158,Peugeot Competition 500,absent,Peugeot,Competition 500,,[u'Purple'],True,"San Francisco,94114",2015-11-19
+63165,2015 Giant ESCAPE 2,C53J0390,Giant,ESCAPE 2,2015,[u'Silver or Gray'],True,"San Francisco,94114",2015-11-18
+63168,2009 Jamis Aurora,V89011876,Jamis,Aurora,2009,[u'Brown'],True,"Oakland,94606",2015-11-18
+63198,2001 LeMond Racing Cycles Lemond Toumalet,absent,LeMond Racing Cycles,Lemond Toumalet,2001,"[u'Blue', u'Black']",True,"San Francisco,94115",2015-11-18
+63134,2008 Giant Glory DH,absent,Giant,Glory DH,2008,[u'White'],True,"San Francisco,94132",2015-11-18
+63050,2013 Bianchi Brava 2300 9sp Triple,absent,Bianchi,Brava 2300 9sp Triple,2013,[u'White'],True,"San Francisco,94110",2015-11-17
+63063,2006 Rock Lobster Track,#267,Rock Lobster,Track,2006,[u'Black'],True,"San Francisco,94110",2015-11-17
+63076,2014 SCOTT Solace,SGR01F25213050266A,SCOTT,Solace,2014,"[u'Blue', u'White']",True,"San Francisco,94117",2015-11-17
+63032,Dawes Cycles Lightning,L12080906608,Dawes Cycles,Lightning,,[u'White'],True,"San Francisco,94110",2015-11-17
+63070,2015 Giant Avail 5,absent,Giant,Avail 5,2015,"[u'White', u'Orange']",True,"San Francisco,94117",2015-11-16
+63002,2015 Jamis Aurora Elite,WE5G00174,Jamis,Aurora Elite,2015,[u'Silver or Gray'],True,"San Francisco,94108",2015-11-15
+63001,Unknown unknown,absent,Unknown,unknown,,"[u'Orange', u'Blue']",True,"San Francisco,CA,94114",2015-11-15
+62984,Marin Bikes Mill Valley Alph,F573GSB036,Marin Bikes,Mill Valley Alph,,[u'Black'],True,"San Francisco,94109",2015-11-15
+62929,Cannondale Quick Sl 2,EN14764,Cannondale,Quick Sl 2,,[u'Blue'],True,"San Francisco,CA,94102",2015-11-15
+62928,Cannondale Quick Sl 2,EM27749,Cannondale,Quick Sl 2,,[u'Blue'],True,"San Francisco,CA,94102",2015-11-15
+62885,2015 Giant Escape 2,C4AD8000,Giant,Escape 2,2015,[u'Silver or Gray'],True,"San Francisco,CA,94103",2015-11-15
+61564,2015 Mission Bicycles Sutro,M15051889,Mission Bicycles,Sutro,2015,[u'Black'],True,"Sausalito,CA,94965",2015-11-14
+62889,2016 Diamondback Airen,U155K09910,Diamondback,Airen,2016,[u'Silver or Gray'],True,"San Francisco,CA,94109",2015-11-14
+63049,2015 Specialized Sirrus Elite Carbon Disc,60410042K,Specialized,Sirrus Elite Carbon Disc,2015,"[u'Black', u'Blue']",True,"San Francisco,94112",2015-11-14
+62890,2016 Diamondback Haanjo,U155K17100,Diamondback,Haanjo,2016,[u'Red'],True,"San Francisco,94109",2015-11-14
+62789,2011 Specialized Vita Elite,WSBC602357518F,Specialized,Vita Elite,2011,"[u'Black', u'Pink']",True,"San Francisco,94158",2015-11-13
+62895,Bianchi Lupo,WBK7341464,Bianchi,Lupo,,[u'Silver or Gray'],True,"San Francisco,CA",2015-11-13
+62782,"1973 Peugeot Road/Touring 27""",absent,Peugeot,"Road/Touring 27""",1973,[u'White'],True,"San Francisco,94131",2015-11-13
+62705,2014 Marin Bikes Kentfield CS2,HA14652LSM027,Marin Bikes,Kentfield CS2,2014,[u'White'],True,"San Francisco,94110",2015-11-12
+62815,2015 Raleigh Cadent 2,U145K06978,Raleigh,Cadent 2,2015,[u'Silver or Gray'],True,"San Francisco,94117",2015-11-12
+62878,2012 Specialized Daily 2 Step-Through,WSBC606028813G,Specialized,Daily 2 Step-Through,2012,[u'Blue'],True,"San Francisco,94109",2015-11-11
+62869,2011 Ibis Mojo SL,10M2393/SA10Z469,Ibis,Mojo SL,2011,[u'Black'],True,"San Francisco,94117",2015-11-11
+62870,2011 Giant Defy 1,GU0E3951,Giant,Defy 1,2011,[u'Black'],True,"San Francisco,94117",2015-11-11
+62847,2009 Specialized Sirrus,absent,Specialized,Sirrus,2009,[u'Black'],True,"Oakland,94618",2015-11-11
+62871,2011 Giant Avail 1 (Navy Blue/ White/ Silver),absent,Giant,Avail 1 (Navy Blue/ White/ Silver),2011,[u'Blue'],True,"San Francisco,94117",2015-11-11
+62944,2014 Marin Bikes Muirwoods 29er,FA14624KEF019,Marin Bikes,Muirwoods 29er,2014,[u'Black'],True,"San Francisco,CA,94102",2015-11-11
+52966,2015 Specialized Sirrus Sport,wsbc602396042j,Specialized,Sirrus Sport,2015,[u'Black'],True,"Pleasant Hill,CA,94523",2015-11-11
+62674,2015 Trek District 8,WTU286CS0386J,Trek,District 8,2015,[u'Orange'],True,"Oakland,CA,94612",2015-11-11
+62660,2015 Trek 200 SERIES ALPHA ALUMINUM,SWTU30G0219K,Trek,200 SERIES ALPHA ALUMINUM,2015,"[u'Silver or Gray', u'Pink']",True,"San Francisco,CA,94123",2015-11-10
+51442,Specialized Allez A1,NK9K1981,Specialized,Allez A1,,"[u'White', u'Silver or Gray', u'Red']",True,"Berkeley,CA,94704",2015-11-10
+62590,2013 Soma Smoothie SS,cc130451,Soma,Smoothie SS,2013,[u'Silver or Gray'],True,"San Francisco,94118",2015-11-10
+62581,Raleigh,ex150300109,Raleigh,,,[u'Black'],True,"Berkeley,CA,94704",2015-11-10
+51442,Specialized Allez A1,NK9K1981,Specialized,Allez A1,,"[u'White', u'Silver or Gray', u'Red']",True,"Berkeley,CA,94704",2015-11-10
+61468,2014 Trek Lexa SLX (Compact or Triple),WTU192G5866G,Trek,Lexa SLX (Compact or Triple),2014,[u'Black'],True,"San Francisco,CA,94122",2015-11-10
+62524,2015 Trek LEXA S C,WTU342C7037H,Trek,LEXA S C,2015,[u'Blue'],True,"San Francisco,94110",2015-11-09
+63835,"2015 Marin Bikes Cortina, T3 CX 700C, 520FA",FA15484CQ2278,Marin Bikes,"Cortina, T3 CX 700C, 520FA",2015,[u'Black'],True,"San Francisco,94111",2015-11-09
+62525,2015 Specialized Roubaix SL4 Comp Disc,WSBC615008280J,Specialized,Roubaix SL4 Comp Disc,2015,[u'Black'],True,"San Francisco,94110",2015-11-09
+62555,2014 Crew District,14020633,Crew,District,2014,[u'Black'],True,"San Francisco,94124",2015-11-09
+62535,2014 Cannondale Quick Sl 3,FM47871,Cannondale,Quick Sl 3,2014,[u'White'],True,"Berkeley,94703",2015-11-09
+62489,2015 PUBLIC bikes R16,#WZ5C00615,PUBLIC bikes,R16,2015,[u'Blue'],True,"San Francisco,94123",2015-11-09
+63352,2015 Cannondale Synapse,AM58246,Cannondale,Synapse,2015,[u'Black'],True,San Francisco,2015-11-09
+62504,2013 Cannondale Synapse hi mod ultegra,jm61822,Cannondale,Synapse hi mod ultegra,2013,[u'White'],True,"San Francisco,94131",2015-11-09
+62586,2000 Soulcraft Cyclocross,SOUL 37,Soulcraft,Cyclocross,2000,[u'Black'],True,"San Francisco,CA,94105",2015-11-09
+62420,2014 Bianchi Impulso 105 Compact,WBK731841K,Bianchi,Impulso 105 Compact,2014,[u'Black'],True,"San Francisco,94122",2015-11-08
+62385,Schwinn S2280B,038675228023,Schwinn,S2280B,,[u'Black'],True,"Berkeley,94709",2015-11-08
+62367,2015 Felt V95f,S5LT08402,Felt,V95f,2015,[u'Black'],True,San Francisco,2015-11-08
+62397,2009 Gary Fisher HiFi Pro 29,W139817,Gary Fisher,HiFi Pro 29,2009,[u'Blue'],True,"Oakland,CA,94611",2015-11-07
+62584,2015 Felt 9E,F1511L1541,Felt,9E,2015,[u'Black'],True,"San Francisco,94123",2015-11-07
+62370,2013 Cannondale Supersix 3 Ultegra,KM73799,Cannondale,Supersix 3 Ultegra,2013,[u'White'],True,"San Francisco,94122",2015-11-07
+62344,2003 Cannondale Road Warrior 700 HeadShok,absent,Cannondale,Road Warrior 700 HeadShok,2003,[u'Silver or Gray'],True,"Oakland,94611",2015-11-07
+62500,2013 Bianchi Infinito 105,WBK442132E,Bianchi,Infinito 105,2013,"[u'White', u'Black', u'Teal']",True,"San Francisco,94131",2015-11-07
+62321,2013 Masi UH Fixed,C91008302,Masi,UH Fixed,2013,"[u'Yellow or Gold', u'Red', u'Brown']",True,"San Francisco,CA,94114",2015-11-06
+62324,Specialized Secteur Sport Compact,WSBC602063301F,Specialized,Secteur Sport Compact,,[u'Silver or Gray'],True,"San Francisco,CA",2015-11-06
+62305,2011 Trek 1.5,181-2193,Trek,1.5,2011,[u'Black'],True,"San Francisco,94123",2015-11-06
+62310,2002 Bianchi Imola,absent,Bianchi,Imola,2002,[u'Black'],True,"San Francisco,94104",2015-11-06
+62312,Fuji 3.0 Cross,IF00905818,Fuji,3.0 Cross,,[u'White'],True,"San Francisco,94114",2015-11-06
+62851,2016 Motobecane Gigi Tour,018 US07US585MC50,Motobecane,Gigi Tour,2016,[u'White'],True,"San Francisco,94103",2015-11-05
+63803,2013 Novara Forza,U120Y09016,Novara,Forza,2013,[u'White'],True,"Castro Valley,CA,94546",2015-11-05
+62274,2016 Cannondale Bad Boy 4,AM17290,Cannondale,Bad Boy 4,2016,[u'Black'],True,"San Francisco,CA",2015-11-05
+64556,2008 Cannondale F4,SF35599,Cannondale,F4,2008,[u'Silver or Gray'],True,San Francisco,2015-11-05
+62236,2014 Specialized M,wsb660213213Li,Specialized,M,2014,[u'White'],True,"Hayward,94544",2015-11-05
+62290,Schwinn Traveller,absent,Schwinn,Traveller,,[u'Blue'],True,"Oakland,CA,94608",2015-11-05
+62244,2014 Specialized Ruby Comp,WSBC6140109801,Specialized,Ruby Comp,2014,[u'Black'],True,"San Francisco,94158",2015-11-04
+62201,2014 Bianchi Axis,absent,Bianchi,Axis,2014,[u'Teal'],True,"Oakland,94610",2015-11-04
+62180,1974 Schwinn Speedster,LJ566935,Schwinn,Speedster,1974,[u'Red'],True,"Oakland,CA,94606",2015-11-03
+62379,1970 Royce Union,absent,Royce Union,,1970,[u'Brown'],True,"Oakland,94609",2015-11-03
+62179,1994 Klein Bikes Quantum Race,absent,Klein Bikes,Quantum Race,1994,"[u'Green', u'Purple']",True,"Daly City,94014",2015-11-03
+62082,1993 Chris Chance Yo Eddy Yo eddy,absent,Chris Chance Yo Eddy,Yo eddy,1993,[u'Yellow or Gold'],True,"Oakland,94608",2015-11-03
+62175,Breezer Downtown 20.5,WBD061L0015K,Breezer,Downtown 20.5,,[u'Green'],True,"San Francisco,94103",2015-11-03
+62119,2011 Xtracycle,absent,Xtracycle,,2011,[u'Red'],True,"Oakland,94608",2015-11-03
+62186,Mongoose Malus,absent,Mongoose,Malus,,[u'Silver or Gray'],True,"San Francisco,94104",2015-11-03
+62077,2011 Trek 7.3 FX Disc,absent,Trek,7.3 FX Disc,2011,[u'Silver or Gray'],True,"San Francisco,CA,94107",2015-11-02
+54514,2015 Soma Double Cross,TSFEDW0051,Soma,Double Cross,2015,[u'Black'],True,"San Francisco,CA,94104",2015-11-02
+62501,2008 Giant OCR C3,GL7A557,Giant,OCR C3,2008,[u'Black'],True,"San Francisco,94107",2015-11-02
+62058,2010 Cannondale Caad9 6,U103894,Cannondale,Caad9 6,2010,[u'White'],True,"San Francisco,94105",2015-11-02
+62493,2012 Specialized Vita,absent,Specialized,Vita,2012,"[u'Black', u'Pink']",True,"San Francisco,CA",2015-11-01
+62483,Specialized Mountain Bike,M5G I56 409,Specialized,Mountain Bike,,[u'Silver or Gray'],True,"San Francisco,94103",2015-11-01
+61953,2006 Giant trance,absent,Giant,trance,2006,[u'Brown'],True,"Berkeley,94710",2015-11-01
+61926,Cannondale CAAD,ICB 03739 2272 FL5Wx,Cannondale,CAAD,,[u'Black'],True,San Francisco,2015-10-31
+61789,2012 Specialized Roubaix Elite Apex Compact,WSBC615000769H,Specialized,Roubaix Elite Apex Compact,2012,[u'Black'],True,"San Francisco,94109",2015-10-30
+61896,2014 Cannondale Synapse 6 Tiagra,IM71784,Cannondale,Synapse 6 Tiagra,2014,[u'Black'],True,"San Francisco,94107",2015-10-30
+61938,2016 Specialized Sirrus Elite Carbon,WSBC604106563K,Specialized,Sirrus Elite Carbon,2016,"[u'Black', u'Red']",True,"San Francisco,94107",2015-10-29
+61732,2014 Motobecane Mirage Tour,US07US446MB50,Motobecane,Mirage Tour,2014,[u'Orange'],True,"San Francisco,94118",2015-10-29
+61779,Marin Bikes Mountain bike,C413ESE015,Marin Bikes,Mountain bike,,[u'Silver or Gray'],True,"San,CA,94110",2015-10-29
+61658,2003 Specialized Rockhopper FSR Comp,absent,Specialized,Rockhopper FSR Comp,2003,[u'White'],True,"San Francisco,94105",2015-10-28
+61988,Colnago Asso,absent,Colnago,Asso,,[u'Black'],True,"San Francisco,94116",2015-10-28
+42169,2003 Klein Bikes Q Carbon Team,WL3051287,Klein Bikes,Q Carbon Team,2003,[u'Orange'],True,"Berkeley,CA,94705",2015-10-28
+61667,2013 Soma Buena Vista,absent,Soma,Buena Vista,2013,[u'White'],True,"San Francisco,94123",2015-10-28
+61724,2015 Cannondale Bad Boy 3 Large BBQ,EM18947,Cannondale,Bad Boy 3 Large BBQ,2015,[u'Black'],True,"San Francisco,94105",2015-10-28
+61666,2009 Masi Speciale Commuter,absent,Masi,Speciale Commuter,2009,[u'Blue'],True,"San Francisco,94123",2015-10-28
+61674,Specialized Ruby Sport,WSBC614007983I,Specialized,Ruby Sport,,[u'Silver or Gray'],True,"San Francisco,CA,94103",2015-10-28
+39061,2015 Trek 7.3,WTU337C5853H,Trek,7.3,2015,[u'Black'],True,"Berkeley,CA,94703",2015-10-28
+61635,Cannondale,GM86086,Cannondale,,,[u'Black'],True,"San Francisco,94123",2015-10-27
+61611,2011 Bianchi Volpe,DX0053355F,Bianchi,Volpe,2011,[u'Yellow or Gold'],True,"San Francisco,94110",2015-10-27
+61526,1998 GT Bicycles Avalanche,absent,GT Bicycles,Avalanche,1998,"[u'White', u'Black', u'Red']",True,"Oakland,94610",2015-10-26
+61573,2012 Cannondale CAAD 10 105,NM29593,Cannondale,CAAD 10 105,2012,[u'Black'],True,San Francisco,2015-10-26
+62281,2013 Specialized Tricross Elite Disc Compact,WSBC602258431I,Specialized,Tricross Elite Disc Compact,2013,[u'Silver or Gray'],True,"San Francisco,94110",2015-10-26
+61924,2015 Giant Escape 3 Men's,C74V0891,Giant,Escape 3 Men's,2015,[u'Silver or Gray'],True,"Lafayette,94549",2015-10-26
+61594,2013 Stradalli Cycles Salerno,absent,Stradalli Cycles,Salerno,2013,[u'Black'],True,"San Francisco,CA,94105",2015-10-26
+61595,2006 Giant TCR Limited,e510415,Giant,TCR Limited,2006,"[u'White', u'Black']",True,"San Francisco,94110",2015-10-26
+61568,SE Bikes Lager,109j,SE Bikes,Lager,,"[u'Blue', u'Black']",True,"San Francisco,CA,94103",2015-10-26
+61450,Maruishi RX-105,absent,Maruishi,RX-105,,"[u'Blue', u'Yellow or Gold']",True,"San Francisco,94107",2015-10-25
+61484,2012 Cervélo S2,absent,Cervélo,S2,2012,"[u'Black', u'Red']",True,"San Francisco,CA,94104",2015-10-25
+72734,2016 n/a - Hand Built Carbon Tubes / Steel Welded Lugs,n/a,n/a - Hand Built,Carbon Tubes / Steel Welded Lugs,2016,[u'Black'],True,"San Francisco,CA",2015-10-25
+61534,2008 Bianchi Volpe,734136B,Bianchi,Volpe,2008,[u'Yellow or Gold'],True,"San Francisco,94103",2015-10-25
+61482,2015 Diamondback,DAA14E002503,Diamondback,,2015,[u'White'],True,"Berkeley,CA,94704",2015-10-25
+61518,2012 Felt F6,F205D1616,Felt,F6,2012,"[u'Black', u'Yellow or Gold']",True,"San Francisco,94104",2015-10-25
+61481,2012 Trek 13.5L,WTU162CO296F,Trek,13.5L,2012,[u'Silver or Gray'],True,"San Francisco,94123",2015-10-25
+61687,2015 SCOTT Scale,STM20A20S1404120F,SCOTT,Scale,2015,"[u'White', u'Red', u'Blue']",True,"San Francisco,94132",2015-10-24
+61431,2013 Cannondale Synapse,absent,Cannondale,Synapse,2013,"[u'Black', u'Teal']",True,"San Francisco,94102",2015-10-24
+61452,2013 Motobecane,DD12F00540,Motobecane,,2013,[u'Blue'],True,"San Francisco,94131",2015-10-24
+61451,2013 Motobecane,17C29M02,Motobecane,,2013,[u'Blue'],True,"San Francisco,94131",2015-10-24
+61319,2014 Breezer Greenway Elite,wbd317l0366j,Breezer,Greenway Elite,2014,[u'Blue'],True,San Francisco,2015-10-24
+61840,2015 Felt Z95,F1506K2240,Felt,Z95,2015,"[u'Black', u'Red']",True,"Walnut Creek,94596",2015-10-23
+61399,2015 Specialized secteur triple,WSBC602148403J,Specialized,secteur triple,2015,[u'Black'],True,"Berkeley,94707",2015-10-23
+61377,2008 Electra Coaster,WN8K02901,Electra,Coaster,2008,[u'Black'],True,"2531 Blanding Ave,94501",2015-10-23
+61494,2004 Giant OCR1,GZ4G4522,Giant,OCR1,2004,"[u'Silver or Gray', u'Pink']",True,"Oakland,94610",2015-10-22
+61780,Maserati M,absent,Maserati,M,,[u'Green'],True,"San Francisco,94110",2015-10-22
+61633,2015 Fuji Touring,WDB019L0094K,Fuji,Touring ,2015,[u'Green'],True,"San Francisco,94107",2015-10-22
+61159,2013 Unknown Transito Gentil,absent,Unknown,Transito Gentil,2013,[u'Blue'],True,San Francisco,2015-10-21
+60987,Linus Roadster,absent,Linus,Roadster,,[u'Green'],True,"Berkeley,94705",2015-10-20
+62211,2015 Santa Cruz Bantam,A40536958,Santa Cruz,Bantam,2015,[u'Black'],True,"Oakland,94602",2015-10-19
+61010,"Scapin vintage bike, don't know",absent,Scapin,"vintage bike, don't know ",,"[u'Orange', u'Silver or Gray']",True,"San Francisco,94111",2015-10-19
+60967,2015 Gravity 29 point 1,absent,Gravity,29 point 1,2015,[u'Silver or Gray'],True,"San Francisco,94103",2015-10-19
+59422,2016 Marin Bikes Fairfax SC2 IG,HA16692DSE018,Marin Bikes,Fairfax SC2 IG,2016,[u'Black'],True,"San Francisco,CA,94107",2015-10-19
+60985,2013 Jamis Commuter 4,V121K22003,Jamis,Commuter 4,2013,[u'Silver or Gray'],True,"Berkeley,94703",2015-10-19
+60983,2013 Trek 1.2 H2 (Triple),WTU140C6554G,Trek,1.2 H2 (Triple),2013,"[u'Black', u'White', u'Red']",True,"San Francisco,94107",2015-10-19
+42142,2015 Mission Bicycles Valencia,M13122815,Mission Bicycles,Valencia,2015,[u'Blue'],True,"San Francisco,94109",2015-10-18
+60962,2015 Trek Lexa C,WTU002C0815J,Trek,Lexa C ,2015,[u'Green'],True,"San Francisco,94105",2015-10-18
+61513,2011 Novara randonnee,absent,Novara,randonnee,2011,[u'Green'],True,"Alameda,94501",2015-10-18
+61056,2009 Trek 520,absent,Trek,520,2009,[u'Brown'],True,"San Francisco,94103",2015-10-18
+60931,Raleigh technium,absent,Raleigh,technium,,"[u'Silver or Gray', u'Blue']",True,"Oakland,94606",2015-10-18
+61028,2013 Cannondale Caad10 5 105,absent,Cannondale,Caad10 5 105,2013,[u'Black'],True,"San Francisco,CA,94110",2015-10-17
+60979,2011 Felt F5 Garmin,absent,Felt,F5 Garmin,2011,"[u'Black', u'Blue']",True,"San Francisco,94131",2015-10-17
+60871,2014 Specialized Ruby Comp,WSBC614009123I,Specialized,Ruby Comp,2014,[u'Black'],True,"Martinez,94553",2015-10-17
+41283,2014 Fuji Sportif,SWBD245L0059J,Fuji,Sportif,2014,[u'Red'],True,"Berkeley,CA",2015-10-17
+61103,2011 Giant Anthem X 29er 3,GY001957,Giant,Anthem X 29er 3,2011,[u'Silver or Gray'],True,"San Francisco,94132",2015-10-17
+60867,Bianchi Iseo, LX0355038G,Bianchi,Iseo,,[u'Black'],True,"Oakland,CA,94610",2015-10-17
+61078,Nishiki Nishiki Shogun road bike,A0997,Nishiki,Nishiki Shogun road bike,,[u'White'],True,"Oakland,94612",2015-10-16
+60869,Giant Escape 3,absent,Giant,Escape 3,,"[u'Black', u'Orange']",True,"San Francisco,94114",2015-10-16
+60796,2015 Tern Link D7I,cpfd007hez100,Tern,Link D7I,2015,[u'Black'],True,San Francisco,2015-10-16
+77533,Jamis Satellite Sport,U08U04513,Jamis,Satellite Sport,,[u'Silver or Gray'],True,"Berkeley,CA,94703",2015-10-16
+60717,2011 Specialized Ariel,WSBC608197806G,Specialized,Ariel,2011,[u'White'],True,"San Francisco,94158",2015-10-16
+60991,2011 Scattante SL6 Full Carbon Monocoque,absent,Scattante,SL6 Full Carbon Monocoque,2011,[u'White'],True,"San Francisco,CA,94104",2015-10-15
+60732,2009 Raleigh Clubman,U8YU57399,Raleigh,Clubman,2009,[u'Black'],True,"Oakland,94606",2015-10-15
+60843,2008 Salsa Casseroll,absent,Salsa,Casseroll,2008,[u'Yellow or Gold'],True,"San Francisco,CA,94102",2015-10-15
+60770,Marin Bikes Uknown-80s,absent,Marin Bikes,Uknown-80s,,[u'Silver or Gray'],True,"San Francisco,94131",2015-10-15
+60710,1991 Gary Fisher Wahoo,absent,Gary Fisher,Wahoo,1991,"[u'Red', u'Stickers tape or other cover-up']",True,"San Francisco,94104",2015-10-15
+61100,2013 Specialized Tricross,WSBC609000605,Specialized,Tricross,2013,[u'Black'],True,"Berkeley,94705",2015-10-14
+60653,Nishiki Road,absent,Nishiki,Road,,[u'Blue'],True,"Oakland,94609",2015-10-14
+60719,Bridgestone synergy,A124783,Bridgestone,synergy,,[u'Black'],True,"Oakland,94609",2015-10-14
+60716,2012 Specialized Ariel,WSBC608197806G,Specialized,Ariel,2012,[u'White'],True,"San Francisco,CA,94158",2015-10-14
+60707,2015 KHS Bicycles XL,V(maybe U)14G01185,KHS Bicycles,XL,2015,[u'Black'],True,"San Francisco,94133",2015-10-14
+60849,2011 PUBLIC bikes V7,WZ2K00011,PUBLIC bikes,V7,2011,[u'Green'],True,"San Francisco,CA,94114",2015-10-14
+60805,Opus Corso 2.0,ACF13J017294,Opus,Corso 2.0,,[u'Red'],True,"Berkeley,94702",2015-10-14
+60667,2013 Specialized Ariel Comp Disc,WSBC606020009H,Specialized,Ariel Comp Disc,2013,[u'Black'],True,"San Francisco,94158",2015-10-13
+58214,2015 Cannondale Bad Boy 4,AM17118,Cannondale,Bad Boy 4,2015,[u'Black'],True,"San Francisco,CA,94109",2015-10-13
+60594,2013 Raleigh Cadent,U129K29542,Raleigh,Cadent,2013,[u'Black'],True,"San Francisco,94122",2015-10-13
+60637,2015 Fuji Sportif,SWBD010L0934L,Fuji,Sportif,2015,"[u'White', u'Red']",True,"San Francisco,94105",2015-10-13
+60619,Specialized,absent,Specialized,,,[u'Silver or Gray'],True,"San Francisco,94103",2015-10-12
+61646,ICE Innovative Cycle Engineering Hammer,absent,ICE Innovative Cycle Engineering,Hammer,,"[u'Purple', u'Yellow or Gold']",True,"San Francisco,94109",2015-10-12
+60547,2012 Cannondale Super X,absent,Cannondale,Super X,2012,"[u'Black', u'White']",True,"San Francisco,94115",2015-10-12
+60549,2014 Fuji Absolute 1.7,wbd008l1217k,Fuji,Absolute 1.7,2014,[u'Black'],True,"Berkeley,94709",2015-10-12
+60520,2011 Trek,absent,Trek,,2011,"[u'White', u'Blue']",True,"San Francisco,CA,94117",2015-10-12
+60439,Bianchi Campione,NVO158G35J,Bianchi,Campione,,[u'Black'],True,"Oakland,94611",2015-10-11
+60638,2011 Cervélo R3, SNR3C10K0027 or 2011.003,Cervélo,R3,2011,"[u'White', u'Blue']",True,"Oakland,94618",2015-10-11
+60422,2004 Specialized Stump Jumper Pro M4,absent,Specialized,Stump Jumper Pro M4,2004,[u'White'],True,"Berkeley,CA, 94704",2015-10-11
+60816,2013 Cannondale BadBoy,IM68259,Cannondale,BadBoy,2013,[u'Black'],True,"San Francisco,94133",2015-10-10
+60355,2014 Bianchi Via Nirone Sora Compact,absent,Bianchi,Via Nirone Sora Compact,2014,[u'Red'],True,"San Francisco,94117",2015-10-10
+60382,2015 Fuji Boulevard 1.3,WBD005L2017K,Fuji,Boulevard 1.3,2015,[u'Black'],True,"San Mateo,94403",2015-10-10
+60412,Specialized Globe,absent,Specialized,Globe,,"[u'Silver or Gray', u'Blue']",True,San Francisco,2015-10-10
+60251,2015 Specialized Roubaix,WSBC615004599K,Specialized,Roubaix,2015,[u'Green'],True,"San Francisco,94114",2015-10-10
+63405,1976 Schwinn super le tour 12.2,absent,Schwinn,super le tour 12.2,1976,[u'Silver or Gray'],True,"Richmond,CA,94804",2015-10-09
+60335,Cannondale Jekyll,absent,Cannondale,Jekyll,,[u'Yellow or Gold'],True,San Francisco,2015-10-09
+60257,2014 Motobecane Century Pro,AKFM03 13-01556,Motobecane,Century Pro,2014,[u'Black'],True,"San Francisco,94105",2015-10-09
+63450,KHS Bicycles FLITE 300,absent,KHS Bicycles,FLITE 300,,[u'White'],True,"Richmond,CA,94804",2015-10-09
+60269,2015 Cannondale Synapse,DM45412,Cannondale,Synapse,2015,[u'Black'],True,"San Francisco,94114",2015-10-09
+63402,1997 K2 756,absent,K2,756,1997,[u'Blue'],True,"Richmond,94804",2015-10-09
+60984,2009 Specialized Myka Sport DTSC,WUD80404036D,Specialized,Myka Sport DTSC,2009,[u'Brown'],True,"Alameda,CA,94502",2015-10-09
+63409,1982 Trek 311,absent,Trek,311,1982,[u'Silver or Gray'],True,"Richmond,CA,94804",2015-10-09
+63406,Raleigh super course 12speed,absent,Raleigh,super course 12speed,,[u'Red'],True,"Richmond,CA,94804",2015-10-09
+60973,SE Bikes Monterey,SE342IC6114M,SE Bikes,Monterey,,[u'Blue'],True,"San Francisco,CA,94158",2015-10-09
+63451,2004 Trek 4100,absent,Trek,4100,2004,"[u'Red', u'Black']",True,"Richmond,CA,94804",2015-10-09
+63449,Royce Union hummer,absent,Royce Union,hummer,,"[u'Green', u'Blue']",True,"Richmond,CA,94804",2015-10-09
+63411,"Mongoose full suspension 24"" moumtainbike",absent,Mongoose,"full suspension 24"" moumtainbike",,[u'Red'],True,"Richmond,CA,94804",2015-10-09
+63412,1998 Schwinn mesa le mountain bike,absent,Schwinn,mesa le mountain bike,1998,"[u'Red', u'Yellow or Gold']",True,"Richmond,CA,94804",2015-10-09
+63414,1997 Schwinn mesa se,absent,Schwinn,mesa se,1997,"[u'Yellow or Gold', u'Red']",True,"Richmond,CA,94804",2015-10-09
+60468,2015 Raleigh Roper,u146u28463,Raleigh,Roper,2015,[u'Orange'],True,"San Francisco,94110",2015-10-09
+63452,1989 Gary Fisher hk II,absent,Gary Fisher,hk II,1989,[u'Blue'],True,"Richmond,CA,94804",2015-10-09
+63448,Firenze gl1500,absent,Firenze,gl1500,,[u'Red'],True,"Richmond,CA,94804",2015-10-09
+63408,1975 Peugeot u08,absent,Peugeot,u08,1975,[u'Orange'],True,"Richmond,CA,94804",2015-10-09
+63404,1997 Schwinn s20 full suspension homegrown xtr,absent,Schwinn,s20 full suspension homegrown xtr,1997,[u'Red'],True,"Richmond,CA,94804",2015-10-09
+60258,2012 Diamondback Insight 1,U121K10579,Diamondback,Insight 1,2012,[u'Black'],True,"San Francisco,94102",2015-10-09
+63410,1976 Centurion female roadbike,absent,Centurion,female roadbike,1976,[u'Blue'],True,"Richmond,CA,94804",2015-10-09
+63403,K2 full suspension mountainbike,absent,K2,full suspension mountainbike,,[u'Silver or Gray'],True,"Richmond,CA,94804",2015-10-09
+60270,2013 Trek 7.4 Hybrid,312C539414,Trek,7.4 Hybrid,2013,[u'Black'],True,"San Francisco,94114",2015-10-09
+60316,2009 Fuji Reveal 2.0,IF81204570,Fuji,Reveal 2.0,2009,[u'Brown'],True,San Francisco,2015-10-09
+60285,Specialized Allez A1 Elite,WSBC602060540F,Specialized,Allez A1 Elite,,[u'Blue'],True,"San Francisco,94105",2015-10-09
+63401,2011 Trek katai,absent,Trek,katai,2011,"[u'Silver or Gray', u'Black']",True,"Richmond,CA,94804",2015-10-09
+63453,1997 Gary Fisher marlin,absent,Gary Fisher,marlin,1997,"[u'Black', u'White']",True,"Richmond,94804",2015-10-09
+60410,2012 Specialized,WSBC602121972G,Specialized,,2012,[u'Black'],True,"San Francisco,94104",2015-10-08
+60921,2011 Jamis Satellite Femme,409409093,Jamis,Satellite Femme,2011,[u'Blue'],True,"Emeryville,94608",2015-10-08
+60727,2010 Specialized Secteur Sport Compact,absent,Specialized,Secteur Sport Compact,2010,[u'White'],True,"San Francisco,94123",2015-10-08
+60714,Raleigh M-80,U47k29103,Raleigh,M-80,,[u'Black'],True,"Oakland,94609",2015-10-08
+60243,2015 GT Bicycles Transeo 4.0,CM15E501907,GT Bicycles,Transeo 4.0,2015,[u'White'],True,"San Francisco,94103",2015-10-08
+60599,Kona kula deluxe,absent,Kona,kula deluxe,,[u'Orange'],True,"San Francisco,94134",2015-10-07
+60133,2014 Specialized Ariel Sport Disc,absent,Specialized,Ariel Sport Disc,2014,[u'Black'],True,"San Francisco,CA,94107",2015-10-07
+60174,2012 Trek Neko SL,WTU213C0142H,Trek,Neko SL,2012,[u'Silver or Gray'],True,"San Mateo,94401",2015-10-07
+60191,2007 Raleigh competition,U71C29271,Raleigh,competition,2007,[u'Black'],True,"San Francisco,94102",2015-10-07
+60508,2014 Creme Cycles Echo Doppio,CM140282,Creme Cycles,Echo Doppio,2014,[u'Blue'],True,"San Francisco,CA,94115",2015-10-06
+60077,2015 Trek CrossRip Comp,WTU044C3380K,Trek,CrossRip Comp,2015,[u'Silver or Gray'],True,"San Francisco,94103",2015-10-06
+60354,2015 Giant DEFY ADVANCED 2,GL4F531,Giant,DEFY ADVANCED 2,2015,"[u'Black', u'White']",True,"San Francisco,94117",2015-10-06
+60393,2007 Jamis Aurora,UGYU19810,Jamis,Aurora,2007,[u'Brown'],True,"Oakland,CA",2015-10-05
+60021,Mekk Pinerolo AL 1.5,absent,Mekk,Pinerolo AL 1.5,,"[u'Blue', u'Black', u'White']",True,"Oakland,94703",2015-10-05
+59905,2015 Specialized Dolce Comp Evo,WSBC601008483K,Specialized,Dolce Comp Evo,2015,[u'Black'],True,"San Francisco,CA,94121",2015-10-04
+59966,2013 Jamis Aurora Elite,absent,Jamis,Aurora Elite,2013,[u'Black'],True,"San Francisco,CA,94102",2015-10-04
+60078,2015 Specialized Roubaix Expert,WSBC604042307J,Specialized,Roubaix Expert,2015,[u'Black'],True,"San Francisco,94118",2015-10-04
+61613,2014 Trek FX 7.2,WTU266C9388H,Trek,FX 7.2,2014,[u'Black'],True,"San Francisco,CA,94102",2015-10-04
+60170,Schwinn Suburban,HL532634,Schwinn,Suburban,,[u'Black'],True,"San Francisco,94105",2015-10-03
+59871,2012 Specialized Sirrus Sport,WSBC602049502G,Specialized,Sirrus Sport,2012,[u'Green'],True,"San Francisco,CA,94122",2015-10-03
+59866,2010 Cannondale Touring 2,absent,Cannondale,Touring 2,2010,[u'Green'],True,"San Francisco,94117",2015-10-03
+60782,2014 Salsa Vaya,M13051431,Salsa,Vaya,2014,[u'Green'],True,"San Francisco,94122",2015-10-03
+59801,2012 Volagi Viaje,absent,Volagi,Viaje,2012,[u'Yellow or Gold'],True,"Oakland,94618",2015-10-03
+59764,2013 Bianchi Super Pista,H2DH45411,Bianchi,Super Pista,2013,[u'Black'],True,"San Francisco,94103",2015-10-02
+59755,2014 Windsor Kesington 8,absent,Windsor,Kesington 8,2014,[u'Blue'],True,"San Francisco,CA 94118",2015-10-02
+59699,Trek,WL3391131,Trek,,,[u'Blue'],True,"San Francisco,94105",2015-10-02
+59727,2014 Fuji Sportif 2.3 C,absent,Fuji,Sportif 2.3 C,2014,[u'Blue'],True,"San Francisco,94133",2015-10-02
+59761,2015 Roadmaster Granite Peak,absent,Roadmaster,Granite Peak,2015,[u'Black'],True,"Oakland,94607",2015-10-02
+59753,Giant CRS Classic,absent,Giant,CRS Classic,,[u'White'],True,"San Francisco, CA 94118",2015-10-02
+59983,Nishiki,absent,Nishiki,,,[u'Silver or Gray'],True,"Oakland,94610",2015-10-01
+59702,2015 Specialized Camber,WSBC601061340J,Specialized,Camber,2015,[u'Brown'],True,"San Francisco,94118",2015-10-01
+59680,2015 Giant Talon,C64R5413,Giant,Talon,2015,"[u'Black', u'Red']",True,"San Francisco,CA",2015-10-01
+59630,2014 Kona HONKY TONK 61cm,absent,Kona,HONKY TONK  61cm,2014,[u'Green'],True,"San Francisco,94117",2015-10-01
+59979,Giant Kronos,absent,Giant,Kronos,,"[u'Blue', u'Orange']",True,Oakland,2015-10-01
+59754,2015 Trek 7.1,WTU022C1825K,Trek,7.1,2015,[u'Silver or Gray'],True,"San Francisco,94103",2015-09-30
+59564,2010 Surly Cross-check,M9040440,Surly,Cross-check,2010,[u'Brown'],True,"San Francisco,94131",2015-09-30
+60022,2011 Bianchi Camaleonte 4,BKG72941F,Bianchi,Camaleonte 4,2011,[u'Black'],True,"San Francisco,94117",2015-09-30
+59563,2014 Specialized Crosstrail Sport Disc,WSBC6022368301,Specialized,Crosstrail Sport Disc,2014,[u'Black'],True,"San Francisco,94103",2015-09-30
+59456,2013 Trek 7.2 FX,WTU141C6513H,Trek,7.2 FX,2013,"[u'Black', u'Red']",True,San Francisco,2015-09-29
+60846,2013 GT Bicycles Series 3 Road Bike,absent,GT Bicycles,Series 3 Road Bike,2013,[u'Black'],True,"San Francisco,CA,94123",2015-09-29
+59461,2015 Trek Emonda SL6 size 60cm,SWTU008CT0093K,Trek,Emonda SL6 size 60cm,2015,[u'Black'],True,"San Francisco,94105",2015-09-29
+59584,2008 Devinci Desperado,absent,Devinci,Desperado,2008,"[u'Blue', u'White', u'Orange']",True,"Walnut Creek,94596",2015-09-29
+59546,2005 Trek 1500 SLR WSD,absent,Trek,1500 SLR WSD,2005,"[u'Blue', u'Black']",True,"San Francisco,94122",2015-09-29
+32375,2012 Raleigh Detour 3.5,U121K28701,Raleigh,Detour 3.5,2012,[u'Red'],True,"San Fransisco,CA,94110",2015-09-29
+59349,Giant OCR 3,absent,Giant,OCR 3,,[u'Black'],True,Oakland,2015-09-28
+59435,2016 Specialized Dolce Sport EQ,WSBC602010575K,Specialized,Dolce Sport EQ,2016,[u'White'],True,"San Francisco,CA,94114",2015-09-28
+59406,2010 Electra,absent,Electra,,2010,[u'White'],True,"San Francisco,94103",2015-09-28
+59449,Cannondale 400 Hybrid,Q007225,Cannondale,400 Hybrid,,[u'Silver or Gray'],True,"San Francisco,CA,94103",2015-09-28
+59497,2013 BH Bikes Renegade (Emotion),absent,BH Bikes,Renegade (Emotion),2013,"[u'Black', u'Orange']",True,"San Francisco,94114",2015-09-28
+59298,2014 Cannondale T29,884603506172,Cannondale,T29,2014,[u'Black'],True,San Francisco,2015-09-28
+59303,2013 Mission Bicycle Company 60mm,absent,Mission Bicycle Company,60mm,2013,"[u'Black', u'White']",True,"Oakland,94609",2015-09-27
+59313,2013 Novara Corsa,absent,Novara,Corsa,2013,"[u'Silver or Gray', u'Red']",True,"Berkeley,CA,94709",2015-09-27
+59252,Specialized Crossroads,PN501597,Specialized,Crossroads,,[u'Black'],True,"El Cerrito,94530",2015-09-27
+62382,2008 IRO Cycles Mark V,M8081132,IRO Cycles,Mark V,2008,[u'Black'],True,"San Francisco,CA,94105",2015-09-26
+59143,2015 SyCip custom Cross Dresser CX bike,absent,SyCip,custom Cross Dresser CX bike,2015,[u'White'],True,"San Francisco,94123",2015-09-25
+59159,2014 Trek 7.2 FX,WTU171C5201H,Trek,7.2 FX,2014,[u'Black'],True,"San Francisco,94103",2015-09-25
+59144,2009 Specialized Specialized Safire Elite FSR Women's MTB,absent,Specialized,Specialized Safire Elite FSR Women's MTB,2009,[u'Black'],True,"San Francisco,94123",2015-09-25
+59408,2010 Giant TCX 2,GM878959,Giant,TCX 2,2010,[u'Silver or Gray'],True,"San Francisco,94133",2015-09-25
+59181,2011 Cervélo R3,SNR3C10M00624,Cervélo,R3,2011,[u'Black'],True,"Castro Valley,94546",2015-09-25
+45213,2005 Specialized Sirrus,P3AA95638,Specialized,Sirrus,2005,[u'Red'],True,"Oakland,CA,94612",2015-09-24
+59139,2013 Cannondale Supersix 3 Ultegra,NM10985,Cannondale,Supersix 3 Ultegra,2013,[u'White'],True,"San Francisco,94123",2015-09-24
+59082,2013 Norco Bikes,AJ20094365,Norco Bikes,,2013,[u'Black'],True,94103,2015-09-24
+59183,2013 Specialized Sirrus,WSBC602160677H,Specialized,Sirrus,2013,[u'Black'],True,"San Francisco,94103",2015-09-24
+59060,2011 Specialized Dolce Comp Compact,WSBC601019484G,Specialized,Dolce Comp Compact,2011,"[u'White', u'Silver or Gray', u'Yellow or Gold']",True,"San Francisco,94110",2015-09-24
+59098,2013 Breezer Uptown 5,absent,Breezer,Uptown 5,2013,[u'Green'],True,"San Francisco,94114",2015-09-24
+59150,2012 Mercier Elle,absent,Mercier,Elle,2012,[u'Blue'],True,"Oakland,94612",2015-09-24
+59111,2012 Specialized Tricross,105BC602005602G,Specialized,Tricross,2012,[u'Red'],True,"San Francisco,94103",2015-09-24
+58864,2010 Rocky Mountain Bicycles Solo CX,prk1189590,Rocky Mountain Bicycles,Solo CX,2010,[u'White'],True,"San Francisco,94109",2015-09-23
+58861,2012 Rivendell Bicycle Works Atlantis,L11009,Rivendell Bicycle Works,Atlantis,2012,[u'Green'],True,"Oakland,94606",2015-09-23
+58863,1993 Bridgestone XO-1,6226667,Bridgestone,XO-1,1993,[u'Orange'],True,San Francisco,2015-09-23
+58866,2012 Trek 7.3 FX,wtu331c1485h,Trek,7.3 FX,2012,[u'Black'],True,"Oakland,94609",2015-09-23
+59074,2014 Mission Bicycles,M14050528,Mission Bicycles,,2014,"[u'Silver or Gray', u'Yellow or Gold']",True,"San Francisco,CA,94114",2015-09-23
+58868,2014 Trek 7.2 FX,wtu260c9490h,Trek,7.2 FX,2014,[u'Black'],True,"Oakland,94609",2015-09-23
+58869,2008 Specialized CrossTrail Sport,p7ibc0156,Specialized,CrossTrail Sport,2008,[u'Black'],True,"Oakland,94609",2015-09-23
+58934,2015 Trek District 8,WTU227CS0594J,Trek,District 8,2015,[u'Brown'],True,"Alameda,94501",2015-09-23
+58804,2015 Trek 7.5 FX,WTU056C6196K,Trek,7.5 FX,2015,[u'White'],True,"San Francisco,94103",2015-09-22
+58933,Trek 1420,absent,Trek,1420,,[u'Purple'],True,"Oakland,94610",2015-09-22
+58853,2012 Cannondale CAAD10,absent,Cannondale,CAAD10,2012,[u'Black'],True,"San Francisco, 94123",2015-09-22
+58818,2014 Specialized Crosstrail Elite Disc,SF14-NEX-SBC-DS-MLO-700C-63,Specialized,Crosstrail Elite Disc,2014,[u'Black'],True,"Oakland,94610",2015-09-22
+58847,2009 Cannondale Super six 6,0139234,Cannondale,Super six 6,2009,[u'Red'],True,"San Francisco,94111",2015-09-22
+58730,1987 Nishiki International,KC21758,Nishiki,International,1987,[u'Red'],True,"San Francisco,94122",2015-09-21
+58792,2014 Cannondale Tandem 29,06172,Cannondale,Tandem 29,2014,[u'Black'],True,"San Francisco,CA,94111",2015-09-21
+58877,Specialized Sirrus Elite Carbon Disc,C970E615FDB94FD7B4D2E6A9AEDDD4E9,Specialized,Sirrus Elite Carbon Disc,,[u'Black'],True,"Richmond,94804",2015-09-21
+60932,2013 Trek Madone,WTU102XD5090G,Trek,Madone,2013,[u'Black'],True,"Sf,94102",2015-09-21
+58852,Marin Bikes Mill Valley Alp,C562BSD004,Marin Bikes,Mill Valley Alp,,[u'Black'],True,Oakland,2015-09-21
+58657,2014 Ritchey WCS Road Logic 2.0 Steel Road Bike,absent,Ritchey,WCS Road Logic 2.0 Steel Road Bike,2014,[u'Silver or Gray'],True,"El Cerrito,94530",2015-09-20
+58630,Trek 1420,absent,Trek,1420,,[u'Blue'],True,"Oakland,94611",2015-09-20
+61490,2014 Schwinn Voyager,cm14b534104,Schwinn,Voyager,2014,[u'Red'],True,"Oakland,94607",2015-09-19
+58588,1985 Miyata 610,absent,Miyata,610,1985,[u'Blue'],True,"San Francisco,94110",2015-09-19
+58562,1996 Keith Bontrager Road lite,absent,Keith Bontrager,Road lite,1996,[u'Silver or Gray'],True,"Oakland,94606",2015-09-19
+58595,2011 Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,2011,[u'Green'],True,"San Francisco,94102",2015-09-19
+58594,2014 Novara Mia,U138Y14029,Novara,Mia ,2014,[u'Silver or Gray'],True,"San Francisco,94102",2015-09-19
+58584,1997 Bianchi Road,absent,Bianchi,Road,1997,[u'Red'],True,"San Francisco,94109",2015-09-19
+58592,1998 LeMond Racing Cycles BS 6102:1,000111649,LeMond Racing Cycles,BS 6102:1,1998,[u'White'],True,"Sf,94110",2015-09-19
+62311,1985 Schwinn World (Sport?) (mixte),absent,Schwinn,World (Sport?) (mixte),1985,[u'Red'],True,"San Francisco,94110",2015-09-19
+58597,Schwinn,absent,Schwinn,,,[u'Red'],True,"San Francisco,94110",2015-09-19
+34168,2014 Surly Cross-Check,m13127127,Surly,Cross-Check,2014,[u'Black'],True,"Berkeley,CA,94703",2015-09-18
+41795,2015 Cannondale,absent,Cannondale,,2015,[u'Black'],True,"Berkeley,CA,94703",2015-09-18
+58728,2015 Xtracycle Edgerunner,wu5d00012,Xtracycle,Edgerunner,2015,"[u'White', u'Blue', u'Black']",True,"San Francisco,94110",2015-09-18
+58846,Novara,absent,Novara,,,[u'Black'],True,"San Francisco,94110",2015-09-17
+58454,1995 Specialized Stumpjumper M2,95S10071,Specialized,Stumpjumper M2,1995,[u'Blue'],True,"Berkeley,94703",2015-09-17
+58527,2015 Specialized SIRRUS COMP DISC,WSBC602085767J,Specialized,SIRRUS COMP DISC,2015,[u'Silver or Gray'],True,"San Francisco,94102",2015-09-17
+58455,2000 Cannondale Jekyll,absent,Cannondale,Jekyll,2000,[u'Yellow or Gold'],True,"Berkeley,94703",2015-09-17
+58658,2015 Trek Domane 4.3,WTU324XD0197J,Trek,Domane 4.3,2015,"[u'White', u'Black', u'Orange']",True,"San Francisco,CA,94158",2015-09-17
+58459,2012 Larry Vs Harry Bullitt Cargo,WLH3123G,Larry Vs Harry,Bullitt Cargo,2012,[u'Red'],True,"San Francisco,94103",2015-09-17
+58499,Bridgestone radac,absent,Bridgestone,radac,,[u'Silver or Gray'],True,"San Francisco,CA,94105",2015-09-17
+58418,1995 Klein Bikes Rascal,RL5EBC,Klein Bikes,Rascal,1995,"[u'Purple', u'Black']",True,"San Francisco,94117",2015-09-17
+58402,Cannondale Bad Boy 5,HAOVD0488L,Cannondale,Bad Boy 5,,[u'Black'],True,"San Francisco,94107",2015-09-17
+44066,2014 Trek 7.2 FX,tbi-2277,Trek,7.2 FX,2014,[u'Blue'],True,"Lafayette,CA,94549",2015-09-16
+59302,2013 PUBLIC bikes V7i 2013,absent,PUBLIC bikes,V7i 2013,2013,[u'Black'],True,"San Francisco,94102",2015-09-16
+58503,1999 Specialized FSR XL Full suspension bike,PM805953,Specialized,FSR XL Full suspension bike,1999,[u'Silver or Gray'],True,"San Francisco,94103",2015-09-16
+58800,2015 Trek 7.4 FX Disc,WTU285C6105J,Trek,7.4 FX Disc,2015,[u'Silver or Gray'],True,"San Francisco,94124",2015-09-15
+58308,Peugeot Nice,8829,Peugeot,Nice,,[u'Blue'],True,"San Francisco,94109",2015-09-15
+58486,2012 PUBLIC bikes D8,07006,PUBLIC bikes,D8,2012,[u'Silver or Gray'],True,"Oakland,CA,94612",2015-09-14
+58366,2000 Specialized unknown,n/a,Specialized,unknown,2000,[u'Black'],True,"San Francisco,CA,94102",2015-09-14
+58293,2015 Colnago CX-Zero,absent,Colnago,CX-Zero,2015,[u'Orange'],True,"San Francisco,94103",2015-09-14
+57842,2007 Gary Fisher Marlin,SCC5M9222,Gary Fisher,Marlin,2007,[u'White'],True,San Francisco,2015-09-13
+57892,2015 Trek,WTU342C1185J,Trek,,2015,[u'Black'],True,"Oakland,94606",2015-09-13
+57921,2015 Schwinn Racer,absent,Schwinn,Racer,2015,[u'Green'],True,"Oakland,94612",2015-09-13
+58167,1999 LeMond Racing Cycles Zurich,280 51 781 1311,LeMond Racing Cycles,Zurich,1999,"[u'Stickers tape or other cover-up', u'White', u'Red']",True,"San Francisco,94110",2015-09-13
+57829,2013 Breezer Greenway,B232IC0030J,Breezer,Greenway,2013,[u'Green'],True,"San Francisco,94110",2015-09-12
+57858,2008 Cannondale Synapse Triple,absent,Cannondale,Synapse Triple ,2008,[u'White'],True,"Sf,94110",2015-09-12
+57733,2014 Trek 7.3 FX,WTU119C5996H,Trek,7.3 FX,2014,[u'Black'],True,"Berkeley,94705",2015-09-11
+57758,Fuji,absent,Fuji,,,"[u'Black', u'White']",True,"San Francisco,CA,94105",2015-09-11
+57646,2007 Novara Big Buzz,F04020701,Novara,Big Buzz,2007,[u'Silver or Gray'],True,"San Francisco,94103",2015-09-11
+57726,2015 Brompton Bicycle S6L,1502323075,Brompton Bicycle,S6L,2015,[u'Black'],True,"San Francisco,94124",2015-09-11
+57631,2004 Trek 5200,WL3136114,Trek,5200,2004,"[u'Blue', u'Silver or Gray']",True,"San Francisco,94103",2015-09-10
+57688,2011 Trek Lexa SLX,WTU023C2597F,Trek,Lexa SLX,2011,"[u'White', u'Silver or Gray']",True,"San Francisco,CA,94107",2015-09-10
+57845,2000 Giant TCR2,absent,Giant,TCR2,2000,[u'Yellow or Gold'],True,"San Francisco,94110",2015-09-10
+57550,2013 Santa Cruz TRC,CFSN B0012LM02504,Santa Cruz,TRC,2013,[u'White'],True,"Larkpsur,94939",2015-09-09
+57500,2014 Jamis Coda Sport,u12xu49517,Jamis,Coda Sport,2014,[u'Black'],True,"San Francisco,94117",2015-09-09
+57570,2015 Diamondback Century 2,U154K02740,Diamondback,Century 2,2015,[u'Blue'],True,"San Francisco,CA,94105",2015-09-09
+57496,2015 Cotic Escapade,absent,Cotic,Escapade,2015,[u'Teal'],True,"Berkeley,94702",2015-09-09
+58579,2009 Jamis Coda Sport,absent,Jamis,Coda Sport,2009,[u'Red'],True,"Oakland,94609",2015-09-08
+57620,2015 Electra Cruiser 1,WTU003A3303K,Electra,Cruiser 1,2015,[u'Red'],True,"San Francisco,94110",2015-09-08
+60088,2011 Specialized Tarmac SL3 Expert Double,STAV410F0071,Specialized,Tarmac SL3 Expert Double,2011,[u'Black'],True,"Lafayette,94549",2015-09-08
+60423,Burley Design D'Lite ST,D94805010900535,Burley Design,D'Lite ST,,"[u'Red', u'Black']",True,"Lafayette,94549",2015-09-07
+57623,2015 Giant Defy Advanced 2,GB4Z3115,Giant,Defy Advanced 2 ,2015,[u'Black'],True,"Alameda,94501",2015-09-07
+57233,2008 Fuji CCR2,absent,Fuji,CCR2,2008,[u'Orange'],True,"San Francisco,94117",2015-09-06
+57854,1997 Specialized Stumpjunper,absent,Specialized,Stumpjunper,1997,[u'Green'],True,"Oakland,94607",2015-09-06
+57256,2010 Specialized Sirrus Comp,WUD092289160E,Specialized,Sirrus Comp,2010,[u'Silver or Gray'],True,"San Francisco,94110",2015-09-06
+57168,2010 Cervélo P2-SL,absent,Cervélo,P2-SL,2010,[u'Yellow or Gold'],True,"San Francisco,94117",2015-09-06
+60042,2015 Trek,WTU183C5429H,Trek,,2015,[u'Black'],True,San Francisco,2015-09-05
+57014,Trek 1400,absent,Trek,1400,,[u'White'],True,"San Francisco,94115",2015-09-04
+57056,Specialized Sirius,absent,Specialized,Sirius,,[u'Silver or Gray'],True,"San Francisco,CA,94102",2015-09-04
+56997,2014 Novara Matador 29,U141K25071,Novara,Matador 29,2014,"[u'Black', u'Red']",True,"Alameda,CA,94501",2015-09-03
+56998,2013 Fuji B1 2588,1F 1080 1940,Fuji,B1 2588,2013,"[u'White', u'Yellow or Gold', u'Green']",True,"Oakland,CA,94610",2015-09-03
+56995,2013 Cannondale Quick 5,JM36452,Cannondale,Quick 5,2013,"[u'Black', u'Red']",True,"Alameda,94501",2015-09-03
+57412,2011 Specialized Allez Comp,WSBC602058022F,Specialized,Allez Comp,2011,"[u'Black', u'Red', u'White']",True,"Oakland,94604",2015-09-03
+57163,2004 Bike Friday New World Tourist,12587,Bike Friday,New World Tourist,2004,[u'Blue'],True,"San Francisco,94116",2015-09-03
+56900,2015 6KU Track,absent,6KU,Track,2015,[u'Yellow or Gold'],True,"San Francisco,94107",2015-09-02
+56831,Soma Double Cross Disc,SFBKW0062,Soma,Double Cross Disc,,[u'Black'],True,"San Francisco,94107",2015-09-02
+62375,2009 Specialized Dolce Elite Compact,m8ik41531,Specialized,Dolce Elite Compact,2009,"[u'Red', u'Black']",True,"Alameda,CA,94501",2015-09-02
+56863,2011 Raleigh Capri 3.0,absent,Raleigh,Capri 3.0,2011,[u'Silver or Gray'],True,"Oakland,94609",2015-09-02
+58141,2014 Ibis Ibis MoJo HDR,14HF0307M,Ibis,Ibis MoJo HDR,2014,[u'Black'],True,"Oakland,94609",2015-09-02
+58578,2013 PUBLIC bikes c7i,absent,PUBLIC bikes,c7i,2013,[u'Blue'],True,"Oakland,94609",2015-09-01
+56780,2009 Surly Pugsley,8094162,Surly,Pugsley,2009,[u'Silver or Gray'],True,"San Francisco,94110",2015-09-01
+56765,2009 Redline 3.2,HR0943378,Redline,3.2,2009,"[u'Purple', u'Blue']",True,"Berkeley,94702",2015-09-01
+56743,2015 Bianchi Strada,WBK745924K,Bianchi,Strada,2015,"[u'Silver or Gray', u'Green']",True,"San Francisco,CA,94114",2015-08-31
+56813,Univega,absent,Univega,,,"[u'Red', u'White']",True,"San Francisco,CA,94103",2015-08-31
+56748,2014 Fuji Absolute 1.3 D,SPE025IC0123J,Fuji,Absolute 1.3 D,2014,[u'Red'],True,"San Francisco,94103",2015-08-31
+58172,2004 Bianchi Milano Cafe Racer,absent,Bianchi,Milano Cafe Racer,2004,[u'Silver or Gray'],True,"Oakland,94612",2015-08-31
+56731,Trek Lexa,wtu175c867g,Trek,Lexa,,[u'Silver or Gray'],True,"Berkeley,CA,94704",2015-08-31
+56414,2013 Cannondale Caad10 5 105,absent,Cannondale,Caad10 5 105,2013,[u'Red'],True,"Oakland,94607",2015-08-31
+56432,2012 Mission Bicycles,absent,Mission Bicycles,,2012,[u'Blue'],True,"San Francisco,CA,94102",2015-08-30
+56425,GT Bicycles Zaskar,absent,GT Bicycles,Zaskar,,"[u'Black', u'Red']",True,"San,94107",2015-08-30
+56618,Marin Bikes Larkspur CS2,HA 14642ASE020,Marin Bikes,Larkspur CS2,,[u'Silver or Gray'],True,"Oakland,CA,CA",2015-08-30
+56418,2013 Marin Bikes COAST TRAIL WFG,MB3CTWGY17,Marin Bikes,COAST TRAIL WFG,2013,"[u'Black', u'Green', u'Silver or Gray']",True,"San,CA,94107",2015-08-30
+56444,2015 Orbea Orca,2211356D12560F6,Orbea,Orca,2015,[u'Black'],True,"Richmond,94804",2015-08-30
+56325,2014 Vilano C1 Womens Comfort Road 21 Speed,0720140887,Vilano,C1 Womens Comfort Road 21 Speed,2014,[u'Green'],True,"San Francisco,94115",2015-08-29
+56337,LeMond Racing Cycles Reno,absent,LeMond Racing Cycles,Reno,,[u'Purple'],True,"San Francisco,94107",2015-08-29
+56377,1999 Kona Lava Dome,H9N18707,Kona,Lava Dome,1999,[u'Purple'],True,"San Francisco,94110",2015-08-28
+56319,2015 Norco Bikes VFR 4 Forma,AJ5001384,Norco Bikes,VFR 4 Forma,2015,[u'Black'],True,"San Francisco,94110",2015-08-28
+56290,"2014 Giant Liv, Alight",C84A6154,Giant,"Liv, Alight",2014,[u'Black'],True,San Francisco,2015-08-28
+57004,2015 Bianchi Impulso Dama,EK3E27870,Bianchi,Impulso Dama,2015,[u'White'],True,"Oakland,94609",2015-08-28
+56404,2013 Mission Bicycles Light gray with purple rims and chain,M13011196,Mission Bicycles,Light gray with purple rims and chain,2013,"[u'Silver or Gray', u'Purple']",True,"San Francisco,94103",2015-08-28
+61580,2010 Specialized Sirrus Sport X3,WSBC602009203F,Specialized,Sirrus Sport X3,2010,[u'Black'],True,"San Francisco,94114",2015-08-27
+57371,"2011 Marin Bikes Bridgeway 17"" 700c",absent,Marin Bikes,"Bridgeway 17"" 700c ",2011,"[u'Yellow or Gold', u'Silver or Gray']",True,"San Francisco,94103",2015-08-27
+56112,2015 Magna Mountain Bike Women,T2767082090817,Magna,Mountain Bike Women,2015,[u'Purple'],True,"San Francisco,94103",2015-08-27
+56072,1975 Raleigh Grand Prix,wk5004191,Raleigh,Grand Prix,1975,[u'Blue'],True,"San Francisco,94109",2015-08-26
+56105,1983 Specialized expedition,absent,Specialized,expedition,1983,[u'Orange'],True,"Oakland,94609",2015-08-26
+56279,Trek Soho,EN1475,Trek,Soho,,[u'Silver or Gray'],True,"Berkeley,CA,94710",2015-08-26
+56060,2006 Redline 925,absent,Redline,925,2006,[u'Silver or Gray'],True,"Alameda,94501",2015-08-26
+57085,2010 Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,2010,[u'Blue'],True,"San Francisco,94105",2015-08-26
+56013,2014 Diamondback Overdrive Comp,absent,Diamondback,Overdrive Comp,2014,[u'Silver or Gray'],True,"Berkeley,94709",2015-08-26
+55926,2012 Soma Double Cross,TSFBG01059,Soma,Double Cross,2012,[u'Black'],True,"San Francisco,94118",2015-08-25
+55876,2014 Trek 7.7 FX,WTU300XD5191H,Trek,7.7 FX,2014,[u'Black'],True,Walnut Creek,2015-08-25
+56008,2014 Specialized ALLEZ C2,WSBC606071222I,Specialized,ALLEZ C2,2014,"[u'Black', u'Red']",True,"San Francisco,94103",2015-08-24
+55821,2015 Vilano C1 Comfort Road Bike,absent,Vilano,C1 Comfort Road Bike ,2015,[u'Blue'],True,"San Francisco,94105",2015-08-24
+55877,2014 Huffy cranbrook,absent,Huffy,cranbrook,2014,[u'Yellow or Gold'],True,"San Francisco,94103",2015-08-24
+94124,2015 Cannondale Quick 4,FM00797,Cannondale,Quick 4,2015,"[u'Silver or Gray', u'Black']",True,"San Francisco,CA",2015-08-24
+55786,2015 Jamis Coda Sport,U146U2762,Jamis,Coda Sport,2015,[u'Black'],True,"San Francisco,94112",2015-08-23
+56043,Giant Iguana,GU685973,Giant,Iguana,,[u'Yellow or Gold'],True,"San Francisco,CA",2015-08-23
+55731,2015 Cannondale R700,Q036614,Cannondale,R700,2015,[u'Black'],True,"San Francisco,94110",2015-08-23
+92267,SCOTT,s5f02747,SCOTT,,,[u'Purple'],True,"Berkeley,CA,94702",2015-08-23
+55656,KHS Bicycles,B13N00241,KHS Bicycles,,,[u'Red'],True,"San Francisco,94107",2015-08-23
+55872,2010 Specialized Tarmac Expert SL Double,STD59A0477,Specialized,Tarmac Expert SL Double,2010,[u'White'],True,"San Francisco,94118",2015-08-22
+55874,2012 Salsa El Mariachi,absent,Salsa,El Mariachi,2012,[u'Silver or Gray'],True,"San Francisco,94118",2015-08-22
+55460,2007 Trek 5200T,WL3389947,Trek,5200T,2007,[u'Black'],True,"San Francisco,94111",2015-08-21
+55539,2013 Salsa,M11030579,Salsa,,2013,[u'Blue'],True,"San Francisco,CA,94102",2015-08-21
+55085,Giant Escape 2,CC1J3368,Giant,Escape 2,,[u'Black'],True,"Oakland,CA,94609",2015-08-21
+55669,1993 Litespeed Obed,10139,Litespeed,Obed,1993,[u'Silver or Gray'],True,"San Francisco,94550",2015-08-21
+55791,Gunnar Street Dog,absent,Gunnar,Street Dog,,[u'Orange'],True,"Berkeley,94703",2015-08-21
+56077,2012 Trek Madone 5.2 H2 (Compact),WTU182CT131F,Trek,Madone 5.2 H2 (Compact),2012,[u'Black'],True,"Richmond,CA,94804",2015-08-21
+91991,2016 Giant,C4AL0028,Giant,,2016,[u'Brown'],True,"Berkeley,94710",2015-08-21
+55358,2004 Fuji Silhoette,absent,Fuji,Silhoette,2004,[u'Silver or Gray'],True,"Oakland,94618",2015-08-21
+55337,Schwinn,absent,Schwinn,,,[u'Blue'],True,"Oakland,94608",2015-08-20
+55679,2015 Fuji Absolute,SWBD011L0269L,Fuji,Absolute,2015,[u'Silver or Gray'],True,"San Francisco,94158",2015-08-20
+55502,2010 Marin Bikes San Rafael,CA10643FSC109,Marin Bikes,San Rafael,2010,[u'Blue'],True,"Redwood City,CA,94063",2015-08-20
+55353,2014 Felt Z85,F1206K5174,Felt,Z85,2014,"[u'Black', u'Red']",True,"San Francisco,94114",2015-08-20
+55345,2014 Reid - Australia Osprey - Flat Bar Road Bike,absent,Reid - Australia,Osprey - Flat Bar Road Bike,2014,[u'White'],True,"San Francisco,94109",2015-08-20
+55730,2014 Critical Cycles Step-thru 7-Speed Shimano Hybrid Urban Commuter Road Bicycle,absent,Critical Cycles,Step-thru 7-Speed Shimano Hybrid Urban Commuter Road Bicycle,2014,[u'White'],True,"San Mateo,94401",2015-08-20
+55650,Schwinn Varsity,absent,Schwinn,Varsity,,[u'Green'],True,"Oakland,94608",2015-08-20
+55770,2008 Trek 1.2T,WTU260C0619C,Trek,1.2T,2008,[u'Black'],True,"Berkeley,94708",2015-08-20
+55440,2009 Jamis Nova Pro,WK9E00303,Jamis,Nova Pro,2009,"[u'Green', u'White']",True,"San Francisco,94108",2015-08-20
+55376,2003 Cannondale R1000,N028313,Cannondale,R1000,2003,"[u'Silver or Gray', u'Red']",True,San Francisco,2015-08-20
+55312,1978 Schwinn Road Bike,absent,Schwinn,Road Bike,1978,[u'Blue'],True,"San,94122",2015-08-19
+55241,2014 Kent La Jolla,absent,Kent,La Jolla,2014,"[u'Red', u'White']",True,"San Francisco,CA,94110",2015-08-19
+55344,1999 Cannondale R300,D7634D2E52,Cannondale,R300,1999,[u'Purple'],True,"Oakland,94609",2015-08-19
+55255,2009 Specialized Sequoia,STB5163378,Specialized,Sequoia,2009,[u'Silver or Gray'],True,"San Francisco,94117",2015-08-19
+55233,2010 Gary Fisher Cronus Pro,absent,Gary Fisher,Cronus Pro,2010,[u'White'],True,"Millbrae,94030",2015-08-18
+55336,2015 Trek Domane 4.3,WTU017XD0015J,Trek,Domane 4.3,2015,"[u'Blue', u'Black']",True,"Oakland,94608",2015-08-18
+55181,2014 Cannondale Bad Boy 5,EM16952,Cannondale,Bad Boy 5,2014,[u'Black'],True,"San Francisco,94122",2015-08-17
+56936,2006 Trek 2100,absent,Trek,2100,2006,[u'Silver or Gray'],True,"Oakland,94608",2015-08-17
+55405,2015 Schwinn Sidewinder,absent,Schwinn,Sidewinder,2015,"[u'Pink', u'Black']",True,"Lafayette,94549",2015-08-17
+56033,1980 Schwinn Le Tour,SD005668,Schwinn,Le Tour,1980,[u'Blue'],True,"San Francisco,94117",2015-08-16
+54988,Giant Sedona,absent,Giant,Sedona  ,,[u'Silver or Gray'],True,"Oakland,94609",2015-08-16
+91370,SE Bikes Draft,absent,SE Bikes,Draft,,[u'Black'],True,"Berkeley,CA,94703",2015-08-16
+55034,2010 Trek 520,absent,Trek,520,2010,[u'Brown'],True,"Albany,94706",2015-08-16
+55413,2015 Evil Following,EVM15201520477,Evil,Following,2015,[u'Black'],True,"Moraga,94556",2015-08-15
+54877,2013 Marin Bikes Cortina,FA13482GS5026,Marin Bikes,Cortina,2013,[u'Black'],True,"San Francisco,94105",2015-08-15
+54832,2015 Bianchi Pista,WBK702926E,Bianchi,Pista,2015,[u'Teal'],True,"San Francisco,CA,94110",2015-08-15
+54877,2013 Marin Bikes Cortina,FA13482GS5026,Marin Bikes,Cortina,2013,[u'Black'],True,"San Francisco,94105",2015-08-15
+55861,1983 Trek 400,absent,Trek,400,1983,"[u'Blue', u'Yellow or Gold']",True,"San Francisco,94110",2015-08-14
+54777,Trek,WTV121CS286F,Trek,,,[u'Blue'],True,"San Francisco,94114",2015-08-14
+54679,2003 Novara,110Y0227,Novara,,2003,[u'Black'],True,"Oakland,94609",2015-08-13
+55128,2012 Jamis Coda Sport,U123U12672,Jamis,Coda Sport,2012,[u'Black'],True,"Berkeley,CA,94705",2015-08-13
+54869,2012 Cannondale Synapse 5,absent,Cannondale,Synapse 5,2012,[u'Purple'],True,"San Francisco,94102",2015-08-13
+54763,2012 Trek Marlin,WTU193C9076G,Trek,Marlin,2012,"[u'Black', u'Red']",True,"San Francisco,94117",2015-08-13
+54669,2014 Yuba ElMundo,ACA12M005971,Yuba,ElMundo,2014,[u'Black'],True,"Oakland,CA,94608",2015-08-13
+51592,Felt track,S1401444,Felt,track,,"[u'Teal', u'Yellow or Gold']",True,"San Francisco,CA,94117",2015-08-12
+54540,2015 Fuji Traverse,00768661280109,Fuji,Traverse,2015,[u'Blue'],True,"Albany,94706",2015-08-12
+33938,1993 Bridgestone MB-1,J4213809,Bridgestone,MB-1,1993,[u'White'],True,"San Francisco,CA,94114",2015-08-12
+54625,1971 Univega Univega,absent,Univega,Univega,1971,[u'Black'],True,"San Francisco,94110",2015-08-12
+54542,2015 Huffy Sportsman,A11J5A181514,Huffy,Sportsman,2015,[u'Black'],True,"Albany,94706",2015-08-12
+54464,2014 BMC Granfondo GF01,4RC4E3182,BMC,Granfondo GF01,2014,[u'Black'],True,"San Francisco,CA,94109",2015-08-11
+54776,2012 Specialized Globe Utility,C606044371F,Specialized,Globe Utility,2012,[u'Black'],True,"San Francisco,94114",2015-08-11
+54385,2014 Specialized Ariel Sport Disc,WSBC 606019697I,Specialized,Ariel Sport Disc ,2014,[u'Black'],True,"Berkeley,94709",2015-08-11
+54457,2009 Marin Bikes Mill Valley,FF639ESF012,Marin Bikes,Mill Valley,2009,[u'Silver or Gray'],True,"San Francisco,94114",2015-08-10
+54407,2014 Marin Bikes Fairfax SC4 N 700C,FA14696JSE013,Marin Bikes,Fairfax SC4 N 700C,2014,[u'Black'],True,"San Francisco,94114",2015-08-10
+54437,2012 Kona fire mountain,absent,Kona,fire mountain,2012,[u'Yellow or Gold'],True,"Oakland,94609",2015-08-10
+54979,2015 Bianchi Vigorelli,WBK732036J,Bianchi,Vigorelli,2015,[u'Teal'],True,"San Francisco,CA,94118",2015-08-10
+54320,2015 Specialized Sirrus Sport,293745,Specialized,Sirrus Sport,2015,[u'Black'],True,"San Francisco,CA,94110",2015-08-09
+59247,2010 Trek 7200,WTU 197C1742C,Trek,7200,2010,[u'White'],True,"San Carlos,94070",2015-08-09
+54292,1985 Specialized Allez SE,absent,Specialized,Allez SE,1985,[u'Red'],True,"San Francisco,CA,94107",2015-08-09
+54600,"2015 Cannondale Cannondale Carbon Synapse 5 , 54 cm",CM69476,Cannondale,"Cannondale Carbon Synapse 5 ,  54 cm",2015,[u'White'],True,"San Francisco,94114",2015-08-09
+54572,2009 Trek 7.3 FX WSD,wtu143c4017d,Trek,7.3 FX WSD,2009,[u'Yellow or Gold'],True,San Francisco,2015-08-08
+54313,2006 Motobecane HT500,absent,Motobecane,HT500,2006,[u'Red'],True,"San Francisco,CA,94110",2015-08-08
+54201,2015 Fuji Tread 1.1,WBD349L1183K,Fuji,Tread 1.1,2015,"[u'Black', u'Green']",True,"San Francisco,94107",2015-08-08
+54293,Specialized Hardrock,absent,Specialized,Hardrock,,[u'Silver or Gray'],True,"San Francisco,94114",2015-08-08
+54403,2013 Specialized Hard tail 29er,wsbc601015531h,Specialized,Hard tail 29er,2013,[u'Red'],True,"San Francisco,94110",2015-08-07
+54182,2015 Priority Bicycles Priority,P0P003765,Priority Bicycles,Priority,2015,[u'Blue'],True,"San Francisco,94110",2015-08-07
+54351,Raleigh Rush Hour,absent,Raleigh,Rush Hour,,[u'Silver or Gray'],True,"San Francisco,94107",2015-08-07
+54063,Fuji Gran Tourer,79E90309,Fuji,Gran Tourer,,[u'Silver or Gray'],True,"San Francisco,CA,94124",2015-08-07
+74531,Trek 7300,absent,Trek,7300,,[u'Red'],True,"San Francisco,CA,94114",2015-08-06
+31950,2015 Trek 7.2FX,WTU204C0906J,Trek,7.2FX,2015,[u'Black'],True,"Berkeley,CA",2015-08-06
+53929,Fuji,absent,Fuji,,,[u'Blue'],True,"San Francisco,94115",2015-08-06
+53919,6KU,absent,6KU,,,[u'Yellow or Gold'],True,"San Francisco,94103",2015-08-05
+53836,2012 Novara Veritas,absent,Novara,Veritas,2012,[u'Yellow or Gold'],True,"San Francisco,94108",2015-08-04
+53945,2013 Trek 7.2 FX,WTU213C6463H,Trek,7.2 FX,2013,[u'Black'],True,"Oakland,94618",2015-08-04
+53878,2014 Raleigh Misceo 2.0,U141K09336,Raleigh,Misceo 2.0,2014,[u'Black'],True,"San Francisco,CA,94110",2015-08-04
+55212,2015 Tern Eclipse P18,AA40302212,Tern,Eclipse P18,2015,[u'Black'],True,"Berkeley,94704",2015-08-04
+53918,1985 Fuji Gran Touring,absent,Fuji,Gran Touring ,1985,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-08-03
+92411,Surly Long Haul Trucker,M12040330,Surly,Long Haul Trucker,,[u'Green'],True,"Oakland,CA,94608",2015-08-03
+53721,2006 Trek 2.1 Pilot- ZR 9000 Alloy,absent,Trek,2.1 Pilot- ZR 9000 Alloy ,2006,[u'White'],True,"San Francisco,CA,94102",2015-08-03
+54045,2013 Handsome Cycles Devil commuter,absent,Handsome Cycles,Devil commuter,2013,[u'Blue'],True,"Sf,94117",2015-08-03
+53536,1980 Fuji,absent,Fuji,,1980,[u'Silver or Gray'],True,"San Francisco,94110",2015-08-02
+53526,2014 Trek 7.4 FX Disc,WTU211C6066J,Trek,7.4 FX Disc,2014,[u'Silver or Gray'],True,"San Francisco,94110",2015-08-02
+53614,2014 Giant Escape 1,c63c1972,Giant,Escape 1,2014,[u'White'],True,"San Francisco,94123",2015-08-02
+53782,Giant Sedona ST w,C29F6721,Giant,Sedona ST w,,[u'Silver or Gray'],True,"Berkeley,94709",2015-08-02
+53414,2015 Nashbar 105,absent,Nashbar,105,2015,[u'Black'],True,"San Francisco,94106",2015-08-01
+53546,2015 Breezer Greenway Sport,WBD224L0978K,Breezer,Greenway Sport,2015,[u'Orange'],True,"San Francisco,94107",2015-08-01
+53525,2012 Surly Long Haul Trucker,M11125828,Surly,Long Haul Trucker,2012,[u'Black'],True,"Oakland,94612",2015-07-31
+53289,2005 Bianchi Vigorelli,absent,Bianchi,Vigorelli,2005,"[u'Red', u'White']",True,"San Francisco,94123",2015-07-30
+53356,2014 Specialized Vita,WSBC60224949SI,Specialized,Vita,2014,[u'Purple'],True,"San Francisco,94107",2015-07-30
+53113,2015 Diamondback,DAU15D005979,Diamondback,,2015,[u'Teal'],True,"Oakland,94609",2015-07-30
+54301,2015 Giant,CB4J5566,Giant,,2015,"[u'Black', u'Black']",True,"Oakland,94608",2015-07-29
+53075,2012 Giant Anthem-X,absent,Giant,Anthem-X,2012,[u'Black'],True,"San Francisco,94117",2015-07-29
+53216,2013 Salsa Fargo,absent,Salsa,Fargo,2013,[u'Blue'],True,"San Francisco,94110",2015-07-29
+53056,2012 Specialized Sirrus,absent,Specialized,Sirrus,2012,[u'Black'],True,Oakland,2015-07-29
+53037,Trek 7.2 FX 20,WTU051C0733J,Trek,7.2 FX 20,,"[u'Black', u'Green']",True,"San Francisco,94117",2015-07-29
+53313,2015 Fuji Declaration,wbd135l0083k,Fuji,Declaration,2015,"[u'Black', u'White']",True,Berkeley,2015-07-29
+53079,2014 Salsa Vaya,M13053339,Salsa,Vaya,2014,[u'Blue'],True,"San Francisco,94117",2015-07-29
+53287,2007 Bianchi Nirone,absent,Bianchi,Nirone,2007,"[u'Blue', u'Black']",True,"San Francisco,94115",2015-07-28
+53067,2013 Yeti Arc-c,absent,Yeti,Arc-c,2013,[u'Teal'],True,"San Francisco,94117",2015-07-28
+52789,PUBLIC bikes Dutch Style,absent,PUBLIC bikes,Dutch Style ,,[u'White'],True,"San Francisco,95133",2015-07-28
+52781,Cramerotti Maverick,absent,Cramerotti,Maverick,,"[u'White', u'Blue']",True,"Berkeley,94702",2015-07-27
+53875,Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,,[u'Brown'],True,"San Francisco,94117",2015-07-27
+53667,Trek 7.2 FX,SWTU230C9965H,Trek,7.2 FX,,[u'Black'],True,"Berkeley,94704",2015-07-26
+52778,2014 KTM Manhattan,D13F01945,KTM,Manhattan,2014,[u'Black'],True,"San Francisco,94107",2015-07-26
+52742,2013 Fuji,absent,Fuji,,2013,[u'Red'],True,"Berkeley,94702",2015-07-26
+44266,2015 Del Sol Campus 101,05HAX5K0065,Del Sol,Campus 101,2015,[u'Black'],True,"Oakland,CA,94612",2015-07-26
+52749,2014 Motobecane Sprint,absent,Motobecane,Sprint,2014,[u'White'],True,"San Francisco,94103",2015-07-26
+52790,2014 Santa Cruz 5010 CR,absent,Santa Cruz,5010 CR,2014,[u'Silver or Gray'],True,"Oakland,CA,94618",2015-07-26
+52707,2014 Spot ajax,A209068066,Spot,ajax,2014,[u'Black'],True,"San Francisco,94102",2015-07-25
+52419,2012 Felt Z95,F1203K0545,Felt,Z95,2012,[u'White'],True,"San Francisco,94122",2015-07-25
+52683,Bianchi Via Nirone,absent,Bianchi,Via Nirone,,"[u'White', u'Teal']",True,"San Francisco,94123",2015-07-25
+52465,1995 Trek 1220,absent,Trek,1220,1995,[u'Purple'],True,"Oakland,94609",2015-07-25
+52708,2015 Giant Escape 3,CIAC8775,Giant,Escape 3,2015,[u'Black'],True,"San Francisco,94105",2015-07-24
+52531,Specialized Dolce Sport,absent,Specialized,Dolce Sport,,"[u'White', u'Purple']",True,"San Francisco,CA,94123",2015-07-24
+52628,2013 Raleigh Revenio,U131K09039,Raleigh,Revenio,2013,[u'Black'],True,"San Francisco,CA,94103",2015-07-24
+52841,2005 Marin Bikes BobCat Trail,C426CGE001,Marin Bikes,BobCat Trail,2005,"[u'Silver or Gray', u'Black']",True,"San Francisco,94117",2015-07-24
+52712,2015 Giant Liv Alight 3,CZAD9384,Giant,Liv Alight 3,2015,[u'Green'],True,"San Francisco,94105",2015-07-24
+52261,2015 Evo,847130522,Evo,,2015,[u'Black'],True,"Berkeley,94702",2015-07-24
+52590,2012 Kona Makena 20,absent,Kona,Makena 20,2012,"[u'Pink', u'White']",True,"San Francisco,CA",2015-07-23
+52582,2000 Santa Cruz Superlight,1KZBH02891,Santa Cruz,Superlight,2000,"[u'Silver or Gray', u'Red']",True,"San Francisco,CA",2015-07-23
+52587,2012 Kona Kula 24,F1102K075,Kona,Kula 24,2012,"[u'Blue', u'White']",True,"San Francisco,CA",2015-07-23
+52559,1997 Keith Bontrager Titanium,absent,Keith Bontrager,Titanium,1997,[u'Silver or Gray'],True,"San Francisco,CA",2015-07-23
+52164,2015 Trek,absent,Trek,,2015,[u'Black'],True,"Berkeley,94720",2015-07-23
+52151,2013 KHS Bicycles ULTRA SPORT 1.0,absent,KHS Bicycles,ULTRA SPORT 1.0,2013,[u'Red'],True,"San Francisco,94118",2015-07-22
+52143,2014 Origin8 Crawler,B13060130,Origin8,Crawler,2014,[u'Silver or Gray'],True,"San Francisco,94118",2015-07-22
+52296,GT Bicycles,F100209244,GT Bicycles,,,[u'Blue'],True,94002,2015-07-22
+52183,2000 Trek Hybrid,WL0073000,Trek,Hybrid,2000,[u'Red'],True,"San Francisco,94107",2015-07-21
+52371,2015 Specialized Sirrus Sport,WSBC602346858J,Specialized,Sirrus Sport,2015,"[u'Black', u'Silver or Gray']",True,"San Francisco,94107",2015-07-21
+51884,Jamis Ventura Sport,absent,Jamis,Ventura Sport,,[u'Red'],True,"San Francisco,CA,94109",2015-07-20
+51992,2013 OHM,A0000250,OHM,,2013,[u'Green'],True,"San Francisco,CA,94102",2015-07-19
+87138,Nashbar,NB120527,Nashbar,,,[u'Green'],True,"San Francisco,CA,94103",2015-07-19
+51790,2015 Specialized Tarmac Comp,wsbc604898013j1,Specialized,Tarmac Comp,2015,[u'Black'],True,"San Francisco,94110",2015-07-19
+51771,OHM urban se,a0000254,OHM,urban se,,[u'Green'],True,"San Francisco,CA,94114",2015-07-19
+51731,2014 Specialized Sirrus Comp Carbon,WSBC605003322I,Specialized,Sirrus Comp Carbon,2014,[u'Black'],True,"San,94105",2015-07-18
+51672,2014 Giant Defy Composite 2 Lrg,G53Z2137,Giant,Defy Composite 2 Lrg,2014,"[u'Silver or Gray', u'White', u'Black']",True,"San Francisco,94104",2015-07-17
+51669,2014 Novara Carema,U138K05058,Novara,Carema,2014,"[u'Teal', u'White']",True,"San Francisco,94103",2015-07-17
+51535,2014 Cannondale Synapse 6 Tiagra,absent,Cannondale,Synapse 6 Tiagra,2014,[u'Black'],True,"San Francisco,94103",2015-07-16
+51550,2005 Cannondale F600,absent,Cannondale,F600,2005,[u'Blue'],True,"San Francisco,CA,94118",2015-07-16
+51526,SE Bikes SE,absent,SE Bikes,SE,,[u'Black'],True,"San Francisco,94104",2015-07-16
+53191,Specialized Epic (with other parts),absent,Specialized,Epic (with other parts),,"[u'Black', u'Red']",True,"San Francisco,94102",2015-07-16
+51629,2015 Trek 15 Lexa C,WTU062C1900K,Trek,15 Lexa C,2015,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-07-16
+51412,1993 Cannondale Black Lightning,absent,Cannondale,Black Lightning,1993,[u'Black'],True,"San Francisco,94103",2015-07-15
+51451,Gitane Tour de France,absent,Gitane,Tour de France,,[u'Orange'],True,"San Francisco,94114",2015-07-15
+51431,2013 KHS Bicycles URBAN XPRESS,U12001480,KHS Bicycles,URBAN XPRESS,2013,[u'Blue'],True,"San Francisco,94121",2015-07-14
+51354,2012 Cannondale,absent,Cannondale,,2012,[u'Blue'],True,"Berkeley,94702",2015-07-14
+51311,2014 Trek 7.3 fx,WTU024C0253J,Trek,7.3 fx,2014,"[u'White', u'Teal', u'Silver or Gray']",True,"San Francisco,CA,94102",2015-07-14
+54418,2012 Surly Long Haul Trucker,M12062997,Surly,Long Haul Trucker,2012,[u'Black'],True,"Oakland,CA,94607",2015-07-13
+51199,2013 Trek 7.4 FX,WTU353C6666G,Trek,7.4 FX,2013,[u'Silver or Gray'],True,"San Francisco,94103",2015-07-13
+51111,2015 Giant FCR 3 W 06,G2603947,Giant,FCR 3 W 06,2015,"[u'Red', u'White']",True,San Francisco,2015-07-12
+46094,2012 Surly Steamroller,M100922,Surly,Steamroller,2012,[u'Black'],True,"San Francisco,CA,94103",2015-07-12
+51102,2014 Cannondale,FM17013,Cannondale,,2014,[u'Black'],True,"San Francisco,CA,94107",2015-07-12
+51086,2013 Bianchi Viale Abruzzi,wkb1834498,Bianchi,Viale Abruzzi,2013,[u'Teal'],True,"San Francisco,94123",2015-07-11
+51010,2011 Cannondale Trail 5,010K01620,Cannondale,Trail 5,2011,[u'Black'],True,"San Francisco,94103",2015-07-10
+51024,2006 Santa Cruz Chameleon,S05060277,Santa Cruz,Chameleon,2006,[u'Red'],True,"San Francisco,94117",2015-07-10
+51411,2014 Novara Gotham,V138K14515,Novara,Gotham,2014,[u'Black'],True,"Oakland,94609",2015-07-10
+51115,2012 Jamis Quest Elite,WE2H00613,Jamis,Quest Elite,2012,[u'Red'],True,"Briones,94553",2015-07-10
+51028,2015 Intense Carbine 275,YTINF141887,Intense,Carbine 275,2015,[u'Black'],True,"San Francisco,94117",2015-07-10
+50981,2010 Gary Fisher Wahoo Disc,absent,Gary Fisher,Wahoo Disc,2010,[u'Silver or Gray'],True,"San Francisco,94122",2015-07-10
+51022,2006 Bianchi Axis,H5H000788,Bianchi,Axis,2006,[u'Blue'],True,"San Francisco,CA,94117",2015-07-10
+50822,1977 Schwinn Sprint,absent,Schwinn,Sprint,1977,[u'Blue'],True,"San Francisco, 94105",2015-07-09
+50891,2015 Specialized Stumpjumper FSR Carbon Comp 29,WSBC604026182J,Specialized,Stumpjumper FSR Carbon Comp 29,2015,[u'Black'],True,"Berkeley,94708",2015-07-09
+34913,2009 Scattante 570,IAS0040294,Scattante,570,2009,[u'Blue'],True,"San Francisco,CA,94107",2015-07-09
+51209,2015 Specialized Crossroads Elite,WSBC606119882J,Specialized,Crossroads Elite,2015,[u'Black'],True,"Pleasant Hill,94523",2015-07-09
+50809,2010 Specialized Allez,wud092304996e,Specialized,Allez ,2010,[u'Black'],True,"San Francisco,CA",2015-07-09
+51013,2014 Ibis Ripley,absent,Ibis,Ripley,2014,"[u'Black', u'Green']",True,"San Francisco,94017",2015-07-09
+50766,Specialized Sirrus Sport,p6j610040,Specialized,Sirrus Sport,,[u'White'],True,"Oakland,CA",2015-07-08
+50291,2014 Raleigh Capri 2.0,U135K09471,Raleigh,Capri 2.0,2014,[u'Silver or Gray'],True,"Emeryville,94608",2015-07-08
+52142,2013 BH Bikes Quartz Ultegra,XDS490H12573KST,BH Bikes,Quartz Ultegra,2013,[u'Black'],True,"San Francisco,94118",2015-07-08
+51106,GT Bicycles Talera,absent,GT Bicycles,Talera,,[u'Teal'],True,"San Francisco,94114",2015-07-08
+50217,2013 Fuji Sportif 1.5 C,FJ038IC0824J,Fuji,Sportif 1.5 C,2013,[u'Red'],True,"San Francisco,94104",2015-07-07
+51973,Surly Disc Trucker,MIZ067689,Surly,Disc Trucker,,[u'Green'],True,"San Francisco,94143",2015-07-07
+50150,2011 Surly Long Haul Trucker,M81233390,Surly,Long Haul Trucker,2011,[u'Green'],True,"Alameda,94501",2015-07-06
+50285,Specialized Rock Sport,absent,Specialized,Rock Sport,,[u'Red'],True,El Cerrito Plaza,2015-07-06
+50913,2000 Univega Via Carisma,absent,Univega,Via Carisma,2000,[u'Green'],True,"El Cerrito,94530",2015-07-06
+85121,2015 Fuji Sportif,SWBD014L1849K,Fuji,Sportif,2015,[u'White'],True,"Emeryville,94608",2015-07-06
+50204,Fuji Nevada 2.0,WBD196L0287K,Fuji,Nevada 2.0,,"[u'Blue', u'White']",True,"San Francisco,94107",2015-07-06
+51619,1998 Keith Bontrager Privateer,50000011102,Keith Bontrager,Privateer,1998,[u'Teal'],True,"San Francisco,94110",2015-07-05
+50098,2013 Mercier Kilo TT,absent,Mercier,Kilo TT,2013,[u'Black'],True,"Oakland,94608",2015-07-05
+50052,2012 Trek LEXA 1.1c WSD,WTU052C2280G,Trek,LEXA 1.1c WSD,2012,[u'White'],True,"San Francisco,94109",2015-07-05
+50115,Litespeed Tuscany,absent,Litespeed,Tuscany,,[u'Silver or Gray'],True,"Berkeley,94705",2015-07-05
+50095,2014 Raleigh 14 Revenio 1.0 Aluminum Road,U143K24627,Raleigh,14 Revenio 1.0 Aluminum Road,2014,[u'Black'],True,"San Francisco,CA,94107",2015-07-05
+50073,2014 Giant Escape 3,C93D7530,Giant,Escape 3,2014,[u'Black'],True,"San Francisco,CA,94103",2015-07-05
+50266,2007 Specialized Stumpjumper FSR,M6HK22655,Specialized,Stumpjumper FSR,2007,[u'Silver or Gray'],True,"San Francisco Inner Sunset,CA,94122",2015-07-04
+50006,2013 Santa Cruz Nomad,a10567468,Santa Cruz,Nomad ,2013,[u'Black'],True,"San Francisco,94129",2015-07-04
+50013,2014 Ridley Liz,absent,Ridley,Liz,2014,[u'White'],True,"San Francisco,94110",2015-07-04
+51436,2013 Trek Neko SL,WTU326C5915G,Trek,Neko SL,2013,[u'Black'],True,"San Francisco,CA,94111",2015-07-03
+49967,2015 Giant Alight 3,CA4D7677,Giant,Alight 3,2015,[u'White'],True,"San Francisco,94102",2015-07-03
+49966,Specialized Allez,WSBC606004640J,Specialized,Allez,,"[u'Black', u'Red']",True,"San Francisco,94102",2015-07-03
+51440,"2012 Trek Utopia, Gary Fisher",WTU294C1311F,Trek,"Utopia, Gary Fisher",2012,[u'White'],True,"San Francisco,94111",2015-07-03
+49899,2010 Kona Tall Mens,I010900345,Kona,Tall Mens,2010,[u'White'],True,"Berkeley,94704",2015-07-03
+50117,2015 Trek 7.4 FX,SWTU269C6098J,Trek,7.4 FX,2015,[u'White'],True,"San,94115",2015-07-02
+49824,2005 Specialized Langster,absent,Specialized,Langster,2005,[u'Silver or Gray'],True,San Francisco,2015-07-02
+49776,2014 Dawes Cycles,absent,Dawes Cycles,,2014,[u'Green'],True,"Berkeley,94704",2015-07-02
+50076,Unknown,A402260120,Unknown,,,[u'Silver or Gray'],True,"San Francisco,94102",2015-07-01
+49775,2011 True North Custom,absent,True North,Custom,2011,[u'White'],True,"San Francisco,CA,94111",2015-07-01
+51493,2014 Giant Defy 1,GC3173359,Giant,Defy 1,2014,[u'White'],True,"San,94102",2015-07-01
+47557,Specialized Crossroads,gr204935,Specialized,Crossroads,,[u'Black'],True,"Berkeley,CA",2015-06-30
+49647,2013 Specialized Tricross Sport Disc Compact,WSBC-60209-897OH,Specialized,Tricross Sport Disc Compact,2013,[u'Orange'],True,"Berkeley,CA,94705",2015-06-29
+54977,"2015 Specialized htrack kids 20"" bike",WSBC711073209I,Specialized,"htrack kids 20"" bike",2015,[u'White'],True,"San Francisco,94102",2015-06-29
+49669,2011 Trek montare,WTU180c0826f,Trek,montare,2011,[u'Black'],True,"San Francisco,94111",2015-06-29
+49572,Raleigh Grand Sport,U8YY3135,Raleigh,Grand Sport,,[u'Black'],True,"San Francisco,94110",2015-06-29
+49612,2011 Cannondale Trail SL2,WM94666,Cannondale,Trail SL2,2011,[u'White'],True,"San Francisco,94105",2015-06-28
+49466,2013 Fuji Americano,AA339F0009,Fuji,Americano,2013,[u'Blue'],True,"San Francisco,94110",2015-06-27
+49917,2015 Specialized Sirrus Elite,6022816775,Specialized,Sirrus Elite,2015,[u'Silver or Gray'],True,"San Francisco,94109",2015-06-27
+49355,2015 Specialized Sirrus,WSBC602155004J,Specialized,Sirrus,2015,"[u'Black', u'Blue']",True,"San Francisco,94108",2015-06-26
+49375,2010 Rocky Mountain Bicycles CR10,PRK0755342,Rocky Mountain Bicycles,CR10,2010,[u'Blue'],True,"San Francisco,94118",2015-06-26
+49346,2012 Diamondback Insight,DAP13088878,Diamondback,Insight,2012,[u'Blue'],True,"San Francisco,94112",2015-06-26
+49220,2014 Cannondale Bad Boy 9,14B542604,Cannondale,Bad Boy 9,2014,[u'Black'],True,"San Francisco,CA,94103",2015-06-25
+49363,1987 Miyata 215st,098990,Miyata,215st,1987,[u'Blue'],True,"Oakland,94602",2015-06-25
+49536,2015 Diamondback Recoil 29er,U14YK08055,Diamondback,Recoil 29er,2015,[u'Red'],True,"San Francisco,CA,94111",2015-06-25
+49383,2010 Giant Transend,C99D9060,Giant,Transend,2010,[u'Black'],True,"San Francisco,94117",2015-06-25
+56390,2012 Fuji Cross 2.0,SIDPE12A03357,Fuji,Cross 2.0,2012,"[u'Blue', u'White']",True,"San Francisco,94102",2015-06-25
+49256,2009 Cannondale hooligan 3,um54452,Cannondale,hooligan 3,2009,[u'White'],True,"San Francisco,94103",2015-06-25
+49160,Cannondale Unknown,absent,Cannondale,Unknown,,[u'Black'],True,"San Francisco,94131-2315",2015-06-25
+49477,2010 Santa Cruz Heckler,absent,Santa Cruz,Heckler,2010,[u'Orange'],True,San Fransisco,2015-06-24
+49362,2009 Cannondale CAAD9,U112221,Cannondale,CAAD9,2009,[u'Blue'],True,"Oakland,94602",2015-06-24
+49294,Novara Carema,absent,Novara,Carema,,"[u'Silver or Gray', u'White']",True,San Francisco,2015-06-24
+49213,2014 Felt Brougham,YZ40408030,Felt,Brougham,2014,[u'Black'],True,"San Francisco,94103",2015-06-24
+49616,Trek Madone 3.1,absent,Trek,Madone 3.1,,[u'Black'],True,"San Francisco,94117",2015-06-24
+53830,2003 Gary Fisher Marlin,WW0270293,Gary Fisher,Marlin,2003,[u'Blue'],True,"San Bruno,94066",2015-06-24
+49322,2012 PUBLIC bikes Diamond frame,005050VB12,PUBLIC bikes,Diamond frame,2012,[u'Red'],True,"San Francisco,CA,94110",2015-06-24
+49211,1990 Other Columbus TItan,absent,Other,Columbus TItan,1990,[u'White'],True,"San Francisco,94110",2015-06-24
+49184,1996 Cannondale M400,absent,Cannondale,M400,1996,[u'Purple'],True,"San,94110",2015-06-24
+50914,2014 Mode AKA Mozie Carolina,absent,Mode AKA Mozie,Carolina,2014,[u'White'],True,"El Cerrito,94530",2015-06-23
+49020,2014 Specialized Secteur Elite,WSBC601044302I,Specialized,Secteur Elite,2014,[u'Silver or Gray'],True,"San Francisco,CA,94131",2015-06-23
+51183,2015 Trek 7.3 FX,WTU101C6612K,Trek,7.3 FX,2015,[u'Green'],True,Alameda,2015-06-23
+49164,2004 Cannondale CAAD5 R700,absent,Cannondale,CAAD5 R700,2004,[u'Black'],True,"San Francisco,94131-2315",2015-06-23
+49179,2009 Schwinn Le Tour,SN1DT903003,Schwinn,Le Tour,2009,[u'White'],True,"Oakland,94612",2015-06-23
+48985,Novara X-R,F1033200,Novara,X-R,,"[u'Purple', u'Blue']",True,"Berkeley,94710",2015-06-22
+51410,2010 GT Bicycles ZUM I9,00400017660479,GT Bicycles,ZUM I9,2010,[u'Black'],True,"Berkeley,94705",2015-06-22
+49012,Gravity Avenue A,absent,Gravity,Avenue A,,[u'White'],True,"San Fransisco,94103",2015-06-22
+49848,1980 Motobecane Grand Touring,absent,Motobecane,Grand Touring,1980,[u'Blue'],True,"Oakland,94607",2015-06-22
+48885,Trek 7.1 FX,wtu331c7371h,Trek,7.1 FX,,[u'Black'],True,"San Francisco,94107",2015-06-22
+48901,2012 Motobecane Fantom Cross CX3,CYIDC10G00337,Motobecane,Fantom Cross CX3,2012,[u'Black'],True,"San Francisco,94109",2015-06-21
+49100,2014 Cannondale Caad8 6 Tiagra,KM55753,Cannondale,Caad8 6 Tiagra,2014,"[u'Black', u'Red']",True,"San Francisco,94103",2015-06-21
+29532,Jamis Coda Sport,U116U33424,Jamis,Coda Sport,,"[u'Red', u'Silver or Gray']",True,"Emeryville,CA,94608",2015-06-21
+29532,Jamis Coda Sport,U116U33424,Jamis,Coda Sport,,"[u'Red', u'Silver or Gray']",True,"Emeryville,CA,94608",2015-06-21
+48903,2013 Specialized,WSBC602073469G,Specialized,,2013,"[u'Red', u'Black']",True,"San Francisco,94122",2015-06-21
+48977,2012 Giant Escape 0 W,C31D0324,Giant,Escape 0 W,2012,[u'Black'],True,"San Francisco,94107",2015-06-21
+49207,2011 Redline Conquest Pro,absent,Redline,Conquest Pro,2011,[u'Red'],True,"San Francisco,CA,94103",2015-06-21
+49591,2012 Specialized S-Works Tarmac SL4,STBP311I0553,Specialized,S-Works Tarmac SL4,2012,[u'Black'],True,"San Francisco,94131",2015-06-20
+48858,2014 Cannondale Supersix Evo Hi-Mod Team,FM91320,Cannondale,Supersix Evo Hi-Mod Team,2014,"[u'White', u'Green', u'Black']",True,"Oakland,94609",2015-06-20
+48937,2014 Giant Defy 5,C53K2323,Giant,Defy 5,2014,[u'Black'],True,"San Francisco,94117",2015-06-20
+48785,2015 Cannondale Bad Boy 3 MEDIUM,DM75372,Cannondale,Bad Boy 3 MEDIUM,2015,[u'Black'],True,"San Francisco,94111",2015-06-19
+49532,2015 Other Vantage 5.0,41131755,Other,Vantage 5.0,2015,[u'Black'],True,"Berkeley,94702",2015-06-19
+48765,2014 GT Bicycles agressor 3.0 14,00038675983687,GT Bicycles,agressor 3.0 14,2014,[u'White'],True,"San Francisco,94133",2015-06-19
+48689,Hasa TEAM 6.0 7005 T6,SAP0A00290,Hasa,TEAM 6.0 7005 T6,,[u'Red'],True,"San Francisco,94117",2015-06-19
+48783,2013 Xtracycle Electric Edgerunner cargo bike (rear storage),EZX12184,Xtracycle,Electric Edgerunner,2013,[u'Black'],True,"Berkeley,CA,94708",2015-06-19
+48884,Unknown unknown,absent,Unknown,unknown,,[u'Yellow or Gold'],True,"Berkeley,94705",2015-06-18
+49016,2015 Specialized XL Rockhopper Sport 29,WSBC60Z107544J,Specialized,XL Rockhopper Sport 29,2015,[u'Black'],True,"San Francisco,94110",2015-06-18
+49437,2015 SE Bikes Lager,wbd060l0413k,SE Bikes,Lager,2015,[u'Red'],True,"San Francisco,94103",2015-06-17
+48592,2014 Masi Comp CX,A4B0932489,Masi,Comp CX,2014,[u'Black'],True,"San Francisco,94117",2015-06-17
+49127,1993 Bridgestone BUB,absent,Bridgestone,BUB,1993,[u'Blue'],True,"San Francisco,94133",2015-06-17
+48515,2013 Raleigh Cadent FT1,U12YK07528,Raleigh,Cadent FT1,2013,[u'Silver or Gray'],True,"Oakland,CA,94609",2015-06-16
+48705,2012 Giant TCR Advanced 2,absent,Giant,TCR Advanced 2,2012,[u'White'],True,"San Francisco,94111",2015-06-16
+48520,2012 Specialized Crosstrail Sport Disk,SBC6082-18656G,Specialized,Crosstrail Sport Disk,2012,[u'Silver or Gray'],True,"Berkeley,CA,94704",2015-06-16
+49312,2014 Windsor Wellington 3.0,L140301537,Windsor,Wellington 3.0,2014,[u'White'],True,"San Francisco,CA,94132",2015-06-16
+80985,Trek 820,GR671893,Trek,820,,[u'Blue'],True,"San Francisco,94110",2015-06-16
+48445,2010 Cannondale,absent,Cannondale,,2010,[u'White'],True,San Francisco,2015-06-15
+48391,2005 Marin Bikes,absent,Marin Bikes,,2005,[u'Orange'],True,"Oakland,94607",2015-06-15
+48452,2011 Giant Seek 1,absent,Giant,Seek 1,2011,"[u'Silver or Gray', u'Silver or Gray']",True,"Oakland,94607",2015-06-15
+48393,1985 Specialized Stumpjumper,6z668370,Specialized,Stumpjumper,1985,[u'Red'],True,"San Francisco,94117",2015-06-15
+48451,2012 Trek Atwood WSD,absent,Trek,Atwood WSD,2012,"[u'White', u'Brown']",True,"Oakland,94607",2015-06-15
+48311,2014 PUBLIC bikes V7,absent,PUBLIC bikes,V7,2014,[u'Green'],True,"Oakland,94612",2015-06-14
+48361,2014 Trek Wahoo- 29,absent,Trek,Wahoo- 29,2014,[u'Blue'],True,"San Francisco,CA,94103",2015-06-14
+50264,2014 Trek Verve 1,SWTU281C5705G,Trek,Verve 1,2014,[u'Black'],True,"San Francisco,94114",2015-06-14
+48284,2015 Trek 7.3 FX,WTU107C6419J,Trek,7.3 FX ,2015,[u'Black'],True,"Oakland,94610",2015-06-13
+48272,2012 Specialized Dolce Triple,WSBC602061619G,Specialized,Dolce Triple,2012,[u'Black'],True,"San Francisco,94117",2015-06-13
+48193,2014 Cannondale Synapse 7 Sora,IM77562,Cannondale,Synapse 7 Sora,2014,[u'White'],True,"San Francisco,94117",2015-06-13
+48425,2014 Mission Bicycles Sutro,M14050541,Mission Bicycles,Sutro,2014,[u'Green'],True,"San Francisco,CA,94103",2015-06-13
+48181,2013 BMC TMRO1,absent,BMC,TMRO1,2013,"[u'Black', u'Red']",True,"San Francisco,CA",2015-06-12
+48270,2015 Retrospec Amok,tthk144589,Retrospec,Amok,2015,[u'White'],True,"Oakland,CA,94609",2015-06-12
+48121,Trek 7700fx,ww2784176,Trek,7700fx,,[u'Blue'],True,"Oakland,94609",2015-06-12
+48176,2014 PUBLIC bikes C1 2014 M/L,203680VB14F,PUBLIC bikes,C1 2014 M/L,2014,[u'White'],True,"San Francisco,94109",2015-06-12
+48077,2014 Hyper bmx,wma-132004,Hyper,bmx,2014,"[u'Black', u'Green']",True,San Francisco,2015-06-12
+48080,Mercier Kilo TT,absent,Mercier,Kilo TT,,[u'Black'],True,"San Francisco,94103",2015-06-11
+48173,2013 Specialized Tramac S-Works,WSBC604082969H,Specialized,Tramac S-Works ,2013,[u'Blue'],True,"San Francisco,CA,94110",2015-06-11
+48340,2012 Jamis Beatnik,U11XV01001,Jamis,Beatnik,2012,[u'Black'],True,"San Francisco,94107",2015-06-11
+47841,2014 Specialized Roubaix SL4 Comp Compact,WSBC6150022641,Specialized,Roubaix SL4 Comp Compact,2014,[u'Black'],True,"San Francisco,94103",2015-06-10
+48914,2007 Giant Rincon,C77C8324,Giant,Rincon,2007,[u'Green'],True,"San Anselmo,CA,94960",2015-06-10
+47839,2009 Giant Defy 3,GR9G3930,Giant,Defy 3,2009,"[u'Blue', u'White', u'Black']",True,"San Francisco,CA,94114",2015-06-10
+47980,2013 Raleigh Revenio,U12XK11755,Raleigh,Revenio,2013,[u'Silver or Gray'],True,"San Francisco,94129",2015-06-10
+37798,2010 Kona dew,AJ11050339,Kona,dew,2010,[u'Black'],True,"Oakland,CA,94610",2015-06-09
+47713,2015 Gravity Comp 22,L140503815,Gravity,Comp 22,2015,[u'Black'],True,"San Francisco,94107",2015-06-08
+47725,Diamondback Road,06A0017344,Diamondback,Road,,[u'Blue'],True,"Berkeley,94702",2015-06-08
+61993,"1990 Diamondback 24"" BMX",absent,Diamondback,"24"" BMX",1990,[u'Silver or Gray'],True,"San Francisco,94117",2015-06-08
+48431,2015 SCOTT Solace 30,SGR01F25414030085B,SCOTT,Solace 30,2015,"[u'White', u'Green']",True,"San Francisco,94109",2015-06-08
+47767,2015 Giant Defy 5,C84K8992,Giant,Defy 5,2015,"[u'Black', u'Red']",True,"San Francisco,94114",2015-06-08
+48104,2014 Surly Straggler,absent,Surly,Straggler,2014,[u'Black'],True,"San Francisco,CA,94107",2015-06-08
+47737,2011 Raleigh Talus,absent,Raleigh,Talus,2011,[u'Black'],True,"San Francisco,94103",2015-06-08
+47597,2014 Trek 8.2 DS,swtu104c1082j,Trek,8.2 DS,2014,[u'Silver or Gray'],True,"San Francisco,CA,94114",2015-06-07
+47676,2011 Focus Izalco,absent,Focus,Izalco,2011,"[u'White', u'Silver or Gray', u'Red']",True,"San Francisco,CA,94121",2015-06-07
+47591,2013 Specialized Cirrus Comp,6020523171H,Specialized,Cirrus Comp,2013,[u'Black'],True,"San Francisco,94103",2015-06-07
+47657,2012 Raleigh Port Townsend,119U17228,Raleigh,Port Townsend,2012,[u'Brown'],True,"San Francisco,94114",2015-06-07
+47656,2014 Specialized Vita Elite Carbon Disc EQ,604047830J,Specialized,Vita Elite Carbon Disc EQ,2014,[u'White'],True,"San Francisco,94118",2015-06-07
+47682,Dawes Cycles Lightning Sport,absent,Dawes Cycles,Lightning Sport,,[u'Red'],True,"San Francisco,94133",2015-06-07
+47642,2013 Trek Domane 4.5,WTU115XD5042G,Trek,Domane 4.5,2013,[u'White'],True,"San Francisco,CA,94117",2015-06-07
+47629,Haro 27 five Flightline Trail,XDS1404176,Haro,27 five Flightline Trail,,"[u'Black', u'Green']",True,"San Francisco,CA,94103",2015-06-07
+48071,2013 Trek NEKO s,wtu145c7708g,Trek,NEKO s ,2013,[u'White'],True,"Oakland,94609",2015-06-06
+47564,2008 Trek 7.3 FX,WTU078C1525D,Trek,7.3 FX,2008,[u'White'],True,"San Francisco,94107",2015-06-06
+47521,2015 Jamis quest elite,wes5g00119,Jamis,quest elite,2015,[u'Silver or Gray'],True,"Oakland,CA,94610",2015-06-06
+43603,Schwinn,GL811351,Schwinn,,,[u'Blue'],True,"San Francisco,CA,94110",2015-06-06
+47670,2013 Specialized Sirrus Elite,WSBC602150333H,Specialized,Sirrus Elite,2013,[u'Silver or Gray'],True,"San Leandro,CA,94578",2015-06-06
+47428,2009 Ibis Mojo,absent,Ibis,Mojo,2009,"[u'White', u'Black']",True,"San Francisco,CA,94110",2015-06-05
+47755,2014 Specialized Shiv Elite,wsbc604087665i,Specialized,Shiv Elite,2014,[u'Black'],True,"San Francisco,94133",2015-06-05
+48081,2013 Diamondback Podium 3,U131K30633,Diamondback,Podium 3,2013,[u'Blue'],True,"San Mateo,94403",2015-06-05
+47773,2015 Specialized S-works Shiv Module,wsbc604025691j,Specialized,S-works Shiv Module,2015,"[u'Blue', u'Red', u'White']",True,"San Francisco,94133",2015-06-05
+47427,1986 Fuji 450 SE,absent,Fuji,450 SE,1986,[u'Green'],True,"Oakland,94607",2015-06-05
+47698,2002 Bianchi Axis,007872,Bianchi,Axis,2002,[u'Blue'],True,"San Francisco,94102",2015-06-05
+47610,2014 Fuji Sportif 2.1,FJ168C1403K,Fuji,Sportif 2.1,2014,[u'Black'],True,"San Francisco,94107",2015-06-05
+47559,2008 Jamis Ventura Race,absent,Jamis,Ventura Race,2008,[u'Red'],True,"CA,94117",2015-06-04
+47365,2013 Pinarello Dogma 65.1,4AA5600290123,Pinarello,Dogma 65.1,2013,[u'Black'],True,"San Francisco,94109",2015-06-04
+47432,2001 Airborne Zeppelin,SER01339,Airborne,Zeppelin,2001,[u'Silver or Gray'],True,"San Francisco,CA,94122",2015-06-04
+56893,2009 Specialized 10HARDROCK,PL09108694,Specialized,10HARDROCK,2009,[u'Black'],True,"El Cerrito,94530",2015-06-04
+47684,2014 Trek 1.2 (Compact or Triple),WTU356C6746H,Trek,1.2 (Compact or Triple),2014,[u'Blue'],True,"San Francisco,CA,94102",2015-06-04
+47627,2007 Cannondale T800,RI13309,Cannondale,T800,2007,[u'Blue'],True,"Oakland,94608",2015-06-04
+47304,2005 Bianchi Eros,absent,Bianchi,Eros,2005,[u'Green'],True,"Oakland,94609",2015-06-04
+47293,2014 Trek 7.3 FX,WTU335C5827H,Trek,7.3 FX,2014,[u'Black'],True,"San Francisco,94103",2015-06-03
+47292,2012 State Bicycle Co. Vice,absent,State Bicycle Co.,Vice,2012,[u'Teal'],True,"Oakland,94607",2015-06-03
+47394,Specialized,absent,Specialized,,,"[u'Red', u'Silver or Gray']",True,"San Francisco,94107",2015-06-03
+47410,2006 Giant TCR C1,absent,Giant,TCR C1,2006,"[u'Black', u'Yellow or Gold']",True,"San Francisco,94103",2015-06-02
+47207,Puch MIstral,absent,Puch,MIstral,,"[u'Green', u'White']",True,"San Francisco,94110",2015-06-01
+47248,2014 PUBLIC bikes M7i,absent,PUBLIC bikes,M7i,2014,[u'Orange'],True,"San Francisco,94102",2015-06-01
+47199,2008 Jamis,absent,Jamis,,2008,[u'Blue'],True,"San Francisco,94104",2015-06-01
+47204,2001 Independent Fabrication Crown Jewel,031c156c,Independent Fabrication,Crown Jewel,2001,[u'Black'],True,"San Francisco,94110",2015-06-01
+47122,Fuji Team SL,absent,Fuji,Team SL,,[u'Black'],True,"San Francisco,94102",2015-06-01
+48612,2012 Redline,absent,Redline,,2012,[u'Orange'],True,"San Francisco,94102",2015-05-31
+47035,Argon 18 Krypton,000000000,Argon 18,Krypton,,"[u'Black', u'Red', u'White']",True,"Oakland,CA,94608",2015-05-31
+31385,2009 Giant TCX XL,GH685494,Giant,TCX XL,2009,[u'Blue'],True,"San Francisco,CA,94114",2015-05-31
+47094,2013 Surly Cross-Check,m11123764,Surly,Cross-Check,2013,[u'Black'],True,"San Francisco,94110",2015-05-31
+47308,2012 Trek 1.1 H2 (Compact),WTU323C1675H,Trek,1.1 H2 (Compact),2012,[u'Black'],True,"San Francisco,94118",2015-05-30
+47240,2011 Trek 2.1,WTU270C2941F,Trek,2.1,2011,[u'Red'],True,"San Francisco,94129",2015-05-30
+47067,Specialized S-Works,absent,Specialized,S-Works ,,[u'Black'],True,San Francisco,2015-05-30
+47534,2010 Specialized CrossTrail,WUP096025505E,Specialized,CrossTrail,2010,"[u'Black', u'Green']",True,"Emeryville,94608",2015-05-30
+47291,2007 Specialized TRI-CROSS,P51M49275,Specialized,TRI-CROSS,2007,[u'Black'],True,OAKLAND,2015-05-30
+46806,2014 BH Bikes easy motion neo cross 2014,W1411F5194,BH Bikes,easy motion neo cross 2014,2014,"[u'Black', u'White']",True,"San Francisco,CA,94127",2015-05-29
+50018,2011 Raleigh Revenio 1.0,U05K13237,Raleigh,Revenio 1.0,2011,[u'Silver or Gray'],True,"San Francisco,94103",2015-05-29
+46874,2015 Bianchi Lupo,WBK745153K,Bianchi,Lupo,2015,[u'Silver or Gray'],True,"San Francisco,CA,94102",2015-05-29
+46806,2014 BH Bikes easy motion neo cross 2014,W1411F5194,BH Bikes,easy motion neo cross 2014,2014,"[u'Black', u'White']",True,"San Francisco,CA,94127",2015-05-29
+46968,Specialized Allez,absent,Specialized,Allez,,[u'Blue'],True,"San,94109",2015-05-29
+46834,Bianchi,absent,Bianchi,,,[u'Red'],True,"San Francisco,94114",2015-05-29
+46870,2013 BH Bikes NEO CROSS EASY MOTION E-MOTION,W1310F4360 BPA-2038,BH Bikes,NEO CROSS EASY MOTION E-MOTION,2013,"[u'Black', u'White']",True,"San Francico,CA,94110",2015-05-29
+46722,Trek Velo 360,356140,Trek,Velo 360,,[u'Yellow or Gold'],True,"San Francisco,94103",2015-05-28
+46805,2012 Vilano,absent,Vilano,,2012,[u'Green'],True,"Berkeley,CA",2015-05-28
+46757,SCOTT Sportster,CP662 4429,SCOTT,Sportster,,"[u'Blue', u'Black']",True,"Berkeley,94703",2015-05-28
+47636,1968 Schwinn Breeze,absent,Schwinn,Breeze,1968,[u'Red'],True,"Oakland,94607",2015-05-28
+46981,2009 Bianchi Vigorelli,TD0032836D,Bianchi,Vigorelli,2009,[u'Black'],True,"San Francisco,94118",2015-05-27
+46554,2013 Specialized Dolce Sport Compact,WSBC601095834H,Specialized,Dolce Sport Compact,2013,"[u'Silver or Gray', u'Teal']",True,"San Francisco,94122",2015-05-26
+46456,Specialized Sequoia Elite,P6FT16505,Specialized,Sequoia Elite,,[u'Blue'],True,"Oakland,94607",2015-05-26
+46448,2013 Raleigh Misceo 2.0,U126KO5030,Raleigh,Misceo 2.0,2013,[u'Black'],True,"San Francisco,94110",2015-05-26
+46470,2015 Specialized Allez,Wsbc606015210J,Specialized,Allez,2015,[u'Red'],True,San Francisco,2015-05-25
+78658,1986 Miyata 1000,absent,Miyata,1000,1986,"[u'Green', u'Yellow or Gold']",True,"Emeryville,94608",2015-05-25
+46468,2010 Raleigh Campus,absent,Raleigh,Campus,2010,[u'Green'],True,"San Francisco,CA,94102",2015-05-25
+46710,2015 Superb Superb Sprint,absent,Superb,Superb Sprint,2015,[u'Black'],True,"San Francisco,94102",2015-05-25
+46449,Unknown Hybrid men's frame,absent,Unknown,Hybrid men's frame,,[u'Blue'],True,"Oakland,94608",2015-05-25
+46502,2012 Easy Motion BH Diamond Wave Plus,LI12010024,Easy Motion,BH Diamond Wave Plus,2012,[u'White'],True,"San Francisco,CA,94112",2015-05-25
+96777,2012 Mercier Kilo TT,absent,Mercier,Kilo TT,2012,[u'Silver or Gray'],True,"Oakland,CA,94608",2015-05-24
+46396,2004 Trek 7200,ITK4D15906,Trek,7200,2004,[u'Silver or Gray'],True,"San Francisco,74114",2015-05-24
+46639,2010 Trek 7200,WTU-7600124,Trek,7200,2010,[u'Black'],True,"San Francisco,94114",2015-05-24
+46400,2009 Raleigh Clubman,U8YUS7Z1U,Raleigh,Clubman,2009,[u'Blue'],True,"San Francisco,94103",2015-05-24
+46373,2014 Cannondale Synapse 7 Sora,DM77301,Cannondale,Synapse 7 Sora,2014,[u'White'],True,"Burlingame,94010",2015-05-23
+46454,"2014 Ventana Alpino 15""",D00066,Ventana,"Alpino 15""",2014,[u'Black'],True,"Emeryville,CA,94608",2015-05-23
+46331,2012 SCOTT Foil 30,absent,SCOTT,Foil 30,2012,[u'Yellow or Gold'],True,"San Francisco,CA,94117",2015-05-23
+46197,2013 Scattante W570,absent,Scattante,W570,2013,[u'Blue'],True,"San Francisco,94103",2015-05-22
+46264,2013 Cannondale Caad8 6 Tiagra,KM36076,Cannondale,Caad8 6 Tiagra,2013,"[u'Black', u'Red', u'Silver or Gray']",True,"San Francisco,94118",2015-05-22
+46267,2014 Trek Verve 3,WTU351C9097H,Trek,Verve 3,2014,[u'White'],True,"Lafayette,CA,94549",2015-05-21
+46364,2014 Giant Escape Commuter BIke,C64L4230,Giant,Escape Commuter BIke,2014,[u'Silver or Gray'],True,"San Francisco,94107",2015-05-21
+46635,2015 Specialized Allez Sport,WSBC606003123J,Specialized,Allez Sport,2015,[u'Red'],True,"Berkeley,94704",2015-05-21
+46230,2015 Masi CXGR,46w4t00413,Masi,CXGR,2015,[u'Silver or Gray'],True,"San Francisco,94111",2015-05-21
+46533,Specialized Allez,2073473F,Specialized,Allez,,"[u'Black', u'Red', u'Silver or Gray']",True,"San Francisco,94121",2015-05-21
+46043,A2B e-bikes Galvani,K140102027,A2B e-bikes,Galvani,,[u'Black'],True,"San Francisco,94103",2015-05-20
+46109,2014 Trek 7.3 FX WSD,WTU118C5725H,Trek,7.3 FX WSD,2014,[u'White'],True,"San Francisco,94110",2015-05-19
+45956,2014 PUBLIC bikes Mens,absent,PUBLIC bikes,Mens,2014,[u'Blue'],True,"Oakland,CA,94607",2015-05-19
+47120,Raleigh Technium,absent,Raleigh,Technium,,"[u'White', u'Blue']",True,"San Francisco,CA,94103",2015-05-19
+46042,2014 A2B e-bikes Alva+,absent,A2B e-bikes,Alva+,2014,[u'Red'],True,"San Francisco,94103",2015-05-19
+45929,2013 Specialized Vita Elite,WSBC602051074H,Specialized,Vita Elite,2013,[u'Blue'],True,"San Francisco,94123",2015-05-18
+48328,2012 Specialized Allez Comp Apex Mid-Compact,WSBC602002476,Specialized,Allez Comp Apex Mid-Compact,2012,"[u'Black', u'Orange']",True,"San Francisco,94102",2015-05-18
+46014,2013 GT Bicycles Corsa 2.0,absent,GT Bicycles,Corsa 2.0,2013,[u'Red'],True,"San Francisco,CA,94110",2015-05-18
+45957,2015 Dillenger Cheetah,absent,Dillenger,Cheetah,2015,[u'Black'],True,"Millbrae,CA,94030",2015-05-18
+47234,2015 Raleigh REVENIO,UI45K00952,Raleigh,REVENIO,2015,[u'Red'],True,San Francisco,2015-05-18
+45798,2015 Specialized Dolce Sport EQ,WSBC602089680J,Specialized,Dolce Sport EQ,2015,[u'Blue'],True,"San Francisco,94110",2015-05-17
+45838,2012 Marin Bikes Stelvio,FA10420AD50016,Marin Bikes,Stelvio,2012,[u'Black'],True,"San Francisco,94108",2015-05-17
+45867,2014 GT Bicycles Karakoram Elite,F130800689,GT Bicycles,Karakoram Elite,2014,[u'Blue'],True,"San Francisco,CA,94111",2015-05-17
+46011,2014 Raleigh Detour 3.5,U135K16581,Raleigh,Detour 3.5,2014,[u'Silver or Gray'],True,"Oakland,94608",2015-05-17
+45724,2010 Trek PDX,swtu292c1732e,Trek,PDX,2010,[u'Black'],True,"San Francisco,94110",2015-05-16
+46191,2010 Specialized Sirrus Elite,absent,Specialized,Sirrus Elite,2010,[u'Black'],True,"San Francisco,94110",2015-05-16
+45738,2014 Trek Domane 4.3 (Compact or Triple),wtu084xd5066h,Trek,Domane 4.3 (Compact or Triple),2014,[u'Blue'],True,San Francisco,2015-05-16
+45758,2015 Giant Giant Folding frame,051a7970bifd00687,Giant,Giant Folding frame ,2015,[u'White'],True,"San Francisco,CA,94114",2015-05-16
+45704,2012 Scattante R570,SIDPE12B00218,Scattante,R570,2012,[u'White'],True,"San Francisco,94111",2015-05-15
+45690,2014 Virtue CRMO,absent,Virtue,CRMO,2014,[u'Green'],True,"San Francisco,CA,94102",2015-05-15
+55665,2008 Giant FCR,GS8V4799,Giant,FCR,2008,[u'Black'],True,"San Francisco,CA,94102",2015-05-15
+45692,2013 Jamis Coda Sport Femme,V12XV48531,Jamis,Coda Sport Femme,2013,[u'Red'],True,"San Francisco,94110",2015-05-15
+45641,2013 Specialized,wsbc601079559h,Specialized,,2013,"[u'Black', u'Pink']",True,"Oakland,94610",2015-05-15
+45733,2014 Trek Domane 4.3 (Compact or Triple),wtu070xd5124h,Trek,Domane 4.3 (Compact or Triple),2014,[u'Blue'],True,"San Francisco,CA",2015-05-15
+45829,2008 Salsa Casseroll,M8090628,Salsa,Casseroll,2008,[u'Yellow or Gold'],True,"Oakland,94609",2015-05-14
+45760,2013 Specialized Allez Elite Mid-Compact,absent,Specialized,Allez Elite Mid-Compact,2013,[u'Silver or Gray'],True,San Francisco,2015-05-14
+45626,2014 Giant TCR 2,GS3G2602,Giant,TCR 2,2014,[u'Red'],True,"San Francisco,94103",2015-05-14
+45843,BH Bikes RC1,P11075519906183KST,BH Bikes,RC1,,[u'Black'],True,"San Francisco,94102",2015-05-13
+45501,2014 Scattante CX 350,absent,Scattante,CX 350,2014,"[u'Black', u'Blue']",True,"San Francisco,94109",2015-05-13
+45787,Niner Sir9,absent,Niner,Sir9,,[u'Brown'],True,"Oakland,94612",2015-05-13
+71005,2014 Electra 7D,WTU127A1250J,Electra,7D,2014,[u'Black'],True,"Berkeley,94705",2015-05-13
+45494,2014 Creme Cycles Tempo,CR00074,Creme Cycles,Tempo,2014,[u'Black'],True,"San Francisco,CA,94109",2015-05-12
+46690,Marin Bikes San Rafael,C5366SC034,Marin Bikes,San Rafael,,[u'Silver or Gray'],True,"Oakland,94608",2015-05-12
+45418,2004 Trek 7.2 FX WSD,absent,Trek,7.2 FX WSD,2004,[u'Red'],True,"Oakland,94607",2015-05-12
+77209,Rocky Mountain Bicycles route 66,B98111235-WR66,Rocky Mountain Bicycles,route 66,,[u'Silver or Gray'],True,"San Francisco,94103",2015-05-11
+77208,2014 Cannondale Synapse Women's 5 105,JM59170,Cannondale,Synapse Women's 5 105,2014,[u'Black'],True,"San Francisco,94103",2015-05-11
+45387,2015 Milwaukee Bicycle Co. Bruiser,absent,Milwaukee Bicycle Co.,Bruiser,2015,[u'Silver or Gray'],True,"San Francisco,CA,9412",2015-05-11
+45271,2013 Felt Z85,F1211K1458,Felt,Z85,2013,"[u'Black', u'White']",True,"San Francisco,CA,94103",2015-05-10
+44597,2014 Fuji Absolute 2.3,WBD229L2043K,Fuji,Absolute 2.3,2014,[u'Black'],True,"San Francisco,CA,94110",2015-05-10
+45257,Dawes Cycles,67b04-0,Dawes Cycles,,,[u'Black'],True,"San Francisco,CA,94110",2015-05-10
+45273,2012 Redline Metro Classic,D00799,Redline,Metro Classic,2012,[u'Orange'],True,"San Francisco,94114",2015-05-10
+45220,Raleigh Port Townsend,u10u08852,Raleigh,Port Townsend,,[u'Black'],True,"Oakland,64611",2015-05-10
+45181,2013 Specialized Allez Elite Mid-Compact,wsbc606027366H,Specialized,Allez Elite Mid-Compact,2013,[u'Silver or Gray'],True,"San Francisco,94110",2015-05-09
+45154,1983 Peugeot PBN,2053728,Peugeot,PBN,1983,[u'Blue'],True,"Berkeley,94710",2015-05-09
+45042,2015 Specialized,WSBC602329709J,Specialized,,2015,"[u'Black', u'Teal']",True,"San Francisco,CA,94103",2015-05-08
+44970,2015 Trek Marlin 6,WTU240C4349J,Trek,Marlin 6,2015,[u'Green'],True,"San Francisco,94111",2015-05-08
+45051,2015 Roadmaster 700C,038675572607,Roadmaster,700C,2015,"[u'Blue', u'Black']",True,San Francisco,2015-05-08
+46753,Bianchi Eros,absent,Bianchi,Eros,,[u'Red'],True,"San Francisco,CA,94102",2015-05-07
+45270,2011 Bianchi Via Nirone 7 Sora,WBK013114E,Bianchi,Via Nirone 7 Sora,2011,[u'White'],True,"San Francisco,94109",2015-05-07
+44949,2014 GT Bicycles GT Meatball 700c 2-speed city bike,DA07910014,GT Bicycles,GT Meatball 700c 2-speed city bike,2014,[u'Silver or Gray'],True,"Emeryville,94608",2015-05-07
+45622,2003 Cannondale Road Warrior 500,N084879,Cannondale,Road Warrior 500,2003,[u'Blue'],True,"Piedmont,CA,94611",2015-05-06
+44918,2014 Scattante W350,WBD330L1393J,Scattante,W350,2014,"[u'White', u'Purple']",True,"San Francisco,CA,94103",2015-05-06
+44889,2015 Schwinn cruiser,absent,Schwinn,cruiser,2015,[u'Blue'],True,"Oakland,94611",2015-05-06
+45345,1999 LeMond Racing Cycles Zurich,absent,LeMond Racing Cycles,Zurich,1999,[u'White'],True,"San Francisco,94105",2015-05-05
+44886,2014 Specialized Hotrock 24 21-speed Boys,WSBC711134529H,Specialized,Hotrock 24 21-speed Boys,2014,"[u'Black', u'Black', u'White']",True,"San Francisco,94117",2015-05-04
+44888,1998 Litespeed Obed,absent,Litespeed,Obed,1998,[u'Silver or Gray'],True,"San Francisco,94117",2015-05-04
+50933,2013 Specialized Allez,WSBC606046329H,Specialized,Allez,2013,[u'Black'],True,"Walnut Creek,94596",2015-05-04
+44891,1986 Bianchi,absent,Bianchi,,1986,[u'Teal'],True,"San Francisco,94117",2015-05-04
+44650,2015 Electra 7D Ladies,WTU283HS0021J,Electra,7D Ladies,2015,[u'Black'],True,"Alameda,94501",2015-05-04
+44667,2011 Fuji Touring,TCFJ11I27840,Fuji,Touring,2011,[u'Black'],True,"San Francisco,94103",2015-05-03
+44731,2000 Schwinn Super Sport,absent,Schwinn,Super Sport,2000,[u'Black'],True,"San Francisco,18017",2015-05-03
+44694,2013 Redline Metro classic,absent,Redline,Metro classic,2013,[u'Orange'],True,San Francisco,2015-05-03
+44702,2002 Pinarello Prince,5991-00,Pinarello,Prince,2002,"[u'Blue', u'Yellow or Gold', u'White']",True,"San Francisco,94114",2015-05-03
+30875,Schwinn VARSITY,454-3747,Schwinn,VARSITY,,[u'Green'],True,"Oakland,CA,94609",2015-05-02
+44565,GMC Daneli,L121004135,GMC,Daneli,,"[u'Yellow or Gold', u'Black']",True,"San Francisco,94109",2015-05-01
+45086,2011 Masi Vincere,absent,Masi,Vincere,2011,[u'White'],True,"San Francisco,94116",2015-04-30
+44542,1993 Cannondale,absent,Cannondale,,1993,[u'Black'],True,"San Francisco,94110",2015-04-30
+44449,2005 Cannondale R1000 (CAAD8),Q040903,Cannondale,R1000 (CAAD8),2005,[u'Black'],True,"Pleasant Hill,94523",2015-04-30
+45086,2011 Masi Vincere,absent,Masi,Vincere,2011,[u'White'],True,"San Francisco,94116",2015-04-30
+44733,2014 Pure Fix Original,absent,Pure Fix,Original,2014,[u'Black'],True,"San Francisco,CA,94116",2015-04-29
+44406,2008 Fuji Roubaix 1.1,absent,Fuji,Roubaix 1.1,2008,"[u'White', u'Red']",True,"San Francisco,94114",2015-04-29
+44466,2013 Marin Bikes LARKSPUR,1A1364085D218,Marin Bikes,LARKSPUR ,2013,[u'Black'],True,"Oakland,CA,94602",2015-04-29
+44390,Giant Defy 3,GP100C70,Giant,Defy 3,,[u'Black'],True,"San Francisco,94103",2015-04-29
+44341,Firenze GL5000,absent,Firenze,GL5000,,[u'Red'],True,"San Francisco,94114",2015-04-28
+44391,2014 Motobecane Elite Sport,L14800803,Motobecane,Elite Sport,2014,[u'Yellow or Gold'],True,"San Francisco,CA,94110",2015-04-28
+44864,2014 Giant Escape 3 S,CC3C7476,Giant,Escape 3 S,2014,[u'Black'],True,"San Francisco,94117",2015-04-28
+44361,2010 Specialized Secteur Sport Triple,W4D092094416E,Specialized,Secteur Sport Triple,2010,[u'White'],True,"Oakland,94607",2015-04-28
+44225,Giant TCR,absent,Giant,TCR,,[u'Yellow or Gold'],True,"San Francisco,94110",2015-04-27
+46193,2013 Felt Z85,F1204K1474,Felt,Z85,2013,[u'Black'],True,"San Francisco,94129",2015-04-27
+44421,2014 Fuji Absolute 2.0 LE,#WBD282L0253J,Fuji,Absolute 2.0 LE,2014,[u'Black'],True,"Berkeley,94703",2015-04-27
+44556,2013 Marin Bikes Muirwoods 29er,CA12624jee13,Marin Bikes,Muirwoods 29er,2013,[u'Black'],True,"San Francisco,94115",2015-04-27
+44440,2013 Specialized Allez Sport Compact,606046672H,Specialized,Allez Sport Compact,2013,[u'Blue'],True,"San Francisco,94115",2015-04-26
+44268,2011 Cannondale Synapnse,absent,Cannondale,Synapnse,2011,[u'Blue'],True,"San Francisco,94103",2015-04-26
+44208,2013 All City Nature Boy,M11112673,All City,Nature Boy,2013,[u'Black'],True,"San Francisco,94110",2015-04-26
+44561,Bianchi Eros 48cm,absent,Bianchi,Eros 48cm,,"[u'Green', u'Stickers tape or other cover-up']",True,"Oakland,94609",2015-04-26
+44263,2014 Trek 7.2 FX,WTU341C6745H,Trek,7.2 FX ,2014,[u'Black'],True,"Oakland,94607",2015-04-26
+44150,2014 Trek 14 7.3 FX,WTU335C6007H,Trek,14 7.3 FX,2014,[u'Black'],True,"San Francisco,94111",2015-04-25
+44398,2015 Priority Bicycles Diamond,P0P001987,Priority Bicycles,Diamond,2015,[u'Black'],True,"San Francisco,94110",2015-04-25
+45951,2009 Trek Madone 5.2 WSD,WTU176T070D,Trek,Madone 5.2 WSD,2009,[u'Black'],True,"San Francisco,94103",2015-04-24
+79403,2005 Novara Fusion Women's,U4XY33198,Novara,Fusion Women's,2005,[u'Green'],True,"El Cerrito,CA,94530",2015-04-24
+45267,2014 Specialized Roubaix SL4 Sport 105,WSBC6150128291,Specialized,Roubaix SL4 Sport 105,2014,[u'Black'],True,"San Francisco,94109",2015-04-24
+45222,Surly Cross-Check,absent,Surly,Cross-Check,,[u'Red'],True,Oakland,2015-04-24
+44031,2014 SCOTT Scale 770,AS30912115,SCOTT,Scale 770,2014,[u'Black'],True,"San Francisco,CA",2015-04-24
+43960,2013 Trek 7.3 FX,WTU146C7748G,Trek,7.3 FX,2013,[u'Black'],True,"San Francisco,CA,94110",2015-04-23
+43967,Raleigh Capri 1.0,U141K13470,Raleigh,Capri 1.0,,[u'Blue'],True,"San Francisco,94110",2015-04-23
+44185,2014 Jamis CODA SPORT,U144U00554,Jamis,CODA SPORT,2014,[u'Black'],True,"Berkeley,94710",2015-04-23
+35553,2014 Schwinn Phocus 1400,SNXDS14G0168,Schwinn,Phocus 1400,2014,[u'Black'],True,"San Francisco,CA,94102",2015-04-22
+43948,2014 Takara Genkai,absent,Takara,Genkai,2014,"[u'Green', u'Black', u'White']",True,"San Francisco,94117-1049",2015-04-22
+43896,2009 Merida Bikes matts tfs trail 700-D,WC194364EBR  BI-1583,Merida Bikes,matts tfs trail 700-D,2009,[u'Black'],True,"San Francisco,94112",2015-04-21
+43908,2013 SCOTT Spark,absent,SCOTT,Spark,2013,[u'Silver or Gray'],True,"San Francisco,94102",2015-04-21
+27551,1983 Bianchi,80121547,Bianchi,,1983,"[u'Blue', u'Teal']",True,"San Francisco,CA,94102",2015-04-21
+43819,1980 Benotto Modelo 2000,30-3,Benotto,Modelo 2000,1980,"[u'Blue', u'Teal']",True,"San Francisco,94114",2015-04-21
+43879,2014 Specialized Dolce Comp Compact,WSBO6060721261,Specialized,Dolce Comp Compact,2014,[u'Black'],True,"Oakland,94606",2015-04-21
+43925,Falco Bikes,absent,Falco Bikes,,,[u'Black'],True,"San Francisco,CA,02467",2015-04-21
+43853,2014 Bianchi Infinito CV Ultegra Di2 Disc Compact,WBK091386J 80883251 ,Bianchi,Infinito CV Ultegra Di2 Disc Compact,2014,"[u'Black', u'Teal']",True,"San Francisco,94115",2015-04-21
+43927,Bianchi Ocelot,LYS7A02259,Bianchi,Ocelot,,[u'Blue'],True,"El Cerrito,CA,94530",2015-04-21
+44336,KHS Bicycles XL,u801608451,KHS Bicycles,XL ,,[u'Black'],True,"Berkeley,91342",2015-04-21
+43825,Cannondale SR400,absent,Cannondale,SR400,,[u'Blue'],True,"San Francisco,94107",2015-04-21
+43884,Orbea Dama,SNORO580105,Orbea,Dama,,[u'Pink'],True,"San Francisco,CA",2015-04-21
+44317,Motobecane Legacy,IF3E00270,Motobecane,Legacy,,[u'Black'],True,"San Francisco,94107",2015-04-20
+43832,Raleigh M55,AC8J83704,Raleigh,M55,,[u'Blue'],True,"San Francisco,CA,94102",2015-04-20
+43801,1973 Raleigh Team Record,ND7 19954,Raleigh,Team Record,1973,[u'Orange'],True,"San Francisco,94105",2015-04-19
+43771,GT Bicycles ZR 3000,absent,GT Bicycles,ZR 3000,,[u'Blue'],True,"San Francisco,94109",2015-04-19
+44227,2014 PUBLIC bikes C7i,28727,PUBLIC bikes,C7i,2014,[u'Blue'],True,"San Francisco,94103",2015-04-19
+43747,2015 Trek 8.2DS,WTU080C5351H,Trek,8.2DS,2015,[u'Black'],True,"San Francisco,94122",2015-04-19
+43683,2014 Pake RUM RUNNER STEEL TRACK FRAME,TSFCHW0291,Pake,RUM RUNNER STEEL TRACK FRAME,2014,[u'White'],True,"San Francisco,94107",2015-04-18
+43727,2014 GT Bicycles Transeo 4.0 Comfort Bike,CM14D501563,GT Bicycles,Transeo 4.0 Comfort Bike,2014,"[u'Black', u'Blue', u'Yellow or Gold']",True,"San Francisco,CA,94107",2015-04-18
+43716,2014 Raleigh Misceo 2.0,U143K08904,Raleigh,Misceo 2.0,2014,[u'Black'],True,"San Francisco,94108",2015-04-18
+43752,2013 Fuji Sportif 1.5 C,fj252ic0660j,Fuji,Sportif 1.5 C,2013,[u'Red'],True,"Oakland,94609",2015-04-18
+37611,2009 Masi Vincere,8612840017,Masi,Vincere,2009,[u'Blue'],True,"San Francisco,CA,94102",2015-04-17
+43717,Trek Madone 5.2 H2 (Compact),SWTU252CT5083G,Trek,Madone 5.2 H2 (Compact),,[u'Black'],True,"San Francisco,CA,94109",2015-04-17
+43728,2013 Velo Orange Pass Hunter,M13081154,Velo Orange,Pass Hunter,2013,[u'Red'],True,"San Francisco,94131",2015-04-17
+43576,2015 Trek 7.2,WTU178C0254J,Trek,7.2,2015,[u'White'],True,"San Francisco,94102",2015-04-17
+43586,2015 Trek,WTU243C2207J,Trek,,2015,[u'Black'],True,"San Francisco,94111",2015-04-17
+43743,2006 Gary Fisher Monona,WTU284C32183,Gary Fisher,Monona,2006,[u'Silver or Gray'],True,San Francisco,2015-04-16
+44819,2014 Bianchi,WBK760828G,Bianchi,,2014,[u'Blue'],True,"Berkeley,CA,94705",2015-04-16
+43680,2012 GT Bicycles GT Tachyon hybrid,absent,GT Bicycles,GT Tachyon hybrid,2012,[u'Black'],True,"San Francisco,CA,94158",2015-04-16
+43518,2015 Novara Carema 5D,U14XK14284,Novara,Carema 5D,2015,"[u'White', u'Orange']",True,"Berkeley,CA,94720",2015-04-15
+43437,Schwinn Continental,absent,Schwinn,Continental,,[u'Blue'],True,"Oakland,94606",2015-04-15
+26987,2013 Unbranded 2013 Nashbar CR3 Carbon Road Bike,RF348BJ00004,Unbranded,2013 Nashbar CR3 Carbon Road Bike,2013,[u'Black'],True,"San Francisco,CA,94114",2015-04-15
+43449,2014 Trek 7.4 FX,WTU012C0397J,Trek,7.4 FX,2014,[u'Black'],True,"San Francisco,CA,94103",2015-04-15
+43405,Bianchi Brava,absent,Bianchi,Brava,,[u'White'],True,"Oakland,94602",2015-04-15
+43491,1996 Trek 330,absent,Trek,330,1996,[u'Green'],True,"San Anselmo,CA,94960",2015-04-15
+43436,Titan,absent,Titan,,,[u'Purple'],True,"Oakland,94606",2015-04-15
+43169,2013 SE Bikes Lager,SE226IC0525J / G7G07-1,SE Bikes,Lager,2013,[u'Blue'],True,"San Francisco,CA,94103",2015-04-14
+43400,2013 PUBLIC bikes C7,absent,PUBLIC bikes,C7,2013,[u'Orange'],True,"Oakland,94602",2015-04-14
+44371,2013 Trek SLX C,wtu009g5291h,Trek,SLX C,2013,[u'Black'],True,"San Francisco,94123",2015-04-14
+43285,2008 Terra Trike Path,7TE09-1575,Terra Trike,Path,2008,[u'Yellow or Gold'],True,"Redwood City,94063",2015-04-13
+43619,2013 Specialized,WSBC601069910H,Specialized,,2013,[u'Blue'],True,"San Francisco,94110",2015-04-13
+51116,2015 Giant 25000200010,g62z1052,Giant,25000200010,2015,[u'Black'],True,"San Francisco,94105",2015-04-13
+43308,2014 GT Bicycles Transeo,CM14F500484,GT Bicycles,Transeo,2014,[u'Black'],True,"San Francisco,94105",2015-04-13
+43188,Eddy Merckx Corsa -- Late 80's,absent,Eddy Merckx,Corsa -- Late 80's,,"[u'Black', u'White', u'Yellow or Gold']",True,"San Francisco,94110",2015-04-12
+43204,Dynamic Bicycles Synergy,aa910087,Dynamic Bicycles,Synergy,,[u'Silver or Gray'],True,"Oakland,94608",2015-04-12
+43197,2014 Specialized Crosstrail Comp Disc,WSBC602279001I,Specialized,Crosstrail Comp Disc,2014,[u'Black'],True,"San Francisco,94121",2015-04-12
+43225,Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,,[u'Brown'],True,"San Francisco,94110",2015-04-12
+43213,2015 KHS Bicycles Flite 223,V1400058,KHS Bicycles,Flite 223,2015,[u'Silver or Gray'],True,"San Francisco,94107",2015-04-12
+43293,2011 Trek Alpha 1.2,wtu205c1202f,Trek,Alpha 1.2,2011,"[u'White', u'Blue', u'Black']",True,"San Francisco,94102",2015-04-12
+43191,Keith Bontrager bontrager privateer comp,absent,Keith Bontrager,bontrager privateer comp,,[u'Green'],True,"San Francisco,94117",2015-04-11
+43171,2015 6KU ummmm,absent,6KU,ummmm,2015,"[u'White', u'Blue']",True,"San Francisco,94114",2015-04-11
+43166,2012 Raleigh Revenio 3.0,U1115K16153,Raleigh,Revenio 3.0,2012,[u'White'],True,"San Francisco,94117",2015-04-11
+43048,2008 Specialized Langster,absent,Specialized,Langster,2008,[u'Silver or Gray'],True,"San,94103",2015-04-11
+43762,2003 Trek 7500,WW1774776,Trek,7500,2003,[u'Black'],True,"San Francisco,94117",2015-04-10
+43154,2014 Marin Bikes Mountain Bike,JA13263GJC030,Marin Bikes,Mountain Bike,2014,[u'Black'],True,"San Francisco,CA,94133",2015-04-10
+43011,2015 Jamis Quest,u146u26388,Jamis,Quest,2015,[u'Silver or Gray'],True,"San Francisco,94109",2015-04-09
+43720,2015 Giant Defy 2,GX4E2864,Giant,Defy 2,2015,"[u'Silver or Gray', u'White', u'Red']",True,"San Francisco,94110",2015-04-09
+43298,2001 Kona Kula,F101K2825,Kona,Kula,2001,[u'Yellow or Gold'],True,"Berkeley,94709",2015-04-08
+42977,1994 Gary Fisher Advance,absent,Gary Fisher,Advance,1994,"[u'Black', u'Purple']",True,"San Francisco,94114",2015-04-08
+42970,2013 Specialized Dolce Comp Compact,WSBC601022057H,Specialized,Dolce Comp Compact,2013,[u'Black'],True,"San Francisco,94117",2015-04-08
+42983,2005 Specialized TransitionMultisport,P4HG10571,Specialized,TransitionMultisport,2005,[u'Black'],True,"San Francisco,CA,94103",2015-04-08
+43027,2012 Giant Escape,c52c9927,Giant,Escape,2012,[u'Black'],True,"San Francisco,CA,94110",2015-04-08
+43029,2012 Trek 7.2FX Disc,WTU158C5883G,Trek,7.2FX Disc,2012,[u'Black'],True,"San Francisco,CA,94110",2015-04-08
+42904,2014 Marin Bikes Terra Linda SC4,FA14634JSC007,Marin Bikes,Terra Linda SC4,2014,[u'Blue'],True,"San Francisco,CA,94103",2015-04-07
+42881,"2012 Focus Izalco Pro Carbon Frame (57cm) Men's Road Bike, Ultegra Components",absent,Focus,"Izalco Pro Carbon Frame (57cm) Men's Road Bike, Ultegra Components",2012,"[u'White', u'Red', u'Black']",True,"San Francisco,94107",2015-04-07
+42882,2011 Giant Anthem X2 Men's Mountain Bike,absent,Giant,Anthem X2 Men's Mountain Bike,2011,[u'Blue'],True,"San Francisco,94107",2015-04-07
+42883,Marin Bikes Hawk Hill Men's XL Mountain Bike,absent,Marin Bikes,Hawk Hill Men's XL Mountain Bike,,[u'Blue'],True,"San Francisco,94107",2015-04-07
+42900,2013 Soma Double Cross Disc,‪#‎TSFDCW0055‬,Soma,Double Cross Disc,2013,[u'Black'],True,"San Francisco,94117",2015-04-07
+42849,2014 Marin Bikes Fairfax SC4,7152680003,Marin Bikes,Fairfax SC4,2014,"[u'Black', u'Red']",True,"San Francisco,CA,94110",2015-04-06
+42851,2012 Wilier Triestina Carbon Cross,absent,Wilier Triestina,Carbon Cross,2012,[u'Black'],True,"San Francisco,CA,94114",2015-04-06
+43277,"2011 PUBLIC bikes Public M8 2011, Small Size, Powder Blue color",we1a00922,PUBLIC bikes,"Public M8 2011, Small Size, Powder Blue color",2011,[u'Blue'],True,"San Francisco,94105",2015-04-06
+42932,1985 Specialized Hardrock,absent,Specialized,Hardrock,1985,[u'Red'],True,"Berkeley,CA,94704",2015-04-06
+43178,2014 Marin Bikes Terra Linda,FA14634JSC007,Marin Bikes,Terra Linda,2014,[u'Blue'],True,"San Francisco,94103",2015-04-06
+45201,Specialized Secteur Comp Compact,wud092246259e,Specialized,Secteur Comp Compact,,"[u'Black', u'White']",True,"San Francisco,CA,94103",2015-04-05
+42800,Rasmussen Street,absent,Rasmussen,Street,,"[u'Orange', u'Black']",True,"San Francisco,94110",2015-04-05
+42825,2014 Norco Bikes Hybrid,A30764489,Norco Bikes,Hybrid,2014,[u'Silver or Gray'],True,"San Francisco,94110",2015-04-05
+42725,2015 Kona Big Rove,F1512C7849,Kona,Big Rove,2015,[u'Black'],True,"Berkeley,94704",2015-04-05
+42706,2013 Giant Seek 0,absent,Giant,Seek 0,2013,[u'Blue'],True,"San Francisco,94110",2015-04-04
+43582,2010 Marin Bikes Ignacio,FA10454HM6001,Marin Bikes,Ignacio,2010,[u'Black'],True,San Francisco,2015-04-04
+42845,Specialized Probly stumpjumper,absent,Specialized,Probly stumpjumper,,[u'Blue'],True,"San Francisco,94109",2015-04-04
+42619,2015 Cannondale Bad Boy 3 Large,HAOXD01333,Cannondale,Bad Boy 3 Large,2015,[u'Black'],True,"San Francsico,94103",2015-04-04
+42635,2006 Specialized Sequoia,absent,Specialized,Sequoia,2006,[u'Silver or Gray'],True,"Oakland,94602",2015-04-04
+42924,Trek 7.1 FX Disc,absent,Trek,7.1 FX Disc,,[u'Blue'],True,"San Francisco,94105",2015-04-03
+43292,2012 Specialized S-Works Enduro Carbon,WSBC604057852G,Specialized,S-Works Enduro Carbon,2012,"[u'Black', u'White', u'Red']",True,"San Francisco,94129",2015-04-03
+42624,1980 Univega Gran Tourismo,absent,Univega,Gran Tourismo,1980,[u'Purple'],True,"San Francisco,CA",2015-04-03
+42558,2015 Cannondale Quick 6,EM87772,Cannondale,Quick 6,2015,[u'Black'],True,"San Francisco,CA,94114",2015-04-03
+42583,Specialized Epic 29 Frame,WSBC604121608F,Specialized,Epic 29 Frame,,"[u'White', u'Red']",True,"San Francsico,94103",2015-04-03
+42533,Raleigh Revenio 3.0,U12XK11583,Raleigh,Revenio 3.0,,[u'Black'],True,"San Francisco,CA,94114",2015-04-02
+42727,Steelman Eurocross 525,absent,Steelman,Eurocross 525,,[u'Silver or Gray'],True,"San Francisco,94110",2015-04-02
+42477,2013 Cannondale Quick 6,absent,Cannondale,Quick 6,2013,[u'Black'],True,"San Francisco,94111",2015-04-01
+43158,2008 Rivendell Bicycle Works atlantis,at0931,Rivendell Bicycle Works,atlantis,2008,[u'Green'],True,"Orinda,94563",2015-03-31
+42329,2013 Xtracycle EdgeRunner,W24H00032,Xtracycle,EdgeRunner,2013,[u'Orange'],True,"San Francisco,94110",2015-03-31
+42511,Felt ZW5-11,F104DO804,Felt,ZW5-11,,[u'White'],True,"San Francisco,94123",2015-03-31
+43598,Novara Trionfo,SON5351,Novara,Trionfo,,[u'Pink'],True,"San Francisco,CA,94103",2015-03-31
+42333,2014 Specialized Secteur Elite Disc,WSBC602342212I,Specialized,Secteur Elite Disc,2014,[u'Black'],True,"San Francisco,94123",2015-03-31
+42213,Marin Bikes,FHTB112LSD001,Marin Bikes,,,[u'Black'],True,San Francisco,2015-03-31
+42216,2009 Jamis Quest,absent,Jamis,Quest,2009,"[u'Blue', u'White']",True,"Oakland,94609",2015-03-30
+42176,Masi Masi CX Uno,absent,Masi,Masi CX Uno,,[u'Brown'],True,"Oakland,CA,94607",2015-03-30
+42478,Marin Bikes Bolinas Ridge,C413JGD025,Marin Bikes,Bolinas Ridge,,"[u'Silver or Gray', u'Black', u'Blue']",True,"Berkeley,CA,94704",2015-03-30
+42265,2015 Felt Z100,absent,Felt,Z100,2015,[u'White'],True,"San Francisco,94114",2015-03-29
+44287,2007 Cervélo P2C,absent,Cervélo,P2C,2007,"[u'White', u'Red']",True,"San Francisco,CA,94114",2015-03-28
+42071,Specialized Allez 24,WSBC606000783H,Specialized,Allez 24,,[u'Black'],True,"San Francisco,94121",2015-03-28
+42325,2006 Litespeed mountain titanium,absent,Litespeed,mountain titanium,2006,[u'Silver or Gray'],True,"San Francisco,94118",2015-03-28
+42730,2012 Strida LT,absent,Strida,LT,2012,[u'White'],True,"San Francisco,94108",2015-03-28
+42044,2011 Specialized Secteur X3,WSBC602329967F,Specialized,Secteur X3,2011,[u'Black'],True,"San Francisco,CA,94110",2015-03-28
+52411,2015 Giant TCR Advanced,GF2C369,Giant,TCR Advanced,2015,"[u'White', u'Red']",True,"Oakland,94609",2015-03-28
+42029,2011 Cannondale CAAD 10-3,QM85498,Cannondale,CAAD 10-3,2011,[u'White'],True,"San Francisco,94103",2015-03-27
+42000,2015 Marin Bikes SC5,FA14697GSE015,Marin Bikes,SC5,2015,[u'Black'],True,"San Francisco,94103",2015-03-27
+41977,2015 Specialized Langster Pro,WSBC608235085J,Specialized,Langster Pro,2015,[u'Black'],True,"Millbrae,CA,94066",2015-03-27
+42440,Raleigh Technium Aluminum Scott Tinley Tri-Lite,absent,Raleigh,Technium Aluminum Scott Tinley Tri-Lite,,"[u'Yellow or Gold', u'Silver or Gray', u'Pink']",True,"San Francisco,94111",2015-03-27
+42351,2014 Specialized Sirrus Elite Disc,6602343557I,Specialized,Sirrus Elite Disc,2014,[u'Orange'],True,"San Francisco,94118",2015-03-27
+41922,2013 Jamis Aurora,U12YU18762,Jamis,Aurora,2013,[u'Black'],True,"San Francisco,CA,94121",2015-03-26
+41985,2013 Trek CrossRip,WTU214C6286G,Trek,CrossRip,2013,[u'Black'],True,"San Francisco,CA,94103",2015-03-26
+46640,1985 Univega Sport Tour I think???,absent,Univega,Sport Tour I think???,1985,[u'Blue'],True,"Oakland,94602",2015-03-26
+43170,Giant,absent,Giant,,,[u'White'],True,"San Francisco,94117",2015-03-26
+41865,1993 Giant Yukon,absent,Giant,Yukon,1993,[u'Purple'],True,"San Francisco,94109",2015-03-25
+41829,2015 Raleigh Roper,U146U28503,Raleigh,Roper,2015,[u'Orange'],True,"San Francisco,94107",2015-03-25
+42346,2011 Raleigh Grand Prix,U0XE0093,Raleigh,Grand Prix,2011,[u'Red'],True,"Berkeley,94709",2015-03-25
+41832,Peugeot,absent,Peugeot,,,[u'Blue'],True,"Oakland,94609",2015-03-25
+41815,1978 Peugeot Course,n/a,Peugeot,Course,1978,[u'Black'],True,"San Francisco,CA,94117",2015-03-25
+41798,2013 Tommaso Imola,Y12I011750,Tommaso,Imola,2013,[u'Black'],True,"San Francisco,94114",2015-03-24
+41748,Qhubeka,2005 012333 08,Qhubeka,,,"[u'Yellow or Gold', u'Black']",True,"Berkeley,94609",2015-03-24
+42096,2014 Cannondale Synapse Carbon 5 105,JM22832,Cannondale,Synapse Carbon 5 105 ,2014,[u'Purple'],True,"San,94110",2015-03-23
+41788,2014 Trek Verve 1 WSD - Women's,absent,Trek,Verve 1 WSD - Women's,2014,[u'Purple'],True,"San Francisco,CA,94109",2015-03-22
+41789,2013 Cannondale Adventure 2 26,absent,Cannondale,Adventure 2 26,2013,[u'Black'],True,"San Francisco,94109",2015-03-22
+41719,KHS Bicycles FLITE 300,absent,KHS Bicycles,FLITE 300,,[u'Blue'],True,"San Francisco,9410",2015-03-22
+41737,"2015 Trek Verve 13""",WTU016C3091J,Trek,"Verve 13""",2015,[u'Black'],True,"Berkeley,94703",2015-03-22
+71280,Cunningham Drago,absent,Cunningham,Drago,,[u'Purple'],True,"San Francisco,94102",2015-03-21
+41580,2012 Xtracycle free radical on a gary fisher mountain bike,absent,Xtracycle,free radical on a gary fisher mountain bike,2012,[u'Silver or Gray'],True,"Oakland,94607",2015-03-21
+41621,2013 Surly Pacer,M13032787,Surly,Pacer,2013,[u'Blue'],True,"San Francisco,94107",2015-03-21
+41606,Jamis Jamis,absent,Jamis,Jamis,,[u'White'],True,"San Francisco,94103",2015-03-21
+41852,2014 Ibis MoJo,absent,Ibis,MoJo,2014,[u'Brown'],True,"San Francisco,94939",2015-03-21
+41702,2013 Trek Madone 2.1 H2 (Compact),swtu340c0708h,Trek,Madone 2.1 H2 (Compact),2013,[u'Black'],True,"San Francisco,CA,94103",2015-03-21
+41659,2014 Transition Bikes Covert 27.5,TBC2504184,Transition Bikes,Covert 27.5,2014,[u'Green'],True,"San Anselmo,94960",2015-03-21
+41526,2015 Bianchi chrome,WBK7324070,Bianchi,chrome,2015,[u'Silver or Gray'],True,"San Francisco,CA,ca94110",2015-03-20
+41560,2014 Cannondale Caad10 Women's 3 Ultegra,IM90667,Cannondale,Caad10 Women's 3 Ultegra,2014,"[u'Black', u'Purple']",True,"Oakland,94612",2015-03-20
+41546,Trek 7.1 FX,WTU059C0729J,Trek,7.1 FX,,[u'Silver or Gray'],True,"San Francisco,94102",2015-03-20
+41394,2004 Kellys Bicycles Knobby-X Cross frame,absent,Kellys Bicycles,Knobby-X Cross frame,2004,[u'Purple'],True,"Oakland,94601",2015-03-19
+41406,2008 Giant GFR,absent,Giant,GFR,2008,[u'Pink'],True,"Berkeley,CA,94703",2015-03-18
+41466,2013 Kalkhoff,AV000215,Kalkhoff,,2013,[u'Silver or Gray'],True,"San Francisco,CA,94115",2015-03-18
+30668,2005 Specialized Allez,P5H721738,Specialized,Allez,2005,[u'Blue'],True,"San Francisco,CA,94117",2015-03-16
+41340,2013 Cervélo p2,SNP2C13A51038,Cervélo,p2,2013,"[u'White', u'Silver or Gray']",True,San Francisco,2015-03-16
+41336,2004 Cytek Unknown,absent,Cytek,Unknown,2004,[u'Blue'],True,"San Francisco,94105",2015-03-16
+41271,2015 Kona Jake The Snake,H4KZ36460,Kona,Jake The Snake,2015,[u'Green'],True,"San Francisco,CA",2015-03-16
+41422,Trek Lexa,390C1621J,Trek,Lexa,,[u'Green'],True,"San Francisco,94110",2015-03-16
+41338,2011 Fuji D 6 1.0 (Matt Reed),absent,Fuji,D 6 1.0 (Matt Reed),2011,"[u'Black', u'Silver or Gray', u'Red']",True,San Francisco,2015-03-16
+41219,2005 Gary Fisher Nirvana,TBT-0407 C15FM951,Gary Fisher,Nirvana,2005,"[u'Red', u'Silver or Gray']",True,"San Francisco,94115",2015-03-15
+41124,2014 Solé Overthrow,TY130400138,Solé,Overthrow,2014,[u'Black'],True,"San Francisco,94109",2015-03-14
+41155,Jamis Coda Elite,U134U04060,Jamis,Coda Elite,,"[u'Silver or Gray', u'Black']",True,"Berkeley,94707",2015-03-14
+42084,2013 Raleigh Cadent FT1,U129K32338,Raleigh,Cadent FT1,2013,[u'Silver or Gray'],True,"Protrero Ave,San Francisco",2015-03-14
+41440,2005 Trek SL 1000,absent,Trek,SL 1000,2005,[u'Yellow or Gold'],True,"Oakland,94607",2015-03-14
+42451,Bianchi Strada,absent,Bianchi,Strada,,[u'Blue'],True,"Oakland,94608",2015-03-13
+41115,2013 Soma Stanyan,OLO004,Soma,Stanyan,2013,[u'Black'],True,"San Francisco,94110",2015-03-13
+40805,2014 Motobecane Phantom Cross Pro,absent,Motobecane,Phantom Cross Pro,2014,[u'Silver or Gray'],True,"Berkeley,94705",2015-03-13
+41116,Marin Bikes San Rafael,C538HSD213,Marin Bikes,San Rafael,,[u'Silver or Gray'],True,"San Francisco,94102",2015-03-13
+41109,Giant Dash 3,GP1G2613,Giant,Dash 3,,"[u'White', u'Blue']",True,"San Francisco,94118",2015-03-13
+41074,2007 Felt F1X,WK7D00207,Felt,F1X,2007,[u'Black'],True,"San Mateo,CA,94401",2015-03-12
+41038,Gary Fisher,absent,Gary Fisher,,,[u'Yellow or Gold'],True,"San Francisco,CA,94103",2015-03-12
+40994,2014 Felt F2,F408D1459,Felt,F2,2014,[u'Black'],True,"Berkeley,94710",2015-03-12
+41926,2013 Fuji Absolute 2.3,absent,Fuji,Absolute 2.3,2013,"[u'Black', u'Blue']",True,"Berkeley,94703",2015-03-12
+41020,2014 Specialized Vita Elite,WSBC6023110D1,Specialized,Vita Elite,2014,[u'Orange'],True,"San Francisco4,94104",2015-03-12
+41133,Santa Cruz Nomad Full Suspension,absent,Santa Cruz,Nomad Full Suspension,,[u'Black'],True,"San Francisco,94107",2015-03-11
+41751,2011 Colnago CLX 2.0,GC1AA194,Colnago,CLX 2.0,2011,[u'Black'],True,"Pleasant Hill,94523",2015-03-11
+41131,"2012 Marin Bikes Rock Springs Elite 15""",FHT112LSC003,Marin Bikes,"Rock Springs Elite 15""",2012,[u'Black'],True,"San Francisco,94107",2015-03-11
+40972,1991 Specialized Stumpjumper,MOL51372,Specialized,Stumpjumper,1991,[u'White'],True,"San Francisco,CA,94123",2015-03-11
+40889,2013 BlackCat custom STEEL frame,absent,BlackCat,custom STEEL frame,2013,"[u'Green', u'Black']",True,"San Francisco,94118",2015-03-11
+40907,2014 Fuji Feather Cx 1.1,FJ105IC0236K,Fuji,Feather Cx 1.1,2014,[u'Black'],True,"Emeryville,94608",2015-03-10
+40925,2010 Motobecane Cafe Noir,absent,Motobecane,Cafe Noir,2010,[u'Black'],True,"San Francisco,CA",2015-03-10
+40883,Schwinn Tempo,absent,Schwinn,Tempo,,[u'Blue'],True,"San Francisco,94103",2015-03-10
+40936,1986 Bianchi,absent,Bianchi,,1986,[u'Black'],True,"San Francisco,94117",2015-03-10
+40928,Bianchi Advantage,absent,Bianchi,Advantage,,[u'Blue'],True,"San Francisco,94110",2015-03-10
+40884,2006 Trek Madone 5.2,WTUWL3298933,Trek,Madone 5.2,2006,[u'Silver or Gray'],True,"San Francisco,CA",2015-03-10
+40891,Schwinn Willy 1 Spd,absent,Schwinn,Willy 1 Spd,,[u'Red'],True,"San Francisco,94105",2015-03-10
+40973,2005 Specialized Roubaix Elite Triple,absent,Specialized,Roubaix Elite Triple,2005,[u'Silver or Gray'],True,"Berkeley,CA,94705",2015-03-09
+40875,2011 Trek Lexa SLX,absent,Trek,Lexa SLX,2011,[u'White'],True,"Oakland,94612",2015-03-09
+41079,2014 Trek 3500,WTU148C6791G,Trek,3500,2014,"[u'Black', u'Green']",True,"Walnut Creek,94595",2015-03-09
+40970,2004 Bianchi XL Carbon,absent,Bianchi,XL Carbon,2004,[u'Black'],True,"Berkeley,94705",2015-03-09
+40775,2013 Trek 7.3 FX WSD,SWTU300C8246J,Trek,7.3 FX WSD,2013,[u'Black'],True,"San Francisco,CA,94133",2015-03-08
+40851,Litespeed titanium,65583,Litespeed,titanium,,[u'Silver or Gray'],True,San Francisco,2015-03-08
+40809,Soma Smoothie KVA road frameset,absent,Soma,Smoothie KVA road frameset,,[u'Blue'],True,"San Francisco,CA,94117",2015-03-08
+40856,1991 Ritchey Logic,460,Ritchey,Logic,1991,[u'Red'],True,"San Francisco,CA,94103",2015-03-08
+40807,2014 Motobecane Record,absent,Motobecane,Record,2014,[u'Black'],True,"Berkeley,94705",2015-03-08
+40750,2012 HP Velotechnik Gekko / 3 wheel recumbent recumbent,HP0911GEKA0XXX,HP Velotechnik,Gekko / 3 wheel recumbent,2012,[u'Red'],True,"Oakland,94621",2015-03-07
+40731,2015 6KU,absent,6KU,,2015,"[u'Black', u'Yellow or Gold']",True,San Francisco,2015-03-07
+40741,2014 Trek 7.2 FX,WTU080C6159H,Trek,7.2 FX,2014,[u'Blue'],True,"San Francisco,CA,94117",2015-03-07
+35691,2001 Specialized Sirrus Comp,PN120316,Specialized,Sirrus Comp,2001,[u'Blue'],True,"Oakland,CA,94607",2015-03-07
+40850,2003 LeMond Racing Cycles Poprad,absent,LeMond Racing Cycles,Poprad,2003,[u'Blue'],True,"San Francisco,94103",2015-03-06
+41284,Bianchi 1980s,absent,Bianchi,1980s,,[u'Silver or Gray'],True,"Berkeley,CA",2015-03-06
+40742,2015 Trek 7.2 FX WSD,WTU172C0061J,Trek,7.2 FX WSD,2015,[u'White'],True,"San Francisco,CA,94117",2015-03-06
+40690,2013 Specialized Roubaix Elite Compact,WSBC615001510H,Specialized,Roubaix Elite Compact,2013,[u'Black'],True,"San Francisco,CA,94118",2015-03-06
+41745,2012 Cannondale Quick 4,MM88443,Cannondale,Quick 4,2012,[u'Silver or Gray'],True,"San Francisco,CA,941141192",2015-03-06
+40682,2014 Specialized Tarmac SL4 Expert,wsbc604020368i,Specialized,Tarmac SL4 Expert,2014,"[u'Blue', u'Yellow or Gold']",True,"Redwood,94065",2015-03-06
+40593,2012 Cinelli MASH Bolt,absent,Cinelli,MASH Bolt,2012,[u'Silver or Gray'],True,"Pleasant Hill,94523",2015-03-05
+40570,Specialized allez,absent,Specialized,allez,,[u'Blue'],True,"San Francisco,94103",2015-03-04
+40590,2014 Trek 14 Steel District,wtu291cs5795h,Trek,14 Steel District,2014,[u'Blue'],True,"Alameda,CA,94501",2015-03-04
+40631,2007 Trek Pilot 2.1 WSD,absent,Trek,Pilot 2.1 WSD,2007,"[u'Black', u'Pink']",True,"Oakland,94609",2015-03-04
+41136,2014 Giant escape 2,CA3D7089,Giant,escape 2,2014,[u'Silver or Gray'],True,"San Francisco,94117",2015-03-04
+40549,2001 LeMond Racing Cycles Alpe Huez,absent,LeMond Racing Cycles,Alpe Huez,2001,[u'Green'],True,"Berkeley,94702",2015-03-04
+40533,2015 Trek Lush SL,WTU196G0968J,Trek,Lush SL,2015,[u'Silver or Gray'],True,"El Cerrito,CA,94530",2015-03-03
+40636,2012 Trek 7.4 FX WSD,WTU127C2378G,Trek,7.4 FX WSD,2012,[u'Teal'],True,"San Francisco,94122",2015-03-03
+40638,Kellys Bicycles Road Steel,absent,Kellys Bicycles,Road Steel,,"[u'Orange', u'Blue']",True,"San Francisco,94122",2015-03-03
+40888,2013 BlackCat custom STEEL frame,absent,BlackCat,custom STEEL frame,2013,"[u'Green', u'Black']",True,"San Francisco,94118",2015-03-03
+40528,2013 SE Bikes Lager,SE341IC0030J     G7G07-2,SE Bikes,Lager,2013,[u'Silver or Gray'],True,"San Francisco,94114",2015-03-03
+40496,2010 Bianchi D2 Axis,absent,Bianchi,D2 Axis,2010,"[u'Black', u'Green']",True,"San,94103",2015-03-02
+41023,2013 Specialized Sirrus,SBC602069269H,Specialized,Sirrus,2013,[u'Green'],True,"San Francisco,04118",2015-03-02
+40422,2000 Trek,absent,Trek,,2000,"[u'Purple', u'Yellow or Gold']",True,"Kentfield,94904",2015-03-02
+40999,2009 Trek Madone 6.5 Pro,WTU007T021E,Trek,Madone 6.5 Pro,2009,[u'Red'],True,"San Francisco,94107",2015-03-01
+40444,2014 Cannondale Quick 4,gm77675,Cannondale,Quick 4,2014,"[u'Blue', u'Red', u'White']",True,"San Francisco,94111",2015-03-01
+40432,2012 Cannondale CAAD10,NM31602,Cannondale,CAAD10,2012,[u'Black'],True,"San,94103",2015-03-01
+40427,Giant,absent,Giant,,,[u'Red'],True,"San Francisco,94122",2015-03-01
+40461,2013 Trek allant 7,wtu131c5781g,Trek,allant 7,2013,[u'Brown'],True,"San Francisco,94117",2015-03-01
+40399,2009 Specialized Ruby Expert Compact,absent,Specialized,Ruby Expert Compact,2009,"[u'Red', u'White']",True,"Oakland,94609",2015-03-01
+40501,2014 Wilier Triestina GTS,WT13C4160,Wilier Triestina,GTS,2014,"[u'Black', u'Red', u'White']",True,Mill Valley,2015-02-28
+40396,2014 Specialized Myka Elite Disc 29,WSBC 6022 390621,Specialized,Myka Elite Disc 29,2014,[u'White'],True,"Oakland,94609",2015-02-28
+40397,2009 SE Bikes 700c DRAFT,absent,SE Bikes,700c DRAFT,2009,"[u'Black', u'Silver or Gray']",True,"San Francisco,CA,94131",2015-02-28
+40469,2002 Bianchi Vigorelli,absent,Bianchi,Vigorelli,2002,[u'Green'],True,"San Francisco,94118",2015-02-28
+40439,1986 Peugeot road bike,Y50325213,Peugeot,road bike ,1986,[u'Blue'],True,"San Francisco,CA,94118",2015-02-28
+40478,2011 Trek Lexa SL,WTU170C0749F,Trek,Lexa SL,2011,[u'White'],True,"San Francisco,94118",2015-02-28
+40522,2014 Wilier Triestina,WT13C4160,Wilier Triestina,,2014,"[u'Black', u'Red']",True,"Mill Valley,94941",2015-02-28
+40412,2013 Felt MT13,53AK00433,Felt,MT13,2013,"[u'Black', u'Green']",True,"San Francisco,CA,94111",2015-02-28
+40352,2012 Santa Cruz Tall Boy,T0011GL043,Santa Cruz,Tall Boy,2012,[u'Black'],True,"San Francisco,94115",2015-02-27
+40445,Trek 460,absent,Trek,460,,[u'Blue'],True,"San Francisco,CA,94117",2015-02-27
+40375,2015 Leader Bikes 735,absent,Leader Bikes,735,2015,[u'Black'],True,"San Francisco,CA,94110",2015-02-27
+40421,2005 SCOTT CR1,03110575,SCOTT,CR1,2005,"[u'Black', u'Yellow or Gold']",True,"San Francisco,94110",2015-02-27
+40333,2010 Kona Jake,F1007K0273,Kona,Jake,2010,"[u'Silver or Gray', u'Blue']",True,"San Francisco,94109",2015-02-26
+40336,Dahon Eco C7,absent,Dahon,Eco C7,,[u'Red'],True,"San Francisco,94103",2015-02-26
+40330,2012 Marin Bikes Larkspur,JA12644KJB004,Marin Bikes,Larkspur,2012,[u'Silver or Gray'],True,"Berkeley,94704",2015-02-26
+40387,2015 Giant Avail,GF1G0139,Giant,Avail,2015,[u'Blue'],True,"San Francisco,CA,94110",2015-02-26
+40334,2012 Specialized Globe Hybrid,absent,Specialized,Globe Hybrid,2012,[u'Green'],True,"San Francisco,94109",2015-02-26
+40296,2012 Specialized Sirrus Comp,WSBC602234078G,Specialized,Sirrus Comp,2012,[u'Silver or Gray'],True,"San Francisco,94131",2015-02-26
+40318,2015 Trek FX 7.4,wtw2116192J,Trek,FX 7.4,2015,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-02-25
+42014,2014 PUBLIC bikes V7,201776VB14-F,PUBLIC bikes,V7,2014,[u'Green'],True,"Berkeley,94704",2015-02-25
+40255,2013 Cervélo R3 Ultegra XS,SNR3C13E00291,Cervélo,R3 Ultegra XS,2013,[u'Silver or Gray'],True,"San Francisco,CA,94102",2015-02-25
+40251,2011 Trek Lane,WTU243MW070E,Trek,Lane,2011,[u'Blue'],True,"San Francisco,94110",2015-02-25
+40286,2008 Kona Dawg,H8NM07994,Kona,Dawg,2008,"[u'Blue', u'Black']",True,"San Francisco,94122",2015-02-24
+40205,2012 Specialized Vita,WSBC602284564G,Specialized,Vita,2012,[u'White'],True,"San Francisco,94121",2015-02-24
+40235,2000 Cannondale,577240MB02071,Cannondale,,2000,[u'Green'],True,"Berkeley,94704",2015-02-24
+40174,1989 Schwinn Circuit,absent,Schwinn,Circuit,1989,"[u'Black', u'Silver or Gray']",True,"San Francisco,94118",2015-02-23
+40916,Bianchi Volpe,absent,Bianchi,Volpe,,[u'White'],True,"San Francisco,CA,94109",2015-02-23
+40159,2008 Specialized Tricross Sport Triple,WUD70715317B,Specialized,Tricross Sport Triple,2008,[u'Blue'],True,"San Francisco,94114",2015-02-23
+40187,2006 Jamis Ventura Race Femme,U8YK6024,Jamis,Ventura Race Femme,2006,"[u'White', u'Black', u'Blue']",True,"San Francisco,94107",2015-02-23
+42301,2007 Specialized Tricross Sport,P6EA20378,Specialized,Tricross Sport,2007,[u'Black'],True,"San Francisco,CA,94123",2015-02-22
+40137,2014 PUBLIC bikes V1,WZ5G01479,PUBLIC bikes,V1,2014,[u'Blue'],True,"Oakland,CA,94607",2015-02-22
+40115,2014 Brompton Bicycle folding - racing green,456419,Brompton Bicycle,folding - racing green,2014,[u'Green'],True,San Francisco,2015-02-22
+40087,2012 Felt Z85,FDO4K1744,Felt,Z85,2012,[u'Black'],True,"San Francisco,94122",2015-02-21
+40112,2013 Raleigh Talus 29,U133K00829,Raleigh,Talus 29,2013,[u'Silver or Gray'],True,"Kentfield,CA,94904",2015-02-21
+40067,2014 Raleigh Misceo 2.0 19,U139K02887,Raleigh,Misceo 2.0 19,2014,[u'Black'],True,"San Francisco,CA,94133",2015-02-20
+40046,1999 Cannondale Super V 400,absent,Cannondale,Super V 400,1999,[u'Brown'],True,"San Francisco,94111",2015-02-20
+39949,2012 Tern Link D8,TEG50001,Tern,Link D8,2012,[u'Silver or Gray'],True,"San Francisco,94111",2015-02-18
+40066,2013 Specialized Sirrus Elite,SBC60239335214,Specialized,Sirrus Elite,2013,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-02-18
+40069,2012 Specialized Dolce Comp Apex,WSBC60104d096G,Specialized,Dolce Comp Apex,2012,[u'White'],True,"San Francisco,CA,94110",2015-02-18
+39980,2012 FRW Harder carbon,absent,FRW,Harder carbon,2012,"[u'White', u'Red']",True,"San Francisco,CA,94131",2015-02-18
+49689,1996 Cannondale T-400,absent,Cannondale,T-400,1996,[u'Black'],True,"Alameda,94501",2015-02-18
+39995,2013 Marin Bikes Ravenna,CA12441DS3017,Marin Bikes,Ravenna,2013,"[u'White', u'Teal']",True,"San Francisco,94103",2015-02-17
+44276,2007 Trek 7.3 FX hybrid,WTU024C0325B,Trek,7.3 FX hybrid,2007,[u'Black'],True,"Lafayette,CA,94549",2015-02-16
+39871,2012 Motobecane grantourismo,a50040524,Motobecane,grantourismo,2012,[u'Blue'],True,"San Francisco,94102",2015-02-15
+39876,2014 Specialized Vita,W33C602061254I,Specialized,Vita,2014,[u'White'],True,"San Francisco,94103",2015-02-15
+39855,2004 Specialized Sequoia,absent,Specialized,Sequoia,2004,[u'Silver or Gray'],True,"Oakland,CA,94609",2015-02-14
+39834,1985 Trek 420 - 400 series,590297,Trek,420 - 400 series,1985,[u'Yellow or Gold'],True,"Berkeley,94702",2015-02-14
+39819,2006 Specialized Stumpjumper FSR Comp,M6BJ03842,Specialized,Stumpjumper FSR Comp,2006,[u'Silver or Gray'],True,"San Francisco,CA,94111",2015-02-14
+39869,2009 Stevens primera,s10tegaf0008,Stevens,primera,2009,[u'Blue'],True,"San Francisco,94102",2015-02-14
+39898,2007 Novara Carema,U67P20829,Novara,Carema,2007,[u'Blue'],True,"Oakland,CA,94618",2015-02-14
+39779,2014 Raleigh Talus 2.0,EZ140300428,Raleigh,Talus 2.0,2014,[u'Black'],True,"Berkeley,94706",2015-02-14
+39809,Santa Cruz Blur LT2,absent,Santa Cruz,Blur LT2,,[u'Black'],True,"San Francisco,94133",2015-02-13
+39892,2014 Condor SUPERBIRD S6D 54cm,absent,Condor,SUPERBIRD S6D 54cm,2014,[u'Black'],True,"San Francisco,94117",2015-02-13
+43669,2011 Cannondale Quick 3,QM63529,Cannondale,Quick 3,2011,[u'White'],True,"San Francisco,94110",2015-02-13
+39818,2007 Specialized Epic Marathon,PU406515,Specialized,Epic Marathon,2007,[u'Silver or Gray'],True,"San Francisco,CA,94111",2015-02-13
+39825,K2 Crush,Ick27b3415,K2,Crush,,[u'Orange'],True,Berkeley,2015-02-13
+39917,2009 Novara,absent,Novara,,2009,[u'Blue'],True,"Oakland,94610",2015-02-13
+39808,2009 Specialized Ariel,absent,Specialized,Ariel,2009,"[u'Silver or Gray', u'Black']",True,"San Francisco,94118",2015-02-12
+39721,1983 Cannondale Aluminum Touring/Sport,absent,Cannondale,Aluminum Touring/Sport ,1983,[u'Silver or Gray'],True,"San Francisco,94110",2015-02-11
+39794,2014 Scattante SCX350 CROSS2 2014,aa345501801,Scattante,SCX350 CROSS2 2014,2014,[u'Black'],True,"San Francisco,94108",2015-02-11
+39722,2014 Yeti SB66,3CMFA210099,Yeti,SB66,2014,[u'Yellow or Gold'],True,"South San Francisco,94080",2015-02-10
+39732,Centurion 15 in,1AK17052X,Centurion,15 in,,[u'Blue'],True,"San Francisco,94133",2015-02-10
+39691,2014 Cannondale CAAD 10-3 with aluminum frame,absent,Cannondale,CAAD 10-3 with aluminum frame,2014,[u'Black'],True,San Francisco,2015-02-10
+39696,2014 Cannondale Synapse Carbon 5 105,IM77884,Cannondale,Synapse Carbon 5 105,2014,[u'Black'],True,"San Francisco,94109",2015-02-10
+39688,2011 Giant Avail 1 (White/ Metallic Red/ Silver),GV0E8921,Giant,Avail 1 (White/ Metallic Red/ Silver),2011,[u'White'],True,"San Francisco,94122",2015-02-10
+39910,2014 Cannondale 2014 Caadio-3 ultegra-c,hm 11128,Cannondale,2014 Caadio-3 ultegra-c,2014,[u'Black'],True,"San Francisco,94115",2015-02-09
+39593,2011 Cannondale Quick,ICC011D06015,Cannondale,Quick,2011,[u'Black'],True,"Berkeley,CA,94703",2015-02-09
+28800,2014 Specialized Sirrus Comp Carbon,WSBC605014940I,Specialized,Sirrus Comp Carbon,2014,[u'Silver or Gray'],True,"San Francisco,94105",2015-02-08
+39612,2009 Surly Long Haul Trucker,absent,Surly,Long Haul Trucker,2009,[u'Black'],True,"Oakland,94618",2015-02-08
+39588,1995 Voodoo erzulie,absent,Voodoo,erzulie,1995,[u'Orange'],True,"San Francisco,94114",2015-02-08
+39603,2010 Jamis Ventura Sport,absent,Jamis,Ventura Sport,2010,"[u'Black', u'Blue']",True,"Oakland,94618",2015-02-07
+39586,2011 Norco Bikes XFR 3,AA01155995,Norco Bikes,XFR 3,2011,"[u'Silver or Gray', u'Blue']",True,"Millbrae,94030",2015-02-07
+39541,2009 Bianchi Volpe,absent,Bianchi,Volpe,2009,[u'Blue'],True,"San Francisco,94103",2015-02-06
+39574,2012 Raleigh Capri 2.0,U124K04472,Raleigh,Capri 2.0,2012,[u'White'],True,"San Francisco,94110",2015-02-06
+39538,Trek Allant,absent,Trek,Allant,,[u'Black'],True,"Berkeley,CA,94703",2015-02-06
+39552,DeBernardi Track Bike,absent,DeBernardi,Track Bike,,[u'Red'],True,"San Francisco,94122",2015-02-06
+39587,Schwinn Sprint,absent,Schwinn,Sprint,,[u'Blue'],True,"San Francisco,CA,94107",2015-02-06
+39539,2011 Bianchi Cortina,CX0377052f,Bianchi,Cortina,2011,[u'Blue'],True,"Oakland,94610",2015-02-06
+39589,Bianchi Guss,absent,Bianchi,Guss,,[u'Yellow or Gold'],True,"San Francisco,94105",2015-02-06
+39461,2005 Bianchi 928,absent,Bianchi,928,2005,[u'Black'],True,"Oakland,94618",2015-02-04
+56044,2014 Diamondback Insight,dau13L002027,Diamondback,Insight,2014,[u'Red'],True,Berkeley,2015-02-04
+39641,2010 Marin Bikes MUIRWOODS 29ER,C159LSE317,Marin Bikes,MUIRWOODS 29ER,2010,[u'Black'],True,"Oakland,CA,94618",2015-02-04
+39627,2009 Specialized Sirrus Sport,absent,Specialized,Sirrus Sport,2009,"[u'White', u'Black']",True,"Daly City,94015",2015-02-04
+39392,2004 Specialized Allez Triple,P2HI20031,Specialized,Allez Triple,2004,[u'Black'],True,"San Francisco,94109",2015-02-03
+39436,"2000 Diamondback Response 16""",AC9I05660,Diamondback,"Response 16""",2000,[u'Green'],True,"Albany,94707",2015-02-03
+39368,2001 Ellsworth Truth,absent,Ellsworth,Truth,2001,[u'Blue'],True,"San Francisco,94108",2015-02-02
+39364,2000 Trek 02 2000T,WL120580,Trek,02 2000T,2000,[u'Red'],True,"San Francisco,94109",2015-02-02
+39434,Cannondale M2000 w/ Pepperoni fork,absent,Cannondale,M2000 w/ Pepperoni fork ,,"[u'Black', u'Stickers tape or other cover-up']",True,"San Francisco,CA,94107",2015-02-02
+39371,2013 Raleigh Cadent,U12YK0878,Raleigh,Cadent,2013,"[u'Black', u'Yellow or Gold']",True,"San Francisco,94114",2015-02-02
+39428,Giant,GL075468,Giant,,,[u'Silver or Gray'],True,"San Francisco,94109",2015-02-02
+39502,2005 Specialized Langster,absent,Specialized,Langster,2005,[u'Black'],True,"Berkeley,94703",2015-02-02
+39387,Marin Bikes Muirwoods,absent,Marin Bikes,Muirwoods,,"[u'Black', u'Silver or Gray']",True,"San Francisco,94102",2015-02-02
+39674,2014 Ridley Orion,505855,Ridley,Orion,2014,"[u'Black', u'Blue']",True,"Emeryville,94608",2015-02-02
+39370,2013 Specialized Sirrus,WSBC602241742H,Specialized,Sirrus,2013,[u'Silver or Gray'],True,"San Francisco,94114",2015-02-01
+39899,2012 Trek 1.2,WTU154C6492G,Trek,1.2,2012,"[u'Red', u'White', u'Black']",True,"San Franisco,94105",2015-02-01
+39338,2011 KHS Bicycles KHS Flite 220/223,V10u00006,KHS Bicycles,KHS Flite 220/223,2011,"[u'Blue', u'White']",True,"San Francisco,94110",2015-01-31
+39328,2009 Felt Dispatch,absent,Felt,Dispatch ,2009,[u'Silver or Gray'],True,"San Francisco,04116",2015-01-31
+39307,2014 Pure Fix,absent,Pure Fix,,2014,"[u'Black', u'Purple']",True,"Natoma Street,94103",2015-01-31
+39319,2011 Santa Cruz chameleon,A8030243A,Santa Cruz,chameleon,2011,[u'Red'],True,"San Francisco,94118",2015-01-31
+39321,Specialized Dolce Compact,absent,Specialized,Dolce Compact,,"[u'White', u'Blue']",True,"San Francisco,94103",2015-01-31
+39377,2012 Bianchi,LX0354138G,Bianchi,,2012,"[u'Black', u'Brown']",True,"Oakland,CA,94609",2015-01-30
+39360,IRO Cycles Mark V,absent,IRO Cycles,Mark V,,[u'White'],True,"San Francisco,94105",2015-01-30
+39262,SCOTT Sub 40,TY9G08335,SCOTT,Sub 40,,[u'Black'],True,"San Francisco,94103",2015-01-30
+39226,2012 Linus Roadster Sport 3sp,L2E0300995,Linus,Roadster Sport 3sp,2012,[u'Green'],True,"San Francisco,94102",2015-01-29
+39177,1998 Cannondale Criterium,absent,Cannondale,Criterium ,1998,[u'Red'],True,San Francisco,2015-01-29
+39172,2014 Raleigh Furley,U13XK13794,Raleigh,Furley,2014,[u'Black'],True,"Berkeley,94710",2015-01-28
+39264,2014 Specialized Jett Sport,WSBC602040775J,Specialized,Jett Sport,2014,[u'Black'],True,"San Francisco,94105",2015-01-28
+39179,2006 Giant TCR 1,absent,Giant,TCR 1,2006,"[u'Black', u'Blue', u'White']",True,"San Francisco,94117",2015-01-28
+39243,1997 Cannondale R1000,absent,Cannondale,R1000,1997,[u'Orange'],True,"San Francisco,94111",2015-01-28
+39233,2013 Specialized Vita Elite,WSBC6023592621,Specialized,Vita Elite,2013,[u'Orange'],True,"San Francisco,94114",2015-01-27
+39232,2005 Trek Pilot 5.0,WL3200297,Trek,Pilot 5.0,2005,[u'Blue'],True,"San Francisco,94114",2015-01-27
+39114,2010 Schwinn Searcher,SNIDC10F00588,Schwinn,Searcher,2010,"[u'Teal', u'White']",True,"San Francisco,94103",2015-01-27
+39230,1997 Novara Randonee,7120650,Novara,Randonee,1997,[u'Blue'],True,"San Francisco,94114",2015-01-27
+39421,2013 Trek Madone 2.3 H2 (Compact),WTU166G5266G,Trek,Madone 2.3 H2 (Compact),2013,[u'Blue'],True,"San Francisco,CA,94107",2015-01-26
+39060,2013 Jamis Satellite Comp,U128U18210,Jamis,Satellite Comp,2013,"[u'Blue', u'White']",True,"San Francisco,94109",2015-01-26
+39425,2010 Trek,WTU335G0625E,Trek,,2010,[u'White'],True,"San Francisco,94107",2015-01-26
+39051,2011 Trek 7000 WSD,SWTU126C1264F,Trek,7000 WSD,2011,[u'Silver or Gray'],True,"San Francisco,94107",2015-01-26
+39036,2004 Marin Bikes San Anselmo,C535FSC097,Marin Bikes,San Anselmo,2004,[u'Silver or Gray'],True,"Berkeley,94703",2015-01-25
+38999,2013 Fuji Sportif 1.3 C,FJ224C0602J,Fuji,Sportif 1.3 C,2013,[u'White'],True,"San Francisco,CA,94122",2015-01-25
+39035,2013 Schwinn Voyageur 1,cm13e512060,Schwinn,Voyageur 1,2013,[u'Silver or Gray'],True,"Berkeley,94703",2015-01-25
+40854,2014 Giant Escape 0,CC3S3710,Giant,Escape 0,2014,[u'Black'],True,"San Francisco,94105",2015-01-25
+39059,2013 Specialized Vita Comp,wsbc602214412l,Specialized,Vita Comp,2013,[u'Silver or Gray'],True,"Alameda,CA,94501",2015-01-25
+39106,2015 Specialized Allez Elite,2216085E,Specialized,Allez Elite,2015,[u'White'],True,"San Francisco,94103",2015-01-25
+39054,2010 GT Bicycles,absent,GT Bicycles,,2010,[u'Black'],True,"Oakland,94608",2015-01-25
+38973,1983 Univega Grand Turismo,absent,Univega,Grand Turismo,1983,[u'Blue'],True,"Oakland,94612",2015-01-25
+39034,2013 Cannondale Quick 5,JM97482,Cannondale,Quick 5,2013,[u'Green'],True,"Berkeley,94703",2015-01-24
+38986,2014 Surly Cross-Check,2090134,Surly,Cross-Check,2014,[u'Green'],True,"San Francisco,94110",2015-01-24
+38992,2015 Raleigh Alysa 2,6034119279325190,Raleigh,Alysa 2,2015,"[u'Orange', u'Silver or Gray']",True,"San Francisco,94114",2015-01-24
+38956,Specialized Allez A1 24,absenti,Specialized,Allez A1 24,,[u'Blue'],True,"San Francisco,94110",2015-01-24
+39065,Specialized Crossroads,absent,Specialized,Crossroads,,[u'Purple'],True,"San Francisco,94101",2015-01-23
+39006,2014 Jamis Coda Sport,111441100691,Jamis,Coda Sport,2014,[u'Black'],True,"San Francisco,CA,94117",2015-01-23
+38930,Bianchi osprey,K5933405,Bianchi,osprey,,[u'Black'],True,"Oakland,94609",2015-01-23
+38954,2011 Specialized Dolce Triple,WSBC602342852F,Specialized,Dolce Triple,2011,"[u'Blue', u'White']",True,"Albany,94706",2015-01-23
+38951,2008 Giant Avail 3,absent,Giant,Avail 3,2008,[u'Teal'],True,"San Francisco,94110",2015-01-23
+38879,2015 Cannondale CAAD 10 Ultegra,IM94858,Cannondale,CAAD 10 Ultegra,2015,[u'Black'],True,"San Francisco,94110",2015-01-23
+29011,2014 Bianchi Lupo,wbk734140h,Bianchi,Lupo,2014,[u'Silver or Gray'],True,"Berkeley,CA,94705",2015-01-22
+38981,2012 Giant TCX 1,absent,Giant,TCX 1,2012,"[u'White', u'Black', u'Red']",True,"San Francisco,94103",2015-01-22
+39600,2013 Cannondale Scalpel 29 Er Carbon 2,CDM06D10L12020219,Cannondale,Scalpel 29 Er Carbon 2,2013,"[u'White', u'Black', u'Green']",True,"San Francisco,94114",2015-01-22
+35288,Felt F1X,A402460016,Felt,F1X,,[u'Black'],True,"Berkeley,CA",2015-01-22
+40158,2009 Specialized Tricross Sport Triple,WUD80409472D,Specialized,Tricross Sport Triple,2009,[u'Brown'],True,"San Francisco,94114",2015-01-21
+38961,2015 Salsa Fargo TI,BK4152P,Salsa,Fargo TI,2015,[u'Black'],True,"San Leandro,94577",2015-01-20
+38827,2010 Giant TCX,GF975958,Giant,TCX,2010,[u'Silver or Gray'],True,"San Francisco,94109",2015-01-20
+38692,2014 Motobecane Fantom CX,absent,Motobecane,Fantom CX,2014,[u'Silver or Gray'],True,"San Francisco,94103",2015-01-20
+38594,2014 Specialized Hardrock Sport Disc 29,WSBC6020326761,Specialized,Hardrock Sport Disc 29,2014,"[u'Black', u'Blue', u'Green']",True,"Albany,94706",2015-01-20
+38595,Raleigh Detour,absent,Raleigh,Detour,,[u'Black'],True,San Francisco,2015-01-20
+38721,2013 Leader Bikes 725,absent,Leader Bikes,725,2013,[u'White'],True,"San Francisco,CA,94108",2015-01-20
+38725,Charge Hob 3,hahue03147,Charge,Hob 3,,[u'Green'],True,"Oakland,94608",2015-01-20
+38584,2015 Specialized pitch650b,wsbc606027104j,Specialized,pitch650b,2015,[u'Black'],True,"Berkeley,94709",2015-01-20
+38555,2010 Trek 2.1,absent,Trek,2.1,2010,"[u'Black', u'Blue']",True,"San Francisco,94110",2015-01-19
+38816,2009 Samson Track bike,absent,Samson,Track bike,2009,[u'Black'],True,"Oakland,94601",2015-01-19
+38541,2014 Trek 7.0 FX,292290,Trek,7.0 FX,2014,[u'Silver or Gray'],True,"San Francisco,94117",2015-01-18
+38600,Gunnar Rockhound,L0000053,Gunnar,Rockhound,,[u'Black'],True,"Alameda,94501",2015-01-18
+38531,2012 Cannondale Quick 5,QM52660,Cannondale,Quick 5,2012,[u'White'],True,"San Francisco,CA,94131",2015-01-18
+38554,Specialized Early '90s Aluminum,absent,Specialized,Early '90s Aluminum,,[u'Yellow or Gold'],True,"Oakland,94612",2015-01-18
+38470,2009 Felt MP Felt Cruiser,absent,Felt,MP Felt Cruiser,2009,[u'Green'],True,"Oakland,94618",2015-01-18
+38839,2011 Surly Big Dummy,M11040061,Surly,Big Dummy,2011,[u'Black'],True,"Berkeley,94703",2015-01-17
+42700,2014 Trek 7.2 FX,WTU095C5324H,Trek,7.2 FX,2014,[u'Black'],True,San Francisco,2015-01-17
+38514,2014 Trek 3500,WTU053C7107H,Trek,3500,2014,"[u'Black', u'Orange', u'White']",True,"Walnut Creek,94596",2015-01-17
+38628,2008 Cannondale Six13 Team 2,S016655,Cannondale,Six13 Team 2,2008,[u'Blue'],True,"San Francisco,941114",2015-01-16
+38391,2014 Handsome Cycles Handsome Devil,PHA13030031,Handsome Cycles,Handsome Devil,2014,[u'Blue'],True,"San Francisco,94117",2015-01-15
+38668,2015 Specialized Vita,WSBC602113404J,Specialized,Vita,2015,[u'Purple'],True,"Oakland,CA,94618",2015-01-15
+2426,2008 Trek 520,WL3430767,Trek,520,2008,[u'Black'],True,"Berkeley,CA",2015-01-15
+38353,2014 Cinelli XCR Stainless Steel,absent,Cinelli,XCR Stainless Steel,2014,[u'White'],True,"Berkeley,94710",2015-01-14
+38401,2000 Specialized Jett,absent,Specialized,Jett,2000,"[u'Silver or Gray', u'Black']",True,"San Francisco,CA,94117",2015-01-14
+38434,Giant TCR Aero 1,GQ426526,Giant,TCR Aero 1,,[u'Red'],True,"Berkeley,CA",2015-01-14
+38396,2014 Novara Carema,U12XK59855,Novara,Carema,2014,[u'Teal'],True,"San Francisco,CA,94117",2015-01-14
+38435,2013 Novara Strada,828-905-0003,Novara,Strada,2013,"[u'White', u'Red']",True,"Corte Madera,94925",2015-01-14
+38385,2011 Fuji Absolute 2.0,SIDPE11H00095,Fuji,Absolute 2.0,2011,[u'Black'],True,"San Bruno,CA,94066",2015-01-13
+38342,2014 Giant Defy Composite 3,G73Z0707,Giant,Defy Composite 3,2014,[u'Black'],True,"San Francisco,CA,94103",2015-01-12
+38380,2008 Specialized Safire FSR Comp,absent,Specialized,Safire FSR Comp,2008,[u'Pink'],True,"San Francisco,94117",2015-01-12
+38231,2012 BMC Fs02,H4sf1k0195,BMC,Fs02,2012,[u'Red'],True,"Berkeley,94705",2015-01-12
+38230,2008 Cervélo RS,Snrsc08e0061,Cervélo,RS,2008,[u'Black'],True,"Berkeley,94705",2015-01-11
+38882,2009 Marin Bikes Muirwoods,C159ese176,Marin Bikes,Muirwoods,2009,[u'Black'],True,"Alameda,94501",2015-01-11
+38250,Nishiki MODULUS,WG13488,Nishiki,MODULUS,,"[u'Pink', u'White', u'Teal']",True,"San Francisco,CA,94114",2015-01-11
+32722,2013 Trek 7.4 FX WSD,WTU197C9141G,Trek,7.4 FX WSD,2013,[u'White'],True,"San Francisco,CA,94103",2015-01-11
+38247,2013 Novara Forza,U124K23457,Novara,Forza,2013,[u'White'],True,"San Francisco,CA,94612",2015-01-11
+38240,1999 Cannondale F500,0539,Cannondale,F500,1999,[u'Green'],True,"San Francisco,94117",2015-01-11
+38189,2010 Kona Honky Tonk,F1007C0998,Kona,Honky Tonk,2010,[u'Red'],True,"Oakland,94609",2015-01-10
+38204,2015 Specialized Dolce Compact,WSBC602148027J,Specialized,Dolce Compact,2015,[u'Purple'],True,"San Francisco,94102",2015-01-10
+38295,2011 Specialized Hardrock Disc 29er,w58c602174058f,Specialized,Hardrock Disc 29er,2011,"[u'Blue', u'Black']",True,"Point Richmond,CA,94801",2015-01-10
+38457,Retrospec Beta,absent,Retrospec,Beta,,[u'White'],True,"Berkeley,94704",2015-01-09
+38305,Fairdale Parser-Singlespeed frameset,FP0188,Fairdale,Parser-Singlespeed frameset,,[u'Black'],True,"San Francisco,94110",2015-01-09
+38306,Fetish Attack,absent,Fetish,Attack,,[u'Black'],True,"San Francisco,94110",2015-01-09
+38166,2003 Jamis Eureka,absent,Jamis,Eureka,2003,[u'Green'],True,"San Francisco,94115",2015-01-09
+38207,Trek Alpha,absent,Trek,Alpha,,[u'Blue'],True,"El Cerrito,94530",2015-01-08
+38156,2013 Specialized Venge Comp,WSBC604056166I,Specialized,Venge Comp,2013,[u'Black'],True,"San Francisco,94111",2015-01-08
+38149,1970 Peugeot Mixte,absent,Peugeot,Mixte,1970,[u'White'],True,"San Francisco,CA,94103",2015-01-08
+38195,2013 Soma Double Cross Disc,TSFDCW0037,Soma,Double Cross Disc,2013,[u'Yellow or Gold'],True,"San Francisco,94122",2015-01-08
+38047,2014 Raleigh TALUS 3,U143K07384,Raleigh,TALUS 3,2014,[u'Black'],True,San,2015-01-08
+38128,2014 Cannondale Synapse Carbon 5 105,FM48036,Cannondale,Synapse Carbon 5 105,2014,[u'Black'],True,"San Francisco,94104",2015-01-07
+38052,2014 Trek 7.2 FX,WTU077C1631J,Trek,7.2 FX,2014,[u'Black'],True,"San Francisco,CA,94115",2015-01-07
+38073,2012 Giant Roam 1,C42S7340,Giant,Roam 1,2012,[u'Black'],True,Concord,2015-01-07
+60111,2008 Trek 7.6 FX,WTU244SA0310C,Trek,7.6 FX,2008,[u'White'],True,"San Francisco,94110",2015-01-07
+38135,2006 Jamis Dakar XLT 1.0,U5YK09590 A818-N,Jamis,Dakar XLT 1.0,2006,[u'Silver or Gray'],True,"Emerville,94608",2015-01-07
+37967,2012 Felt BROUGHAM,S2HT03791,Felt,BROUGHAM,2012,[u'Red'],True,"San Francisco,CA,94107",2015-01-06
+41843,Raleigh DETOUR 4.0,1176K01192,Raleigh,DETOUR 4.0,,[u'Pink'],True,"Oakland,94612",2015-01-06
+37961,2015 Specialized VITA,WSBC6020223984J,Specialized,VITA,2015,[u'White'],True,"Berkeley,94710",2015-01-05
+37962,Bianchi Axis,absent,Bianchi,Axis,,[u'Green'],True,"San Francisco,94114",2015-01-05
+38009,"2014 Mahindra GenZe e101 Sport 20""",EGEST14080005,Mahindra GenZe,"e101 Sport 20""",2014,[u'Silver or Gray'],True,"San Francisco,CA,94110",2015-01-04
+43180,2008 Schwinn Madison,SN1DT80101195,Schwinn,Madison,2008,[u'Blue'],True,"Oakland,94607",2015-01-04
+38465,2012 Surly Cross-Check,M11090477,Surly,Cross-Check,2012,[u'Blue'],True,"San Francisco,CA,94110",2015-01-04
+37901,2008 Specialized Langster,absent,Specialized,Langster,2008,[u'Green'],True,"Oakland,94610",2015-01-04
+37853,1970 Schwinn Traveler,absent,Schwinn,Traveler,1970,[u'Red'],True,"Oakland,CA,94612",2015-01-03
+38187,Novara Carema,absent,Novara,Carema,,[u'White'],True,"San Francisco,94112",2015-01-03
+38949,2004 Fuji Team Issue Road 56cm,1f4b09383,Fuji,Team Issue Road 56cm,2004,[u'Red'],True,"San Francisco,94110",2015-01-03
+37873,2013 Fuji Finest 1.1 C,SFJ331lC0227J,Fuji,Finest 1.1 C,2013,[u'Black'],True,"San Francisco,CA,94103",2015-01-03
+37828,2013 Specialized 14 Dolce Comp C2,WSBC6010178691,Specialized,14 Dolce Comp C2,2013,[u'White'],True,"San Francisco,94105",2015-01-03
+37745,1999 Cannondale Raven Super-V 700,absent,Cannondale,Raven Super-V 700,1999,[u'Blue'],True,"San Francisco,94133",2015-01-02
+37880,2012 Cannondale Synapse,RM53080,Cannondale,Synapse,2012,[u'White'],True,"San Francisco,94110",2015-01-02
+37712,1990 ALAN ALAN Anodized Aluminum lugged frame,absent,ALAN,ALAN Anodized Aluminum lugged frame,1990,[u'Blue'],True,"Oakland,CA,94601",2015-01-01
+37842,CBT Italia Castro,absent,CBT Italia,Castro,,[u'Red'],True,"San Francisco,CA,94102",2015-01-01
+38333,2012 Linus Mixte 8,L2E0202025,Linus,Mixte 8,2012,[u'Green'],True,"San Francisco,94102",2015-01-01
