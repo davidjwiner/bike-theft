@@ -2,10 +2,11 @@ import requests
 import json
 import unicodecsv as csv
 import datetime
-from dateutil import parser
 import math
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+
 
 start = 1262419199 #Epoch timestamp for 1/1/2010
 end = 1451635199 #Epoch timestamp for 12/31/2015
@@ -40,10 +41,6 @@ for i in range(145):
     x = json.load(json_file)
     bikes = x['bikes']
     for b in bikes:
-        try:
-            parser.parse(str(b['date_stolen']))
-        except ValueError:
-            continue
         writer.writerow([
             b['id'],
             b['title'],
@@ -54,30 +51,26 @@ for i in range(145):
             b['frame_colors'],
             b['stolen'],
             b['stolen_location'], 
-            parser.parse(str(b['date_stolen']))
+            b['date_stolen']
         ])
 
-#b_data = pd.read_csv("bike-data.csv", parse_dates=['date_stolen'])
-b_data = pd.read_csv("bike-data.csv")
-b_data.head()
+# Plotting—keep in mind only looks like this because bike index gained traction
+
+b_data = pd.read_csv("bike-data.csv", header=0)
+b_data['date_stolen'] = pd.to_datetime(b_data['date_stolen'], utc=True, unit='s')
 b_data = b_data.set_index('date_stolen')
-b_data.index = pd.to_datetime(b_data['date_stolen'])
-#print(b_data)
 
-#monthly = pd.groupby(b_data, pd.TimeGrouper(freq='M')).count()
-#print(monthly.sum())
-#monthly = b_data.resample('M', how='count')
-#plot = monthly.plot(kind='bar', title="Bike thefts by month", legend=None)
-##plot = b_data.plot(title="Bike thefts by month", legend=None)
+monthly = pd.groupby(b_data, pd.TimeGrouper(freq='M')).count()
+monthly = b_data.resample('M').count()
 
-#figure = plot.get_figure()
-#plt.show(block=True)
-#date_group = b_data.groupby('date_stolen')
-#print(date_group.size())
+yearly = pd.groupby(b_data, pd.TimeGrouper(freq='12M')).count()
+yearly = b_data.resample('12M').count()
 
-#b_data.describe()
+fig, ax = plt.subplots(1, 1)
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%m-%Y'))
+ax.bar(monthly.index, monthly['id'], width=10, align='center')
+locs, labels = plt.xticks()
+plt.setp(labels, rotation=40)
 
-#ax = a.plot(x=['Iteration'], kind='line', title='Cost of batch vs. stochastic gradient descent')
-#ax.set_ylabel('Cost')
-#ax.set_xlabel('Iteration')
-#ax.show()
+fig, ax = plt.subplots(1, 1)
+chart = ax.bar(yearly.index, yearly['id'], width=200, align='center', alpha=0.4)
